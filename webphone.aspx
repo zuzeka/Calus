@@ -300,42 +300,36 @@
     <!-- Header Section End -->
 
        
-    <!-- Breadcrumb Section Start -->
-    <div class="section breadcrumb-voip" style="background-color:#006EA1;">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="cr-breadcrumb-area">
-                        <h1 class="title">Web Phones</h1>
-                        <ul class="breadcrumb-list">
-                            <li><a href="index.html">Home</a></li>
-                            <li><span>Web Phones</span></li>
-                        </ul>
+   
+    <!-- Hero/Intro Slider Start -->
+    <div class="section">
+        <div class="hero-slider swiper-container">
+            <div class="swiper-wrapper">
+                <div class="hero-slide-item swiper-slide">
+                    <div class="hero-slide-bg">
+                        <img src="assets/images/request-a-call/logo2.jpg" alt="" />
+                    </div>
+                    <div class="container">
+                        <div class="hero-slide-content">
+                            <h2 class="title">Izwi Webphone</h2>
+                            <p>The Izwi Webphone is a softphone application that turns your computer into a fully-fledged business telephone. 
+                                Enjoy all the features of your business phone system without acquiring a physical phone.</p>
+                        </div>
                     </div>
                 </div>
             </div>
+
+            <div class="swiper-pagination"></div>
         </div>
     </div>
-    <!-- Breadcrumb Section End -->
+    <!-- Hero/Intro Slider End -->
 
        <div class="c-layout">
-
-         <div class="c-layout__row c-layout__row--white c-layout__row--pv0">
-            <div class="c-header c-header--large">
-               <div class="c-layout__container c-header__content">
-                  <div class="c-grid c-grid--halves">
-                     <div class="c-grid__item">
-                        <h1 class="c-heading c-heading--80 u-c-white">Voys Webphone</h1>
-                        <div class="c-paragraph c-paragraph--lead u-c-white">
-                           <p>The Voys Webphone is a softphone application that turns your computer into a fully-fledged business telephone. Enjoy all the features of your business phone system without acquiring a physical phone.</p>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="c-header__background"> <img width="900" height="600" src="https://www.voys.co.za/wp-content/uploads/2020/11/1-2.jpg" class="attachment-full size-full" alt="Voys technician using his computer as a softphone" loading="lazy" srcset="https://www.voys.co.za/wp-content/uploads/2020/11/1-2.jpg 1500w, https://www.voys.co.za/wp-content/uploads/2020/11/1-2-300x160.jpg 300w, https://www.voys.co.za/wp-content/uploads/2020/11/1-2-1024x546.jpg 1024w, https://www.voys.co.za/wp-content/uploads/2020/11/1-2-768x410.jpg 768w, https://www.voys.co.za/wp-content/uploads/2020/11/1-2-100x53.jpg 100w, https://www.voys.co.za/wp-content/uploads/2020/11/1-2-250x133.jpg 250w" sizes="(max-width: 1500px) 100vw, 1500px" data-object-fit="" /></div>
-            </div>
+         <div class="c-layout__row c-layout__row--white c-layout__row--pv0">             
+            <div class="c-header"></div>
          </div>
-         <div class="c-layout__row  c-layout__row--white"></div>
+
+
          <div class="c-layout__row  c-layout__row--primary">
             <div class="c-layout__container u-text-align-center">
                <div class="c-grid c-grid--single">
