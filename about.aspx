@@ -78,8 +78,9 @@
                                         <li><a href="webphone.aspx">Izwi Webphone</a></li>
                                         <li><a href="request-a-quote.aspx">Request a quote</a></li>
                                     </ul>
-                                </li>
-                                <li class="has-children">
+                                </li>                                
+                                <li><a href="about.aspx">About</a></li>
+                                <%--<li class="has-children">
                                     <a href="about.aspx">About</a>
                                     <ul class="sub-menu">
                                         <li><a href="about.aspx">About</a></li>
@@ -89,7 +90,7 @@
                                         <li><a href="#">Reviews</a></li>
                                         <li><a href="#">Blog</a></li>
                                     </ul>
-                                </li>
+                                </li>--%>
                                 <li class="has-children">
                                     <a href="#">Partners</a>
                                     <ul class="sub-menu">
