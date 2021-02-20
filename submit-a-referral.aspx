@@ -394,7 +394,7 @@
 			<div class="row align-items-center footer-bottom">
 				<div class="col-12 text-center">
 					<div class="copyright-content">
-						<p>© 2019 Calus Technologies. Designed &amp; Developed by <a href="https://www.calustechnologies.co.za/" target="_blank">Calus Technologies</a></p>
+						<p>© <script type="text/javascript">document.write(new Date().getFullYear());</script> Calus Technologies. Designed &amp; Developed by <a style="color:#ffffff;" href="https://www.calustechnologies.co.za/" target="_blank">Calus Technologies</a></p>
 					</div>
 				</div>
 			</div>
