@@ -6,9 +6,6 @@
       <title>Business phone system - Izwi offers more features at less costs</title>
 
     <!-- Favicons -->
-    <link rel="shortcut icon" href="assets/images/favicon.ico">
-
-
     <link rel="stylesheet" href="assets/css/vendor.min.css">
     <link rel="stylesheet" href="assets/css/plugins.min.css">
     <link rel="stylesheet" href="assets/css/style.min.css">
@@ -273,7 +270,12 @@
     </div>
     <!-- Breadcrumb Section End -->
 
+       <div class="c-layout">
 
+         <div class="c-layout__row c-layout__row--white c-layout__row--pv0">
+             
+            <div class="c-header"></div>
+         </div>
 	   <div class="c-layout__row section-padding">
 		   <div class="c-layout__container c-layout__container--flexbox">
 			   <div class="c-grid c-grid--side">
@@ -1390,6 +1392,7 @@
 			</div>
 		</div>
 	</div>
+           </div>
          
 	<!-- Footer Top Start -->
 	<footer class="section single-footer" style="background-color: #f4f3f8">

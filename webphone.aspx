@@ -12,23 +12,23 @@
 
       <link rel="shortcut icon" href="/favicon.ico?new" />
       <link rel="apple-touch-icon-precomposed" href="/apple-icon.png" />
-      <title>VoIP App - Attend to your business calls globally with the Voys 4G-app</title>
-      <meta name="description" content="A VoIP app for smartphones (Android &amp; iOS) that sets you free. Serve clients with your office number from anywhere in the world. Freedom is Calling!"/>
+      <title>Softphone - The Voys Webphone turns your computer into a telephone</title>
+      <meta name="description" content="The Voys Webphone is a softphone application that turns your computer into telephone. Use your business phone system without acquiring any extra hardware."/>
       <meta name="robots" content="noodp"/>
-      <link rel="canonical" href="https://www.voys.co.za/pabx-phone-system/voip-app/" />
+      <link rel="canonical" href="https://www.voys.co.za/pabx-phone-system/softphone-for-business/" />
       <meta property="og:locale" content="en_US" />
       <meta property="og:type" content="article" />
-      <meta property="og:title" content="VoIP App - Attend to your business calls globally with the Voys 4G-app" />
-      <meta property="og:description" content="A VoIP app for smartphones (Android &amp; iOS) that sets you free. Serve clients with your office number from anywhere in the world. Freedom is Calling!" />
-      <meta property="og:url" content="https://www.voys.co.za/pabx-phone-system/voip-app/" />
+      <meta property="og:title" content="Softphone - The Voys Webphone turns your computer into a telephone" />
+      <meta property="og:description" content="The Voys Webphone is a softphone application that turns your computer into telephone. Use your business phone system without acquiring any extra hardware." />
+      <meta property="og:url" content="https://www.voys.co.za/pabx-phone-system/softphone-for-business/" />
       <meta property="og:site_name" content="Voys" />
       <meta property="article:publisher" content="https://www.facebook.com/voyssa/" />
       <meta name="twitter:card" content="summary" />
-      <meta name="twitter:description" content="A VoIP app for smartphones (Android &amp; iOS) that sets you free. Serve clients with your office number from anywhere in the world. Freedom is Calling!" />
-      <meta name="twitter:title" content="VoIP App - Attend to your business calls globally with the Voys 4G-app" />
+      <meta name="twitter:description" content="The Voys Webphone is a softphone application that turns your computer into telephone. Use your business phone system without acquiring any extra hardware." />
+      <meta name="twitter:title" content="Softphone - The Voys Webphone turns your computer into a telephone" />
       <meta name="twitter:site" content="@voyssa" />
       <meta name="twitter:creator" content="@voyssa" />
-      <meta property="DC.date.issued" content="2016-02-22T12:44:01+02:00" />
+      <meta property="DC.date.issued" content="2020-05-06T16:54:24+02:00" />
       <link rel='dns-prefetch' href='//js.hs-scripts.com' />
       <link rel='dns-prefetch' href='//code.jquery.com' />
       <link rel='dns-prefetch' href='//s.w.org' />
@@ -36,10 +36,49 @@
       <script type='text/javascript' src='//code.jquery.com/jquery-2.2.4.min.js' id='jquery-js'></script> 
       <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.voys.co.za/xmlrpc.php?rsd" />
       <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.voys.co.za/wp-includes/wlwmanifest.xml" />
-      
+      <link rel='shortlink' href='https://www.voys.co.za/?p=11022' />
+      <script type="text/javascript">var _hsq = _hsq || [];
+		  _hsq.push(["setContentType", "standard-page"]);
+	  </script>  <script>(function () {
+						 var hbspt = window.hbspt = window.hbspt || {};
+						 hbspt.forms = hbspt.forms || {};
+						 hbspt._wpFormsQueue = [];
+						 hbspt.enqueueForm = function (formDef) {
+							 if (hbspt.forms && hbspt.forms.create) {
+								 hbspt.forms.create(formDef);
+							 } else {
+								 hbspt._wpFormsQueue.push(formDef);
+							 }
+						 }
+						 if (!window.hbspt.forms.create) {
+							 Object.defineProperty(window.hbspt.forms, 'create', {
+								 configurable: true,
+								 get: function () {
+									 return hbspt._wpCreateForm;
+								 },
+								 set: function (value) {
+									 hbspt._wpCreateForm = value;
+									 while (hbspt._wpFormsQueue.length) {
+										 var formDef = hbspt._wpFormsQueue.shift();
+										 if (!document.currentScript) {
+											 var formScriptId = 'leadin-forms-v2-js';
+											 hubspot.utils.currentScript = document.getElementById(formScriptId);
+										 }
+										 hbspt._wpCreateForm.call(hbspt.forms, formDef);
+									 }
+								 },
+							 });
+						 }
+					 })();
+	  </script> <script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-K6ZL3VM'); (function (i, s, o, g, r, a, m) { i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m) })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga'); ga('create', 'UA-41912122-1', 'auto'); ga('send', 'pageview');</script>  <script>!function (f, b, e, v, n, t, s) { if (f.fbq) return; n = f.fbq = function () { n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments) }; if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0; t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s) }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '1053827518010898'); fbq('track', 'PageView');</script> 
+      <noscript><img height="1" width="1" style="display:none"  src="https://www.facebook.com/tr?id=1053827518010898&ev=PageView&noscript=1 https://www.facebook.com/tr?id=1053827518010898&ev=PageView&noscript=1 " /></noscript>
+      <script>var hasMarketing = localStorage.getItem('cookieMarketing');
+		  if (hasMarketing === 'true') {
+		  }
+	  </script> 
    </head>
    <body>
-          
+       
     <!-- Header Section Start -->
     <div class="header section">
 
@@ -261,61 +300,37 @@
     <!-- Header Section End -->
 
 
-    <!-- Hero/Intro Slider Start -->
-       
+
       <div class="c-layout">
-    <div class="section">
-        <div class="hero-slider swiper-container">
-            <div class="swiper-wrapper">
-                <div class="hero-slide-item swiper-slide">
-                    <div class="hero-slide-bg">
-                        <img src="assets/images/slider/slide-1.jpg" alt="" />
-                    </div>
-                    <div class="container">
-                        <div class="hero-slide-content">
-                            <h2 class="title">Izwi 4G App</h2>
-                            <p>A complete phone system in your pocket with the Izwi 4G app for smartphones. Available on Android and iOS.</p>
-                            <a href="tour.aspx" style="background-color: #006EA1; border-color: #006EA1;" class="btn btn-hover-secondary btn-primary">Product tour</a>
+
+         <div class="c-layout__row c-layout__row--white c-layout__row--pv0">
+            <div class="c-header c-header--large">
+               <div class="c-layout__container c-header__content">
+                  <div class="c-grid c-grid--halves">
+                     <div class="c-grid__item">
+                        <h1 class="c-heading c-heading--80 u-c-white">Voys Webphone</h1>
+                        <div class="c-paragraph c-paragraph--lead u-c-white">
+                           <p>The Voys Webphone is a softphone application that turns your computer into a fully-fledged business telephone. Enjoy all the features of your business phone system without acquiring a physical phone.</p>
                         </div>
-                    </div>
-                </div>
-                <div class="hero-slide-item swiper-slide">
-                    <div class="hero-slide-bg">
-                        <img src="https://www.voys.co.za/wp-content/uploads/2016/02/hiking-voys-app-work-anywhere.jpg" alt="" />
-                    </div>
-                    <div class="container">
-                        <div class="hero-slide-content">
-                            <span class="sub-title">Best Construction Company</span>
-                            <h2 class="title"> Build Your <br /> Dream Home </h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sedlo eiusmod tempor incididunt ut labore et dolore.</p>
-                            <a href="contact.aspx" class="btn btn-primary btn-hover-light">Contact Us</a>
-                        </div>
-                    </div>
-                </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="c-header__background"> <img width="1500" height="800" src="https://www.voys.co.za/wp-content/uploads/2020/11/1-2.jpg" class="attachment-full size-full" alt="Voys technician using his computer as a softphone" loading="lazy" srcset="https://www.voys.co.za/wp-content/uploads/2020/11/1-2.jpg 1500w, https://www.voys.co.za/wp-content/uploads/2020/11/1-2-300x160.jpg 300w, https://www.voys.co.za/wp-content/uploads/2020/11/1-2-1024x546.jpg 1024w, https://www.voys.co.za/wp-content/uploads/2020/11/1-2-768x410.jpg 768w, https://www.voys.co.za/wp-content/uploads/2020/11/1-2-100x53.jpg 100w, https://www.voys.co.za/wp-content/uploads/2020/11/1-2-250x133.jpg 250w" sizes="(max-width: 1500px) 100vw, 1500px" data-object-fit="" /></div>
             </div>
-
-            <div class="swiper-pagination"></div>
-
-            <div class="home-slider-prev swiper-button-prev main-slider-nav"><i class="fa fa-angle-left"></i></div>
-            <div class="home-slider-next swiper-button-next main-slider-nav"><i class="fa fa-angle-right"></i></div>
-        </div>
-    </div>
-    <!-- Hero/Intro Slider End -->
-
-
+         </div>
          <div class="c-layout__row  c-layout__row--white"></div>
          <div class="c-layout__row  c-layout__row--primary">
             <div class="c-layout__container u-text-align-center">
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
-                     <h2 class="c-heading c-heading--50">Work from anywhere with our VoIP app!</h2>
+                     <h2 class="c-heading c-heading--50">Softphone included in all subscriptions</h2>
                   </div>
                </div>
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
                      <div class="u-content">
-                        <p><a href="https://www.voys.co.za/contact/request-a-quote/">Sign up now</a> and start working from any location. Already have an account with us? Follow the link below to configure the app, or give us a call on 021 012 5000 for assistance.</p>
-                        <p><a href="http://help.voys.co.za/voys-freedom/great-to-know/the-voys-4g-app" class="c-button ">Install 4G app</a></p>
+                        <p><a href="https://www.voys.co.za/contact/request-a-quote/">Sign up now</a> <span style="font-weight: 400;">and start using the Voys Webphone. Already have an account? Follow the link below to learn how you can set up your softphone, or give us a call on 021 012 5000 for assistance.</span></p>
+                        <p><a href="http://help.voys.co.za/en/articles/3804767-webphone-setup" class="c-button ">How to set up your Webphone</a></p>
                      </div>
                   </div>
                </div>
@@ -325,25 +340,24 @@
             <div class="c-layout__container ">
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
-                     <h2 class="c-heading c-heading--50">Location independent calling</h2>
+                     <h2 class="c-heading c-heading--50">Your computer as a softphone</h2>
                   </div>
                </div>
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
                      <div class="u-content">
-                        <h2>The Voys 4G app</h2>
-                        <p class="c-paragraph c-paragraph--lead"><span>The Voys 4G app is a </span><a href="https://www.voys.co.za/blog/softphones-the-good-the-bad-the-ugly/" target="_blank" rel="noopener">softphone application</a><span> that turns your mobile phone into a fully-fledged business telephone. Carry all the features of your business phone system in your pocket. With the Voys 4G app, your office phone goes wherever you go. Why stay confined to the office when you can work from home or your favourite coffee shop? Leave your deskphone at the office and work how you want, where you want</span>.</p>
-                        <p>Become a Voys customer and use our VoIP app on your Android or iOS smartphone. Serve clients who call your office in Johannesburg, while you&#8217;re sipping cocktails on a beach in Thailand. Anything is possible! Sign up for as little as R70 per month for a (non-)geographic phone number and gain access to our VoIP app, webphone, self-service web portal, and browser plugin.</p>
-                        <h2>The advantages of using our VoIP app as a softphone</h2>
+                        <h2>Voys Webphone</h2>
+                        <p class="c-paragraph c-paragraph--lead"> The Voys Webphone is a <a href="https://www.voys.co.za/blog/softphones-the-good-the-bad-the-ugly/" target="_blank" rel="noopener">softphone application</a> <span style="font-weight: 400;">that turns your computer into a fully-fledged business telephone. Enjoy all the features of your business phone system conveniently from your browser. With the Voys Webphone, your office phone goes wherever your computer goes. Why stay confined to the office when you can work from home or your favourite coffee shop? Leave your desk phone at work and take your laptop with you. Work how you want, where you want.</span></p>
+                        <p><span style="font-weight: 400;">Stay available on your office phone number, no matter where you are in the world. Serve clients who call your office in Bloemfontein, while you&#8217;re visiting your grandma in Kazakhstan. Anything is possible! Sign up for as little as R70 per month for a (non-)geographic phone number and gain access to our Webphone, 4G app, self-service web portal, and browser plugin.</span></p>
+                        <h2>Advantages of our softphone application</h2>
                         <ul class="list">
-                           <li>Call with your office number from anywhere.</li>
-                           <li>Your customers only see your office number and no longer your private cell number.</li>
+                           <li>Call with your office number from wherever your computer is.</li>
+                           <li>Easily work from home without lugging extra hardware.</li>
                            <li>No more cell reimbursements for business calls. Everything conveniently billed on one company invoice.</li>
                            <li>Update the telephonic availability of your business in real-time wherever you are.</li>
-                           <li>With the VoIP app you no longer pay for forwarded calls.</li>
                         </ul>
-                        <h2>The disadvantages of using softphones</h2>
-                        <p><span>Softphones make a great addition to your business phone system, but they do have limitations. </span><a href="https://www.voys.co.za/pabx-phone-system/softphone-for-business/" target="_blank" rel="noopener">Read about the good, the bad, and the ugly of softphones here.</a></p>
+                        <h2>Disadvantages of using softphones</h2>
+                        <p>Softphones make a great addition to your business phone system, but they do have limitations. <a href="https://www.voys.co.za/pabx-phone-system/softphone-for-business/" target="_blank" rel="noopener">Read about the good, the bad, and the ugly of softphones here.</a></p>
                      </div>
                   </div>
                </div>
@@ -358,7 +372,7 @@
             <div class="c-layout__container ">
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
-                     <h2 class="c-heading c-heading--50">Voys: The telephone service provider for businesses.</h2>
+                     <h2 class="c-heading c-heading--50">Voys: The telephone service provider for businesses</h2>
                   </div>
                </div>
                <div class="c-grid c-grid--single">
@@ -380,13 +394,13 @@
             <div class="c-layout__container u-text-align-center">
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
-                     <h2 class="c-heading c-heading--50">Ready for telephonic freedom?</h2>
+                     <h2 class="c-heading c-heading--50">Ready for real telephone freedom?</h2>
                   </div>
                </div>
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
                      <div class="u-content">
-                        <p>Enjoy the benefits of our app! Sign up and download the app from the AppStore or Playstore. Want a little more information? Give us a call on 021 012 5000, or send us a quote request.</p>
+                        <p>Enjoy the benefits of our softphone application! Sign up now and get the Voys Webphone for free. Want a little more information? Give us a call on 021 012 5000, or send us a quote request.</p>
                      </div>
                   </div>
                </div>
@@ -397,10 +411,102 @@
                   </div>
                </div>
             </div>
-         </div>         
+         </div>
+         <div class="c-layout__row c-layout__row--neutral">
+            <div class="c-layout__container">
+               <div class="c-footer">
+                  <div class="c-footer__logo"> <a href="/"><img src="https://www.voys.co.za/wp-content/themes/voys/assets/images/logo-voys-flat.svg" alt="Voys" /></a></div>
+                  <ul class="c-footer__navigation">
+                     <li id="menu-item-7074" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7074"><a href="https://www.voys.co.za/terms-and-conditions/">Terms &#038; Conditions</a></li>
+                  </ul>
+                  <div class="c-footer__body">
+                     <p>Call us on 021 012 5000 or email your enquiry to <a href="mailto:info@voys.co.za">info@voys.co.za</a>.</p>
+                     </p> 
+                     <a class="c-footer__body--link" href="https://creativecommons.org/licenses/by/4.0/">
+                        <span class="c-icon">
+                           <svg>
+                              <use xlink:href="#cc" />
+                           </svg>
+                        </span>
+                        Creative Commons License
+                     </a>
+                     </p>
+                  </div>
+                  <ul class="c-footer__icons">
+                     <li>
+                        <a target="_blank" href="https://www.linkedin.com/company/voys-telecom-south-africa">
+                           <svg>
+                              <use xlink:href="#icon-linkedin" />
+                           </svg>
+                        </a>
+                     </li>
+                     <li>
+                        <a target="_blank" href="https://twitter.com/voyssa">
+                           <svg>
+                              <use xlink:href="#icon-twitter" />
+                           </svg>
+                        </a>
+                     </li>
+                     <li>
+                        <a target="_blank" href="https://www.facebook.com/voyssa">
+                           <svg>
+                              <use xlink:href="#icon-facebook" />
+                           </svg>
+                        </a>
+                     </li>
+                  </ul>
+               </div>
+            </div>
+         </div>
       </div>
-     
+      <script type='text/javascript' id='leadin-script-loader-js-js-extra'>var leadin_wordpress = { "userRole": "visitor", "pageType": "page", "leadinPluginVersion": "7.51.34" };</script> <script type='text/javascript' src='https://js.hs-scripts.com/5604529.js?integration=WordPress' async defer id='hs-script-loader'></script> <script type='text/javascript' src='https://www.voys.co.za/wp-content/plugins/gravityforms/js/jquery.json.min.js' id='gform_json-js'></script> <script type='text/javascript' id='gform_gravityforms-js-extra'>var gf_global = { "gf_currency_config": { "name": "South African Rand", "symbol_left": "R", "symbol_right": "", "symbol_padding": "", "thousand_separator": ",", "decimal_separator": ".", "decimals": 2 }, "base_url": "https:\/\/www.voys.co.za\/wp-content\/plugins\/gravityforms", "number_formats": [], "spinnerUrl": "https:\/\/www.voys.co.za\/wp-content\/plugins\/gravityforms\/images\/spinner.gif" };</script> 
+      <div class="l-navigation-mobile u-display-none">
+         <ul class="l-navigation-mobile__items">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7144">
+               <a href="https://www.voys.co.za/voip/">VoIP</a>
+               <ul class='sub-menu'>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9404"><a href="https://www.voys.co.za/voip/">What is VoIP</a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-7176"><a href="https://www.voys.co.za/pabx-phone-system/">Phone system</a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7155"><a href="https://www.voys.co.za/voip/phone-number/">Phone numbers</a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7145"><a href="https://www.voys.co.za/voip/phones/">VoIP Phones</a></li>
+               </ul>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-24"><a href="https://www.voys.co.za/pabx-phone-system/">Tour</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-3606">
+               <a href="https://www.voys.co.za/business-phone-system-features-pricing/">Features and pricing</a>
+               <ul class='sub-menu'>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6942"><a href="https://www.voys.co.za/business-phone-system-features-pricing/">Features and pricing</a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9298"><a href="https://www.voys.co.za/business-phone-system-features-pricing/call-rates/">Local call rates</a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9246"><a href="https://www.voys.co.za/business-phone-system-features-pricing/international-call-rates/">International call rates</a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7131"><a href="https://www.voys.co.za/pabx-phone-system/voip-app/">Voys 4G-app</a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11022 current_page_item menu-item-11081"><a href="https://www.voys.co.za/pabx-phone-system/softphone-for-business/">Voys Webphone</a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6941"><a href="https://www.voys.co.za/contact/request-a-quote/">Request a quote</a></li>
+               </ul>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3554">
+               <a href="https://www.voys.co.za/telecom-company-south-africa/">About</a>
+               <ul class='sub-menu'>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6943"><a href="https://www.voys.co.za/telecom-company-south-africa/">About</a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9890"><a href="https://www.voys.co.za/telecom-company-south-africa/team/">Team</a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6933"><a href="https://www.voys.co.za/telecom-company-south-africa/voys-model/">Company Culture</a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7587"><a href="https://www.voys.co.za/telecom-company-south-africa/were-hiring/">We&#8217;re hiring</a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7100"><a href="https://www.voys.co.za/telecom-company-south-africa/voip-service-providers/">Reviews</a></li>
+                  <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7475"><a href="https://www.voys.co.za/blog/">Blog</a></li>
+               </ul>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11366">
+               <a href="https://www.voys.co.za/business-phone-system-features-pricing/reseller-programs/">Partners</a>
+               <ul class='sub-menu'>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11367"><a href="https://www.voys.co.za/business-phone-system-features-pricing/reseller-programs/white-label-reseller-opportunities/">Reseller Program</a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11368"><a href="https://www.voys.co.za/business-phone-system-features-pricing/reseller-programs/referral-program/">Referral Program</a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11369"><a href="https://www.voys.co.za/friend-of-voys/">Submit a Referral</a></li>
+               </ul>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://www.voys.co.za/contact/">Contact</a></li>
+         </ul>
+      </div>
        
+    
         <!-- Footer Top Start -->
 	<footer class="section single-footer" style="background-color: #f4f3f8">
 		<div class="footer-top">
@@ -460,6 +566,9 @@
     <script src="assets/js/plugins.min.js"></script>
 
 
+
+    <!--Main JS-->
+    <script src="assets/js/main.js"></script>
       <script defer src="https://www.voys.co.za/wp-content/cache/autoptimize/autoptimize_36f12dcff73e51a06541db68853ac53f.php"></script>
    </body>
 </html>

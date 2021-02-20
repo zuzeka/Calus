@@ -297,7 +297,12 @@
 
     </div>
     <!-- Header Section End -->
+       <div class="c-layout">
 
+         <div class="c-layout__row c-layout__row--white c-layout__row--pv0">
+             
+            <div class="c-header"></div>
+         </div>
          <div class="c-layout__row">
             <div class="c-layout__container c-layout__container--flexbox">
                <div class="c-grid c-grid--side">
@@ -1410,6 +1415,7 @@
                </div>
             </div>
          </div>
+           </div>
        
         <!-- Footer Top Start -->
 	<footer class="section single-footer" style="background-color: #f4f3f8">
