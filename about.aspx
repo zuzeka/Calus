@@ -239,7 +239,7 @@
     <!-- Header Section End -->
 
     <!-- Breadcrumb Section Start -->
-    <div class="section breadcrumb-bg">
+    <div class="section breadcrumb-bg" style="background-color:#006EA1;">
         <div class="container">
             <div class="row">
                 <div class="col-12">

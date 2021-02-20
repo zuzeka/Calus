@@ -329,24 +329,6 @@
             <div class="c-header"></div>
          </div>
 
-
-         <div class="c-layout__row  c-layout__row--primary">
-            <div class="c-layout__container u-text-align-center">
-               <div class="c-grid c-grid--single">
-                  <div class="c-grid__item">
-                     <h2 class="c-heading c-heading--50">Softphone included in all subscriptions</h2>
-                  </div>
-               </div>
-               <div class="c-grid c-grid--single">
-                  <div class="c-grid__item">
-                     <div class="u-content">
-                        <p><a href="https://www.voys.co.za/contact/request-a-quote/">Sign up now</a> <span style="font-weight: 400;">and start using the Voys Webphone. Already have an account? Follow the link below to learn how you can set up your softphone, or give us a call on 021 012 5000 for assistance.</span></p>
-                        <p><a href="http://help.voys.co.za/en/articles/3804767-webphone-setup" class="c-button ">How to set up your Webphone</a></p>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
          <div class="c-layout__row  c-layout__row--white">
             <div class="c-layout__container ">
                <div class="c-grid c-grid--single">
@@ -378,7 +360,26 @@
                   </div>
                </div>
             </div>
+         </div>           
+
+         <div class="c-layout__row  c-layout__row--primary">
+            <div class="c-layout__container u-text-align-center">
+               <div class="c-grid c-grid--single">
+                  <div class="c-grid__item">
+                     <h2 class="c-heading c-heading--50">Softphone included in all subscriptions</h2>
+                  </div>
+               </div>
+               <div class="c-grid c-grid--single">
+                  <div class="c-grid__item">
+                     <div class="u-content">
+                        <p><a href="https://www.voys.co.za/contact/request-a-quote/">Sign up now</a> <span style="font-weight: 400;">and start using the Voys Webphone. Already have an account? Follow the link below to learn how you can set up your softphone, or give us a call on 021 012 5000 for assistance.</span></p>
+                        <p><a href="http://help.voys.co.za/en/articles/3804767-webphone-setup" class="c-button ">How to set up your Webphone</a></p>
+                     </div>
+                  </div>
+               </div>
+            </div>
          </div>
+
          <div class="c-layout__row  c-layout__row--neutral">
             <div class="c-layout__container ">
                <div class="c-grid c-grid--single">
