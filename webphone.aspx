@@ -299,8 +299,26 @@
     </div>
     <!-- Header Section End -->
 
+       
+    <!-- Breadcrumb Section Start -->
+    <div class="section breadcrumb-voip" style="background-color:#006EA1;">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="cr-breadcrumb-area">
+                        <h1 class="title">Web Phones</h1>
+                        <ul class="breadcrumb-list">
+                            <li><a href="index.html">Home</a></li>
+                            <li><span>Web Phones</span></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Breadcrumb Section End -->
 
-      <div class="c-layout">
+       <div class="c-layout">
 
          <div class="c-layout__row c-layout__row--white c-layout__row--pv0">
             <div class="c-header c-header--large">
@@ -314,7 +332,7 @@
                      </div>
                   </div>
                </div>
-               <div class="c-header__background"> <img width="1500" height="800" src="https://www.voys.co.za/wp-content/uploads/2020/11/1-2.jpg" class="attachment-full size-full" alt="Voys technician using his computer as a softphone" loading="lazy" srcset="https://www.voys.co.za/wp-content/uploads/2020/11/1-2.jpg 1500w, https://www.voys.co.za/wp-content/uploads/2020/11/1-2-300x160.jpg 300w, https://www.voys.co.za/wp-content/uploads/2020/11/1-2-1024x546.jpg 1024w, https://www.voys.co.za/wp-content/uploads/2020/11/1-2-768x410.jpg 768w, https://www.voys.co.za/wp-content/uploads/2020/11/1-2-100x53.jpg 100w, https://www.voys.co.za/wp-content/uploads/2020/11/1-2-250x133.jpg 250w" sizes="(max-width: 1500px) 100vw, 1500px" data-object-fit="" /></div>
+               <div class="c-header__background"> <img width="900" height="600" src="https://www.voys.co.za/wp-content/uploads/2020/11/1-2.jpg" class="attachment-full size-full" alt="Voys technician using his computer as a softphone" loading="lazy" srcset="https://www.voys.co.za/wp-content/uploads/2020/11/1-2.jpg 1500w, https://www.voys.co.za/wp-content/uploads/2020/11/1-2-300x160.jpg 300w, https://www.voys.co.za/wp-content/uploads/2020/11/1-2-1024x546.jpg 1024w, https://www.voys.co.za/wp-content/uploads/2020/11/1-2-768x410.jpg 768w, https://www.voys.co.za/wp-content/uploads/2020/11/1-2-100x53.jpg 100w, https://www.voys.co.za/wp-content/uploads/2020/11/1-2-250x133.jpg 250w" sizes="(max-width: 1500px) 100vw, 1500px" data-object-fit="" /></div>
             </div>
          </div>
          <div class="c-layout__row  c-layout__row--white"></div>
@@ -408,52 +426,6 @@
                      <p> <a class="c-button c-button--neutral"
                         href="https://www.voys.co.za/contact/request-a-quote/">Request a quote</a></p>
                   </div>
-               </div>
-            </div>
-         </div>
-         <div class="c-layout__row c-layout__row--neutral">
-            <div class="c-layout__container">
-               <div class="c-footer">
-                  <div class="c-footer__logo"> <a href="/"><img src="https://www.voys.co.za/wp-content/themes/voys/assets/images/logo-voys-flat.svg" alt="Voys" /></a></div>
-                  <ul class="c-footer__navigation">
-                     <li id="menu-item-7074" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7074"><a href="https://www.voys.co.za/terms-and-conditions/">Terms &#038; Conditions</a></li>
-                  </ul>
-                  <div class="c-footer__body">
-                     <p>Call us on 021 012 5000 or email your enquiry to <a href="mailto:info@voys.co.za">info@voys.co.za</a>.</p>
-                     </p> 
-                     <a class="c-footer__body--link" href="https://creativecommons.org/licenses/by/4.0/">
-                        <span class="c-icon">
-                           <svg>
-                              <use xlink:href="#cc" />
-                           </svg>
-                        </span>
-                        Creative Commons License
-                     </a>
-                     </p>
-                  </div>
-                  <ul class="c-footer__icons">
-                     <li>
-                        <a target="_blank" href="https://www.linkedin.com/company/voys-telecom-south-africa">
-                           <svg>
-                              <use xlink:href="#icon-linkedin" />
-                           </svg>
-                        </a>
-                     </li>
-                     <li>
-                        <a target="_blank" href="https://twitter.com/voyssa">
-                           <svg>
-                              <use xlink:href="#icon-twitter" />
-                           </svg>
-                        </a>
-                     </li>
-                     <li>
-                        <a target="_blank" href="https://www.facebook.com/voyssa">
-                           <svg>
-                              <use xlink:href="#icon-facebook" />
-                           </svg>
-                        </a>
-                     </li>
-                  </ul>
                </div>
             </div>
          </div>

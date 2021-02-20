@@ -314,19 +314,11 @@
         </div>
     </div>
     <!-- Breadcrumb Section End -->
+          
+       <div class="c-layout">
 
-
-         <div class="c-layout__row c-layout__row--white c-layout__row--pv0">
-            <div class="c-layout__container c-layout__container--pv0 c-layout__container--phm0">
-               <div class="c-header">
-                  <div class="c-header__background"> <img width="1440" height="400" src="https://www.voys.co.za/wp-content/uploads/2016/04/header_hq_overleg_1900w-1440x400.jpg" class="attachment-l-header--large size-l-header--large" alt="" loading="lazy" data-object-fit="" /></div>
-               </div>
-            </div>
-         </div>
-         <div class="c-layout__row c-layout__row--pv0">
-            <div class="c-layout__container c-layout__container--pv0 c-layout__container--phm0">
-               <div class="l-navigation-sub--wrapper u-text-align-center"></div>
-            </div>
+         <div class="c-layout__row c-layout__row--white c-layout__row--pv0">             
+            <div class="c-header"></div>
          </div>
          <div class="c-layout__row  c-layout__row--white">
             <div class="c-layout__container ">
@@ -8279,6 +8271,7 @@
                </div>
             </div>
          </div>
+          </div>
              
         <!-- Footer Top Start -->
 	<footer class="section single-footer" style="background-color: #f4f3f8">

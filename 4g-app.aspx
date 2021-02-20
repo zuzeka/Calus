@@ -259,11 +259,30 @@
 
     </div>
     <!-- Header Section End -->
-
-
-    <!-- Hero/Intro Slider Start -->
        
-      <div class="c-layout">
+    <!-- Breadcrumb Section Start -->
+    <div class="section breadcrumb-voip" style="background-color:#006EA1;">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="cr-breadcrumb-area">
+                        <h1 class="title">International Call Rates</h1>
+                        <ul class="breadcrumb-list">
+                            <li><a href="index.html">Home</a></li>
+                            <li><span>International Call Rates</span></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Breadcrumb Section End -->
+          
+       <div class="c-layout">
+
+         <div class="c-layout__row c-layout__row--white c-layout__row--pv0">             
+            <div class="c-header"></div>
+         </div>
     <div class="section">
         <div class="hero-slider swiper-container">
             <div class="swiper-wrapper">

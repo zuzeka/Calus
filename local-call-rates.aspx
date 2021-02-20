@@ -312,14 +312,10 @@
         </div>
     </div>
     <!-- Breadcrumb Section End -->
+          <div class="c-layout">
 
-
-         <div class="c-layout__row c-layout__row--white c-layout__row--pv0">
-            <div class="c-layout__container c-layout__container--pv0 c-layout__container--phm0">
-               <div class="c-header">
-                  <div class="c-header__background"> <img width="1440" height="303" src="https://www.voys.co.za/wp-content/uploads/2016/05/Giving-his-client-some-feedback-on-their-designs-000067351941_1900x400.jpg" class="attachment-l-header--large size-l-header--large" alt="" loading="lazy" srcset="https://www.voys.co.za/wp-content/uploads/2016/05/Giving-his-client-some-feedback-on-their-designs-000067351941_1900x400.jpg 1900w, https://www.voys.co.za/wp-content/uploads/2016/05/Giving-his-client-some-feedback-on-their-designs-000067351941_1900x400-300x63.jpg 300w, https://www.voys.co.za/wp-content/uploads/2016/05/Giving-his-client-some-feedback-on-their-designs-000067351941_1900x400-768x162.jpg 768w, https://www.voys.co.za/wp-content/uploads/2016/05/Giving-his-client-some-feedback-on-their-designs-000067351941_1900x400-1024x216.jpg 1024w, https://www.voys.co.za/wp-content/uploads/2016/05/Giving-his-client-some-feedback-on-their-designs-000067351941_1900x400-100x21.jpg 100w, https://www.voys.co.za/wp-content/uploads/2016/05/Giving-his-client-some-feedback-on-their-designs-000067351941_1900x400-250x53.jpg 250w, https://www.voys.co.za/wp-content/uploads/2016/05/Giving-his-client-some-feedback-on-their-designs-000067351941_1900x400-1547x325.jpg 1547w" sizes="(max-width: 1440px) 100vw, 1440px" data-object-fit="" /></div>
-               </div>
-            </div>
+         <div class="c-layout__row c-layout__row--white c-layout__row--pv0">             
+            <div class="c-header"></div>
          </div>
          <div class="c-layout__row c-layout__row--pv0">
             <div class="c-layout__container c-layout__container--pv0 c-layout__container--phm0">
@@ -391,6 +387,7 @@
                </div>
             </div>
          </div>
+              </div>
          
           
         <!-- Footer Top Start -->
