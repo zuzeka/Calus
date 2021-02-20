@@ -283,7 +283,7 @@
             <div class="section-title" data-aos="fade-up" data-aos-delay="200">
                 <h2 class="title" style="color: #006ea1;">Simple and flexible telecommunications</h2>
                 <span></span>
-                <p class="sub-title" style="color: #006ea1;">Host your company’s phone system in the cloud. It’s easy with Voys Freedom. Activate or cancel services at any time. We offer Freedom!</p>
+                <p class="sub-title" style="color: #006ea1;">Host your company’s phone system in the cloud. It’s easy with Izwi Freedom. Activate or cancel services at any time. We offer Freedom!</p>
             </div>
             <!-- Section Title End -->
 
@@ -300,7 +300,7 @@
                     <p style="padding-top:20px; color: #006ea1; font-size:larger;">
                         With an app, browser plugin and phone system in the cloud, you control and manage your own telecommunications. Anywhere and at any time. 
                         Never deal with smug technicians again. We put the power in your hands so you are always in control. Liberate your business today. 
-                        Enjoy the simplicity and flexibility that is Voys Freedom.
+                        Enjoy the simplicity and flexibility that is Izwi Freedom.
                     </p>
 			</div>
 		</div>
@@ -322,7 +322,7 @@
 						<div class="single-footer-widget">
 							<h2 style="color: #ffffff;">A service provider that sets you free</h2>
 							<span style="color: #ffffff; font-size: larger;">
-								<p>Voys Freedom means maximum flexibility and optimal availability for your business. You’re in good company. 
+								<p>Izwi Freedom means maximum flexibility and optimal availability for your business. You’re in good company. 
                                     Over 10,000 customers are very happy with our services. But don’t just take our word for it. 
                                     Read our reviews to see first-hand what our customers say about us.</p>
 								<a href="tour.aspx" style="background-color: #f4f3f8; color:#006EA1;" class="btn btn-hover-secondary btn-primary">Take a tour</a>

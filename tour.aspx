@@ -391,7 +391,7 @@
 							<i class="pe-7s-call"></i>
 						</div>
 						<h4 class="title" style="color: #006ea1;">24/7 management</h4>
-						<p>Configure all Voys services through a beautiful and straightforward self-service web portal, 24/7. That’s true freedom.</p>
+						<p>Configure all Izwi services through a beautiful and straightforward self-service web portal, 24/7. That’s true freedom.</p>
 					</div>
 					<!-- Single Contact Address End -->
 
@@ -563,7 +563,7 @@
 							<h2 style="color: #ffffff;">More Calls, Less Costs</h2>
 							<span style="color: #ffffff; font-size: larger;">
 								<p>It’s time to experience a reliable and flexible telephone company that helps your business save money too.</p>
-								<p>Liberate your business today! Get a PABX phone system from Voys.</p>
+								<p>Liberate your business today! Get a PABX phone system from Izwi.</p>
 							</span>
 						</div>
 					</div>

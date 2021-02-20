@@ -11,7 +11,7 @@
 
       <link rel="shortcut icon" href="/favicon.ico?new" />
       <link rel="apple-touch-icon-precomposed" href="/apple-icon.png" />
-      <title>Local call rates | Voys</title>
+      <title>Local call rates | Izwi</title>
       <link rel="canonical" href="https://www.voys.co.za/business-phone-system-features-pricing/call-rates/" />
       <meta property="og:locale" content="en_US" />
       <meta property="og:type" content="article" />

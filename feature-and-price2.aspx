@@ -457,7 +457,7 @@
 													   <li id='field_21_29' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_above field_description_above gfield_visibility_visible'>
 														   <h1>Receive a proposal within 1 workday</h1>
 														   We’re excited you would like to receive a quote from us!
-                     Please leave your details and we’ll get back to you within 1 workday. If you’re unsure how to use our services, contact us via 021 012 5000 or info@voys.co.za.</li>
+                     Please leave your details and we’ll get back to you within 1 workday. If you’re unsure how to use our services, contact us via 021 012 5000 or info@izwi.co.za.</li>
 													   <li id='field_21_109' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_above field_description_above gfield_visibility_visible'>
 														   <h1>Let's generate a proposal!</h1>
 														   To make the process smooth-sailing, please ensure that you enter your details correctly. If you are happy with our offer, please sign the proposal and we'll have you set up in no time. If you are unsure of how to proceed, contact us on 021 012 5000 during office hours.</li>
@@ -547,19 +547,19 @@
 														   <label class='gfield_label' for='input_21_49'></label>
 														   <div class='ginput_container ginput_container_select'>
 															   <select name='input_49' id='input_21_49' class='medium gfield_select' aria-required="true" aria-invalid="false">
-																   <option value='' selected='selected' class='gf_placeholder'>How did you learn about Voys</option>
+																   <option value='' selected='selected' class='gf_placeholder'>How did you learn about Izwi</option>
 																   <option value='Radio'>Radio</option>
 																   <option value='Linkedin'>Linkedin</option>
 																   <option value='Facebook'>Facebook</option>
 																   <option value='Instagram'>Instagram</option>
 																   <option value='Google'>Google</option>
-																   <option value='Friend of Voys Referral'>Friend of Voys Referral</option>
+																   <option value='Friend of Voys Referral'>Friend of Izwi Referral</option>
 																   <option value='Via someone I know'>Via someone I know</option>
 																   <option value='Other'>Other</option>
 															   </select></div>
 													   </li>
 													   <li id='field_21_50' class='gfield field_sublabel_above field_description_below gfield_visibility_visible'>
-														   <label class='gfield_label' for='input_21_50'>I know Voys via <span class="gfield_optional">(optioneel)</span></label><div class='ginput_container ginput_container_text'>
+														   <label class='gfield_label' for='input_21_50'>I know Izwi via <span class="gfield_optional">(optioneel)</span></label><div class='ginput_container ginput_container_text'>
 															   <input name='input_50' id='input_21_50' type='text' value='' class='medium' aria-invalid="false" /></div>
 													   </li>
 													   <li id='field_21_205' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_above field_description_above gfield_visibility_visible'></li>
@@ -602,7 +602,7 @@
 														   <label class='gfield_label' for='input_21_68'></label>
 														   <div class='ginput_container ginput_container_select'>
 															   <select name='input_68' id='input_21_68' class='medium gfield_select' aria-required="true" aria-invalid="false">
-																   <option value='' selected='selected' class='gf_placeholder'>How did you learn about Voys</option>
+																   <option value='' selected='selected' class='gf_placeholder'>How did you learn about Izwi</option>
 																   <option value='Radio'>Radio</option>
 																   <option value='Linkedin'>Linkedin</option>
 																   <option value='Facebook'>Facebook</option>
@@ -627,7 +627,7 @@
 															   <input name='input_264' id='input_21_264' type='email' value='' class='medium' aria-required="true" aria-invalid="false" /></div>
 													   </li>
 													   <li id='field_21_69' class='gfield field_sublabel_above field_description_below gfield_visibility_visible'>
-														   <label class='gfield_label' for='input_21_69'>I know Voys via <span class="gfield_optional">(optioneel)</span></label><div class='ginput_container ginput_container_text'>
+														   <label class='gfield_label' for='input_21_69'>I know Izwi via <span class="gfield_optional">(optioneel)</span></label><div class='ginput_container ginput_container_text'>
 															   <input name='input_69' id='input_21_69' type='text' value='' class='medium' aria-invalid="false" /></div>
 													   </li>
 													   <li id='field_21_202' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_above field_description_above gfield_visibility_visible'>
@@ -681,7 +681,7 @@
 															   </select></div>
 													   </li>
 													   <li id='field_21_186' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_above field_description_above gfield_visibility_visible'><small><strong>IMPORTANT NOTICE:</strong></br>Due to RICA regulations we're required to perform credit checks on all debit order clients. To qualify for debit order, your business MUST hold a company registration document (COR14.3) or a constitution for NPO. Furthermore, your company must have a trading history of 1 years+. If your company does not meet this criteria, please select prepaid as your payment method.</small></li>
-													   <li id='field_21_206' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_above field_description_above gfield_visibility_visible'><small><strong>IMPORTANT NOTICE:</strong></br>Voys prepaid is not a regular pay as you go service. Calls are deducted from your balance straight away, however, monthly subscription costs are only deducted from your balance at the end of the month. To keep your account active, please ensure that enough credit is loaded to cover your subscription costs at month's end. Furthermore, top-ups via credit/debit card will reflect instantly, whereas EFT’s may take up to 24H to reflect.</small></li>
+													   <li id='field_21_206' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_above field_description_above gfield_visibility_visible'><small><strong>IMPORTANT NOTICE:</strong></br>Izwi prepaid is not a regular pay as you go service. Calls are deducted from your balance straight away, however, monthly subscription costs are only deducted from your balance at the end of the month. To keep your account active, please ensure that enough credit is loaded to cover your subscription costs at month's end. Furthermore, top-ups via credit/debit card will reflect instantly, whereas EFT’s may take up to 24H to reflect.</small></li>
 													   <li id='field_21_261' class='gfield gfield__left gfield_contains_required field_sublabel_above field_description_above gfield_visibility_visible'>
 														   <label class='gfield_label'></label>
 														   <div class='ginput_container ginput_container_checkbox'>
@@ -957,7 +957,7 @@
                                  <use xlink:href="#icon-feature-app" />
                               </svg>
                            </span>
-                           <span class="c-icon-grid__content">The Voys App</span> 
+                           <span class="c-icon-grid__content">The Izwi App</span> 
                            <svg class="c-icon c-icon--inline c-icon--small c-icon--primary">
                               <use xlink:href="#icon-arrow-down" />
                            </svg>
@@ -978,7 +978,7 @@
                               <use xlink:href="#icon-arrow-down" />
                            </svg>
                            <div class="c-tooltip__body" id="dropdown-169_1">
-                              <p>Redirect inbound calls to a cell phone or any external landline. Quickly toggle where to redirect via freedom.voys.co.za, browser plugin or Voys app.</p>
+                              <p>Redirect inbound calls to a cell phone or any external landline. Quickly toggle where to redirect via freedom.Izwi.co.za, browser plugin or Izwi app.</p>
                            </div>
                         </div>
                      </li>
@@ -1090,7 +1090,7 @@
                               <use xlink:href="#icon-arrow-down" />
                            </svg>
                            <div class="c-tooltip__body" id="dropdown-7312_8">
-                              <p>Voys Freedom automatically detects irregular call behaviour and notifies you before your phone bill spirals out of control.</p>
+                              <p>Izwi Freedom automatically detects irregular call behaviour and notifies you before your phone bill spirals out of control.</p>
                            </div>
                         </div>
                      </li>
@@ -1388,7 +1388,7 @@
                         <use xlink:href="#icon-close" />
                      </svg>
                   </a>
-                  <p class="c-paragraph c-paragraph--lead">With our business phone system you get billed per second. We do not round off to minutes. When calling your colleagues at a remote branch or other Voys subscribers, you even call for free! Start saving today.</p>
+                  <p class="c-paragraph c-paragraph--lead">With our business phone system you get billed per second. We do not round off to minutes. When calling your colleagues at a remote branch or other Izwi subscribers, you even call for free! Start saving today.</p>
                   <h1>Call rates</h1>
                   <div class="table-wrapper-scroll">
                      <table class="c-table">
@@ -1421,7 +1421,7 @@
                               <td>FREE</td>
                            </tr>
                            <tr>
-                              <td>In-network (Voys-2-Voys)</td>
+                              <td>In-network (Izwi-2-Izwi)</td>
                               <td>N/A</td>
                               <td>FREE</td>
                            </tr>

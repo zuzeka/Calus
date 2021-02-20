@@ -12,7 +12,7 @@
 
       <link rel="shortcut icon" href="/favicon.ico?new" />
       <link rel="apple-touch-icon-precomposed" href="/apple-icon.png" />
-      <title>Softphone - The Voys Webphone turns your computer into a telephone</title>
+      <title>Softphone - The Izwi Webphone turns your computer into a telephone</title>
       <meta name="description" content="The Voys Webphone is a softphone application that turns your computer into telephone. Use your business phone system without acquiring any extra hardware."/>
       <meta name="robots" content="noodp"/>
       <link rel="canonical" href="https://www.voys.co.za/pabx-phone-system/softphone-for-business/" />
@@ -340,8 +340,8 @@
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
                      <div class="u-content">
-                        <h2>Voys Webphone</h2>
-                        <p class="c-paragraph c-paragraph--lead"> The Voys Webphone is a <a href="https://www.voys.co.za/blog/softphones-the-good-the-bad-the-ugly/" target="_blank" rel="noopener">softphone application</a> <span style="font-weight: 400;">that turns your computer into a fully-fledged business telephone. Enjoy all the features of your business phone system conveniently from your browser. With the Voys Webphone, your office phone goes wherever your computer goes. Why stay confined to the office when you can work from home or your favourite coffee shop? Leave your desk phone at work and take your laptop with you. Work how you want, where you want.</span></p>
+                        <h2>Izwi Webphone</h2>
+                        <p class="c-paragraph c-paragraph--lead"> The Izwi Webphone is a <a href="https://www.voys.co.za/blog/softphones-the-good-the-bad-the-ugly/" target="_blank" rel="noopener">softphone application</a> <span style="font-weight: 400;">that turns your computer into a fully-fledged business telephone. Enjoy all the features of your business phone system conveniently from your browser. With the Izwi Webphone, your office phone goes wherever your computer goes. Why stay confined to the office when you can work from home or your favourite coffee shop? Leave your desk phone at work and take your laptop with you. Work how you want, where you want.</span></p>
                         <p><span style="font-weight: 400;">Stay available on your office phone number, no matter where you are in the world. Serve clients who call your office in Bloemfontein, while you&#8217;re visiting your grandma in Kazakhstan. Anything is possible! Sign up for as little as R70 per month for a (non-)geographic phone number and gain access to our Webphone, 4G app, self-service web portal, and browser plugin.</span></p>
                         <h2>Advantages of our softphone application</h2>
                         <ul class="list">
@@ -373,7 +373,7 @@
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
                      <div class="u-content">
-                        <p><a href="https://www.voys.co.za/contact/request-a-quote/">Sign up now</a> <span style="font-weight: 400;">and start using the Voys Webphone. Already have an account? Follow the link below to learn how you can set up your softphone, or give us a call on 021 012 5000 for assistance.</span></p>
+                        <p><a href="https://www.voys.co.za/contact/request-a-quote/">Sign up now</a> <span style="font-weight: 400;">and start using the Izwi Webphone. Already have an account? Follow the link below to learn how you can set up your softphone, or give us a call on 021 012 5000 for assistance.</span></p>
                         <p><a href="http://help.voys.co.za/en/articles/3804767-webphone-setup" class="c-button ">How to set up your Webphone</a></p>
                      </div>
                   </div>
@@ -391,7 +391,7 @@
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
                      <div class="u-content">
-                        <p class="c-paragraph c-paragraph--lead">Voys provides telephone services for businesses. A phone system in the cloud, phone numbers in all geographic areas, phones, apps and integrations. Businesses experience true freedom and optimal availability.</p>
+                        <p class="c-paragraph c-paragraph--lead">Izwi provides telephone services for businesses. A phone system in the cloud, phone numbers in all geographic areas, phones, apps and integrations. Businesses experience true freedom and optimal availability.</p>
                         <p>You control your telephonic availability via a beautifully simple online portal, contracts can be cancelled anytime and we provide excellent support.</p>
                      </div>
                   </div>
@@ -413,7 +413,7 @@
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
                      <div class="u-content">
-                        <p>Enjoy the benefits of our softphone application! Sign up now and get the Voys Webphone for free. Want a little more information? Give us a call on 021 012 5000, or send us a quote request.</p>
+                        <p>Enjoy the benefits of our softphone application! Sign up now and get the Izwi Webphone for free. Want a little more information? Give us a call on 021 012 5000, or send us a quote request.</p>
                      </div>
                   </div>
                </div>
@@ -445,8 +445,8 @@
                   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6942"><a href="https://www.voys.co.za/business-phone-system-features-pricing/">Features and pricing</a></li>
                   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9298"><a href="https://www.voys.co.za/business-phone-system-features-pricing/call-rates/">Local call rates</a></li>
                   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9246"><a href="https://www.voys.co.za/business-phone-system-features-pricing/international-call-rates/">International call rates</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7131"><a href="https://www.voys.co.za/pabx-phone-system/voip-app/">Voys 4G-app</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11022 current_page_item menu-item-11081"><a href="https://www.voys.co.za/pabx-phone-system/softphone-for-business/">Voys Webphone</a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7131"><a href="https://www.voys.co.za/pabx-phone-system/voip-app/">Izwi 4G-app</a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11022 current_page_item menu-item-11081"><a href="https://www.voys.co.za/pabx-phone-system/softphone-for-business/">Izwi Webphone</a></li>
                   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6941"><a href="https://www.voys.co.za/contact/request-a-quote/">Request a quote</a></li>
                </ul>
             </li>

@@ -12,7 +12,7 @@
 
       <link rel="shortcut icon" href="/favicon.ico?new" />
       <link rel="apple-touch-icon-precomposed" href="/apple-icon.png" />
-      <title>VoIP App - Attend to your business calls globally with the Voys 4G-app</title>
+      <title>VoIP App - Attend to your business calls globally with the Izwi 4G-app</title>
       <meta name="description" content="A VoIP app for smartphones (Android &amp; iOS) that sets you free. Serve clients with your office number from anywhere in the world. Freedom is Calling!"/>
       <meta name="robots" content="noodp"/>
       <link rel="canonical" href="https://www.voys.co.za/pabx-phone-system/voip-app/" />
@@ -351,9 +351,9 @@
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
                      <div class="u-content">
-                        <h2>The Voys 4G app</h2>
-                        <p class="c-paragraph c-paragraph--lead"><span>The Voys 4G app is a </span><a href="https://www.voys.co.za/blog/softphones-the-good-the-bad-the-ugly/" target="_blank" rel="noopener">softphone application</a><span> that turns your mobile phone into a fully-fledged business telephone. Carry all the features of your business phone system in your pocket. With the Voys 4G app, your office phone goes wherever you go. Why stay confined to the office when you can work from home or your favourite coffee shop? Leave your deskphone at the office and work how you want, where you want</span>.</p>
-                        <p>Become a Voys customer and use our VoIP app on your Android or iOS smartphone. Serve clients who call your office in Johannesburg, while you&#8217;re sipping cocktails on a beach in Thailand. Anything is possible! Sign up for as little as R70 per month for a (non-)geographic phone number and gain access to our VoIP app, webphone, self-service web portal, and browser plugin.</p>
+                        <h2>The Izwi 4G app</h2>
+                        <p class="c-paragraph c-paragraph--lead"><span>The Izwi 4G app is a </span><a href="https://www.voys.co.za/blog/softphones-the-good-the-bad-the-ugly/" target="_blank" rel="noopener">softphone application</a><span> that turns your mobile phone into a fully-fledged business telephone. Carry all the features of your business phone system in your pocket. With the Izwi 4G app, your office phone goes wherever you go. Why stay confined to the office when you can work from home or your favourite coffee shop? Leave your deskphone at the office and work how you want, where you want</span>.</p>
+                        <p>Become a Izwi customer and use our VoIP app on your Android or iOS smartphone. Serve clients who call your office in Johannesburg, while you&#8217;re sipping cocktails on a beach in Thailand. Anything is possible! Sign up for as little as R70 per month for a (non-)geographic phone number and gain access to our VoIP app, webphone, self-service web portal, and browser plugin.</p>
                         <h2>The advantages of using our VoIP app as a softphone</h2>
                         <ul class="list">
                            <li>Call with your office number from anywhere.</li>
@@ -378,13 +378,13 @@
             <div class="c-layout__container ">
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
-                     <h2 class="c-heading c-heading--50">Voys: The telephone service provider for businesses.</h2>
+                     <h2 class="c-heading c-heading--50">Izwi: The telephone service provider for businesses.</h2>
                   </div>
                </div>
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
                      <div class="u-content">
-                        <p class="c-paragraph c-paragraph--lead">Voys provides telephone services for businesses. A phone system in the cloud, phone numbers in all geographic areas, phones, apps and integrations. Businesses experience true freedom and optimal availability.</p>
+                        <p class="c-paragraph c-paragraph--lead">Izwi provides telephone services for businesses. A phone system in the cloud, phone numbers in all geographic areas, phones, apps and integrations. Businesses experience true freedom and optimal availability.</p>
                         <p>You control your telephonic availability via a beautifully simple online portal, contracts can be cancelled anytime and we provide excellent support.</p>
                      </div>
                   </div>
