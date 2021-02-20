@@ -304,13 +304,28 @@
     </div>
     <!-- Header Section End -->
                    
-               <d
-         <div class="c-layout__row c-layout__row--white c-layout__row--pv0">
-            <div class="c-layout__container c-layout__container--pv0 c-layout__container--phm0">
-               <div class="c-header">
-                  <div class="c-header__background"><img width="1440" height="400" src="https://www.voys.co.za/wp-content/uploads/2016/04/header_hq_toestel_1900w-1440x400.jpg" class="attachment-l-header--large size-l-header--large" alt="Voys Business Phone System" loading="lazy" data-object-fit="" /></div>
-               </div>
+    <!-- Breadcrumb Section Start -->
+    <div class="section breadcrumb-voip" style="background-color:#006EA1;">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="cr-breadcrumb-area">
+                        <h1 class="title">Features & Pricing</h1>
+                        <ul class="breadcrumb-list">
+                            <li><a href="index.html">Home</a></li>
+                            <li><span>Features & Pricing</span></li>
+                        </ul>
+                    </div>
+                </div>
             </div>
+        </div>
+    </div>
+    <!-- Breadcrumb Section End -->
+
+       <div class="c-layout">
+
+         <div class="c-layout__row c-layout__row--white c-layout__row--pv0">             
+            <div class="c-header"></div>
          </div>
          <div class="c-layout__row">
             <div class="c-layout__container c-layout__container--flexbox">
@@ -930,6 +945,7 @@
                </div>
             </li>
          </div>
+                   </div>
          <div class="c-modal c-modal--fixed">
             <div class="c-modal__body">
                <div class="c-modal__content">
@@ -983,7 +999,7 @@
                </div>
             </div>
          </div>
-         <d
+         </div>
         <!-- Footer Top Start -->
 	<footer class="section single-footer" style="background-color: #f4f3f8">
 		<div class="footer-top">

@@ -296,7 +296,24 @@
         <!-- Offcanvas Search End -->
 
     </div>
-    <!-- Header Section End -->
+    <!-- Breadcrumb Section Start -->
+    <div class="section breadcrumb-voip" style="background-color:#006EA1;">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="cr-breadcrumb-area">
+                        <h1 class="title">Features & Pricing</h1>
+                        <ul class="breadcrumb-list">
+                            <li><a href="index.html">Home</a></li>
+                            <li><span>Features & Pricing</span></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Breadcrumb Section End -->
+
        <div class="c-layout">
 
          <div class="c-layout__row c-layout__row--white c-layout__row--pv0">
@@ -306,7 +323,7 @@
          <div class="c-layout__row">
             <div class="c-layout__container c-layout__container--flexbox">
                <div class="c-grid c-grid--side">
-				   <div class="c-grid__item">
+				   <div class="c-grid__item" style="padding-top:30px;">
 					   <h1 class="c-heading c-heading--50" style="color:#006EA1;">Features &#038; Pricing | Business phone system</h1>
 					   <p class="p1">
 						   <span class="s1">
@@ -781,7 +798,7 @@
 						   </span>
 					   </p>
 				   </div>
-                  <div class="c-grid__item">
+                  <div class="c-grid__item" style="padding-top:30px;">
                      <div id="js-sticky-sidebar">
                         <div id="calculator__container" class="c-card c-card--neutral-10 js-calculator">
                            <div class="c-card__container">
