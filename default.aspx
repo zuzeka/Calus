@@ -67,9 +67,9 @@
                                 </li>                                
                                 <li><a href="tour.aspx">Tour</a></li>
                                 <li class="has-children">
-                                    <a href="featureAndPrice.aspx">Features and pricing</a>
+                                    <a href="feature-and-price.aspx">Features and pricing</a>
                                     <ul class="sub-menu">
-                                        <li><a href="feature-And-Price.aspx">Features and pricing</a></li>
+                                        <li><a href="feature-and-price.aspx">Features and pricing</a></li>
                                         <li><a href="local-call-rates.aspx">Local call rates</a></li>
                                         <li><a href="international-call-rates.aspx">International call rates</a></li>
                                         <li><a href="4g-app.aspx">Izwi 4G-app</a></li>

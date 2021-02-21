@@ -126,7 +126,7 @@
                                 </li>                                
                                 <li><a href="tour.aspx">Tour</a></li>
                                 <li class="has-children">
-                                    <a href="featureAndPrice.aspx">Features and pricing</a>
+                                    <a href="feature-and-price.aspx">Features and pricing</a>
                                     <ul class="sub-menu">
                                         <li><a href="feature-And-Price.aspx">Features and pricing</a></li>
                                         <li><a href="local-call-rates.aspx">Local call rates</a></li>
@@ -203,10 +203,12 @@
                     <nav>
                         <ul class="mobile-menu">
                             <li class="has-children">
-                                <a href="#">Home <i class="fa fa-angle-down"></i></a>
+                                <a href="#">Voip <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="index.html">Home One</a></li>
-                                    <li><a href="index-2.html">Home Two</a></li>
+                                    <li><a href="voip.aspx">What is VoIP</a></li>
+                                    <li><a href="tour.aspx">Phone system</a></li>
+                                    <li><a href="phone-number.aspx">Phone numbers</a></li>
+                                    <li><a href="phone.aspx">VoIP phones</a></li>
                                 </ul>
                             </li>
                             <li class="has-children">

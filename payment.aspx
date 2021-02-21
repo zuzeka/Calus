@@ -88,7 +88,7 @@
                                 </li>                                
                                 <li><a href="tour.aspx">Tour</a></li>
                                 <li class="has-children">
-                                    <a href="featureAndPrice.aspx">Features and pricing</a>
+                                    <a href="feature-and-price.aspx">Features and pricing</a>
                                     <ul class="sub-menu">
                                         <li><a href="feature-And-Price.aspx">Features and pricing</a></li>
                                         <li><a href="local-call-rates.aspx">Local call rates</a></li>
@@ -279,7 +279,7 @@
 						   <span class="s1">
 							   <div class='gf_browser_chrome gform_wrapper' id='gform_wrapper_21' style='display: none'>
 								   <div id='gf_21' class='gform_anchor' tabindex='-1'></div>
-								   <form method='post' enctype='multipart/form-data' id='gform_21' action='/featureAndPrice2.aspx'>
+								   <form method='post' enctype='multipart/form-data' id='gform_21' action='/feature-and-price2.aspx'>
 									   <div class='gform_body'>
 										   <div id='gform_page_21_1' class='gform_page'>
 											   <div class='gform_page_fields'>
@@ -1395,7 +1395,7 @@
 						</table>
 					</div>
 					<p><em>Note: All prices exclude VAT. The connection fee applies to outbound and successful calls only.</em></p>
-					<p>View&nbsp;<a href="/features-pricing/international-call-rates/" target="_blank" rel="noopener noreferrer">our international call rates here</a>.</p>
+					<p>View&nbsp;<a href="international-call-rates.aspx" target="_blank" rel="noopener noreferrer">our international call rates here</a>.</p>
 				</div>
 			</div>
 		</div>

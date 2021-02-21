@@ -129,7 +129,7 @@
                                 </li>                                
                                 <li><a href="tour.aspx">Tour</a></li>
                                 <li class="has-children">
-                                    <a href="featureAndPrice.aspx">Features and pricing</a>
+                                    <a href="feature-and-price.aspx">Features and pricing</a>
                                     <ul class="sub-menu">
                                         <li><a href="feature-And-Price.aspx">Features and pricing</a></li>
                                         <li><a href="local-call-rates.aspx">Local call rates</a></li>
@@ -330,7 +330,7 @@
 						   <span class="s1">
 							   <div class='gf_browser_chrome gform_wrapper' id='gform_wrapper_21' style='display: none'>
 								   <div id='gf_21' class='gform_anchor' tabindex='-1'></div>
-								   <form method='post' enctype='multipart/form-data' id='gform_21' action='/featureAndPrice.aspx'>
+								   <form method='post' enctype='multipart/form-data' id='gform_21' action='/feature-and-price.aspx'>
 									   <div class='gform_body'>
 										   <div id='gform_page_21_1' class='gform_page' style='display: none;'>
 											   <div class='gform_page_fields'>
@@ -357,7 +357,7 @@
 												   </ul>
 											   </div>
 											   <div class='gform_page_footer'>
-												   <input type='button' id='gform_next_button_21_87' class='gform_next_button button' value='Next' onclick='jQuery("featureAndPrice3.aspx").val("2");  jQuery("#gform_21").trigger("submit",[true]); ' onkeypress='if( event.keyCode == 13 ){ jQuery("#gform_target_page_number_21").val("2");  jQuery("#gform_21").trigger("submit",[true]); } ' /></div>
+												   <input type='button' id='gform_next_button_21_87' class='gform_next_button button' value='Next' onclick='jQuery("feature-and-price3.aspx").val("2");  jQuery("#gform_21").trigger("submit",[true]); ' onkeypress='if( event.keyCode == 13 ){ jQuery("#gform_target_page_number_21").val("2");  jQuery("#gform_21").trigger("submit",[true]); } ' /></div>
 										   </div>
 										   <div id='gform_page_21_2' class='gform_page'>
 											   <div class='gform_page_fields'>
@@ -436,7 +436,7 @@
 													   <li id='field_21_40' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_above field_description_above gfield_visibility_visible'>
 														   <hr>
 														   <div class="continue">
-															   <p class="continue__text"><small>Happy with your selection? Great stuff! Click next to request a proposal, or <a target="_blank" href="featureAndPrice2.aspx">submit an enquiry.</a></small></p>
+															   <p class="continue__text"><small>Happy with your selection? Great stuff! Click next to request a proposal, or <a target="_blank" href="feature-and-price2.aspx">submit an enquiry.</a></small></p>
 														   </div>
 													   </li>
 													   <li id='field_21_61' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_above field_description_above gfield_visibility_visible'>
@@ -696,7 +696,7 @@
 												   </ul>
 											   </div>
 											   <div class='gform_page_footer'>
-												   <input type='button' id='gform_previous_button_21_126' class='gform_previous_button button' value='Back' onclick='jQuery("featureAndPrice.aspx").val("2");  jQuery("featureAndPrice.aspx").trigger("submit",[true]); ' onkeypress='if( event.keyCode == 13 ){ jQuery("featureAndPrice.aspx").val("2");  jQuery("featureAndPrice.aspx").trigger("submit",[true]); } ' />
+												   <input type='button' id='gform_previous_button_21_126' class='gform_previous_button button' value='Back' onclick='jQuery("feature-and-price.aspx").val("2");  jQuery("feature-and-price.aspx").trigger("submit",[true]); ' onkeypress='if( event.keyCode == 13 ){ jQuery("feature-and-price.aspx").val("2");  jQuery("feature-and-price.aspx").trigger("submit",[true]); } ' />
 												   <input type='button' id='gform_next_button_21_126' class='gform_next_button button' value='Request proposal' onclick='jQuery("#gform_target_page_number_21").val("4");  jQuery("#gform_21").trigger("submit",[true]); ' onkeypress='if( event.keyCode == 13 ){ jQuery("#gform_target_page_number_21").val("4");  jQuery("#gform_21").trigger("submit",[true]); } ' /></div>
 										   </div>
 										   <div id='gform_page_21_4' class='gform_page' style='display: none;'>
@@ -774,7 +774,7 @@
 												   </ul>
 											   </div>
 											   <div class='gform_page_footer top_label'>
-												   <input type='button' id='gform_previous_button_21' class='gform_previous_button button' value='Back' onclick='jQuery("featureAndPrice1.aspx").val("1");  jQuery("#gform_21").trigger("submit",[true]); ' onkeypress='if( event.keyCode == 13 ){ jQuery("#gform_target_page_number_21").val("1");  jQuery("#gform_21").trigger("submit",[true]); } ' />
+												   <input type='button' id='gform_previous_button_21' class='gform_previous_button button' value='Back' onclick='jQuery("feature-and-price.aspx").val("1");  jQuery("#gform_21").trigger("submit",[true]); ' onkeypress='if( event.keyCode == 13 ){ jQuery("#gform_target_page_number_21").val("1");  jQuery("#gform_21").trigger("submit",[true]); } ' />
 												   <input type='submit' id='gform_submit_button_21' class='gform_button button' value='Request proposal' onclick='if(window["gf_submitting_21"]){return false;}  if( !jQuery("#gform_21")[0].checkValidity || jQuery("#gform_21")[0].checkValidity()){window["gf_submitting_21"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_21"]){return false;} if( !jQuery("#gform_21")[0].checkValidity || jQuery("#gform_21")[0].checkValidity()){window["gf_submitting_21"]=true;}  jQuery("#gform_21").trigger("submit",[true]); }' />
 												   <input type='hidden' class='gform_hidden' name='is_submit_21' value='1' />
 												   <input type='hidden' class='gform_hidden' name='gform_submit' value='21' />
@@ -1429,7 +1429,7 @@
                      </table>
                   </div>
                   <p><em>Note: All prices exclude VAT. The connection fee applies to outbound and successful calls only.</em></p>
-                  <p>View <a href="/features-pricing/international-call-rates/" target="_blank" rel="noopener noreferrer">our international call rates here</a>.</p>
+                  <p>View <a href="international-call-rates.aspx" target="_blank" rel="noopener noreferrer">our international call rates here</a>.</p>
                </div>
             </div>
          </div>

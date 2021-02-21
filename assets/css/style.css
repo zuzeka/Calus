@@ -15536,9 +15536,9 @@ ul li {
           align-items: center;
 }
 
-.mobile-menu > li > a:hover {
-  color: #006ea1;
-}
+    .mobile-menu > li > a:hover {
+        color: #000000;
+    }
 
 .contact-links {
   text-align: left;
