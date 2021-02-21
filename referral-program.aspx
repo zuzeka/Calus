@@ -12,7 +12,7 @@
 
       <link rel="shortcut icon" href="/favicon.ico?new" />
       <link rel="apple-touch-icon-precomposed" href="/apple-icon.png" />
-      <title>Referral Program - Earn commission by referring clients to Voys Telecom</title>
+      <title>Referral Program - Earn commission by referring clients to Izwi Telecom</title>
       <meta name="description" content="Signup for Voys Telecom&#039;s referral program and start earning. Voys offers an award winning VoIP platform, excellent customer service and impeccable support."/>
       <meta name="robots" content="noodp"/>
       <link rel="canonical" href="https://www.voys.co.za/business-phone-system-features-pricing/reseller-programs/referral-program/" />
@@ -143,7 +143,8 @@
                                         <li><a href="request-a-quote.aspx">Request a quote</a></li>
                                     </ul>
                                 </li>
-                                <li class="has-children">
+                                <li><a href="about.aspx">About</a></li>
+                                <%--<li class="has-children">
                                     <a href="about.aspx">About</a>
                                     <ul class="sub-menu">
                                         <li><a href="about.aspx">About</a></li>
@@ -153,13 +154,13 @@
                                         <li><a href="#">Reviews</a></li>
                                         <li><a href="#">Blog</a></li>
                                     </ul>
-                                </li>
-                                <li class="has-children">
+                                </li>--%>
+                               <li class="has-children">
                                     <a href="#">Partners</a>
                                     <ul class="sub-menu">
-                                        <li><a href="#">Reseller Program</a></li>
-                                        <li><a href="#">Referral Program</a></li>
-                                        <li><a href="#">Submit a Referral</a></li>
+                                        <li><a href="reseller-program.aspx">Reseller Program</a></li>
+                                        <li><a href="referral-program.aspx">Referral Program</a></li>
+                                        <li><a href="submit-a-referral.aspx">Submit a Referral</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="contact.aspx">Contact</a></li>
@@ -329,14 +330,14 @@
             <div class="c-layout__container ">
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
-                     <h2 class="c-heading c-heading--50">Friend of Voys - Referral Program</h2>
+                     <h2 class="c-heading c-heading--50">Friend of Izwi - Referral Program</h2>
                   </div>
                </div>
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
                      <div class="u-content">
-                        <h2>Earn commission by referring other businesses to Voys</h2>
-                        <p>A referral is the best compliment one can get. As a sign of appreciation, Voys offers a once-off commission for every subscriber that&#8217;s referred to us. 100% of the first three months&#8217; subscription charges, initially ordered, is paid to you. The best part is that you don&#8217;t have to do anything else. Referred customers become Voys customers, so we do the rest of the hard work. After you make a referral, you can sit back, relax, and wait to reap the benefits. Easy as pie!</p>
+                        <h2>Earn commission by referring other businesses to Izwi</h2>
+                        <p>A referral is the best compliment one can get. As a sign of appreciation, Izwi offers a once-off commission for every subscriber that&#8217;s referred to us. 100% of the first three months&#8217; subscription charges, initially ordered, is paid to you. The best part is that you don&#8217;t have to do anything else. Referred customers become Izwi customers, so we do the rest of the hard work. After you make a referral, you can sit back, relax, and wait to reap the benefits. Easy as pie!</p>
                      </div>
                   </div>
                </div>
@@ -347,19 +348,19 @@
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
                      <div class="u-content">
-                        <h2>Who is eligible to make referrals to Voys?</h2>
-                        <p>All active Voys customers are eligible to make referrals. No additional signup or registration is required. If you are currently being billed for any of our services you are considered an active Voys customer. If you are not an active Voys customer, you are not eligible to make referrals to us.</p>
+                        <h2>Who is eligible to make referrals to Izwi?</h2>
+                        <p>All active Izwi customers are eligible to make referrals. No additional signup or registration is required. If you are currently being billed for any of our services you are considered an active Izwi customer. If you are not an active Izwi customer, you are not eligible to make referrals to us.</p>
                         <h2>How do you make a referral?</h2>
-                        <p>Existing Voys customers can easily make referrals by submitting <a href="https://www.voys.co.za/friend-of-voys/" target="_blank" rel="noopener">this form</a>. A referral can only be successfully made by submitting the same email address that was initially used to activate your Voys account. If you are unsure of which email address to use, please <a href="https://www.voys.co.za/contact/" target="_blank" rel="noopener">contact us</a> to verify.</p>
-                        <h2>Why might Voys decline your referral?</h2>
-                        <p>The acceptance of referred customers is at Voys’ sole discretion. If your referral is declined, it may be due to, but not limited to, one of the following reasons:</p>
+                        <p>Existing Izwi customers can easily make referrals by submitting <a href="https://www.voys.co.za/friend-of-voys/" target="_blank" rel="noopener">this form</a>. A referral can only be successfully made by submitting the same email address that was initially used to activate your Izwi account. If you are unsure of which email address to use, please <a href="https://www.voys.co.za/contact/" target="_blank" rel="noopener">contact us</a> to verify.</p>
+                        <h2>Why might Izwi decline your referral?</h2>
+                        <p>The acceptance of referred customers is at Izwi’ sole discretion. If your referral is declined, it may be due to, but not limited to, one of the following reasons:</p>
                         <ul>
-                           <li>You did not submit the same email address that was used to activate your Voys account</li>
+                           <li>You did not submit the same email address that was used to activate your Izwi account</li>
                            <li>The contact you referred is already on our database</li>
-                           <li>You are not currently an active Voys customer</li>
+                           <li>You are not currently an active Izwi customer</li>
                         </ul>
                         <h2>When and how are referral commissions paid?</h2>
-                        <p>Commissions are paid after the referred customer has maintained their account in good standing for three calendar months. The payment is made to the business (not the person) that made the referral. Once you become eligible for a commission, you can either choose to receive an EFT payment, or we can credit your Voys account with the amount that&#8217;s due to you.</p>
+                        <p>Commissions are paid after the referred customer has maintained their account in good standing for three calendar months. The payment is made to the business (not the person) that made the referral. Once you become eligible for a commission, you can either choose to receive an EFT payment, or we can credit your Izwi account with the amount that&#8217;s due to you.</p>
                         <p>&nbsp;</p>
                      </div>
                   </div>
@@ -371,7 +372,7 @@
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
                      <div class="u-content">
-                        <p>Are you an existing Voys customer who wants to earn a little extra cash?</p>
+                        <p>Are you an existing Izwi customer who wants to earn a little extra cash?</p>
                      </div>
                   </div>
                </div>
@@ -389,7 +390,7 @@
                   <div class="c-grid__item">
                      <div class="u-content">
                         <h1>Referral program not for you?</h1>
-                        <p>Why not signup as a <a href="https://www.voys.co.za/business-phone-system-features-pricing/reseller-programs/white-label-reseller-opportunities/">white label reseller</a> and offer our VoIP platform under your brand name. You get to offer all the functionality that Voys offers, but customers become your customers. Want to <a href="https://www.voys.co.za/business-phone-system-features-pricing/reseller-programs/white-label-reseller-opportunities/">learn more</a>?</p>
+                        <p>Why not signup as a <a href="https://www.voys.co.za/business-phone-system-features-pricing/reseller-programs/white-label-reseller-opportunities/">white label reseller</a> and offer our VoIP platform under your brand name. You get to offer all the functionality that Izwi offers, but customers become your customers. Want to <a href="https://www.voys.co.za/business-phone-system-features-pricing/reseller-programs/white-label-reseller-opportunities/">learn more</a>?</p>
                      </div>
                   </div>
                </div>
@@ -415,7 +416,7 @@
 					</div>
 					<div class="col-md-3 mb-5">
 						<h3>Email us @</h3>
-						<p class="mb-5"><a href="mailto:info@bumbatechnos.co.za"><u>info@bumbatechnos.co.za</u></a></p>
+						<p class="mb-5"><a href="mailto:info@bumbatechnos.co.za"><u>info@izwi.co.za</u></a></p>
 
 					</div>
 					<div class="col-md-3 mb-5">
@@ -436,8 +437,8 @@
 		<div class="container" style="background-color: #006ea1">
 			<div class="row align-items-center footer-bottom">
 				<div class="col-12 text-center">
-					<div class="copyright-content">
-						<p>© 2019 Calus Technologies. Designed &amp; Developed by <a href="https://www.calustechnologies.co.za/" target="_blank">Calus Technologies</a></p>
+				<div class="copyright-content">
+						<p>© <script type="text/javascript">document.write(new Date().getFullYear());</script> Calus Technologies. Designed &amp; Developed by <a style="color:#ffffff;" href="https://www.calustechnologies.co.za/" target="_blank">Calus Technologies</a></p>
 					</div>
 				</div>
 			</div>

@@ -139,7 +139,8 @@
                                         <li><a href="request-a-quote.aspx">Request a quote</a></li>
                                     </ul>
                                 </li>
-                                <li class="has-children">
+                                <li><a href="about.aspx">About</a></li>
+                                <%--<li class="has-children">
                                     <a href="about.aspx">About</a>
                                     <ul class="sub-menu">
                                         <li><a href="about.aspx">About</a></li>
@@ -149,13 +150,13 @@
                                         <li><a href="#">Reviews</a></li>
                                         <li><a href="#">Blog</a></li>
                                     </ul>
-                                </li>
+                                </li>--%>
                                 <li class="has-children">
                                     <a href="#">Partners</a>
                                     <ul class="sub-menu">
-                                        <li><a href="#">Reseller Program</a></li>
-                                        <li><a href="#">Referral Program</a></li>
-                                        <li><a href="#">Submit a Referral</a></li>
+                                        <li><a href="reseller-program.aspx">Reseller Program</a></li>
+                                        <li><a href="referral-program.aspx">Referral Program</a></li>
+                                        <li><a href="submit-a-referral.aspx">Submit a Referral</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="contact.aspx">Contact</a></li>
@@ -311,7 +312,7 @@
                     <div class="container">
                         <div class="hero-slide-content">
                             <h2 class="title">VoIP Reseller <br />Opportunities</h2>
-                            <p>Become a VoIP provider with Voys Telecom's reseller opportunities. Offer a full-blown white label Hosted PBX to your clients</p>
+                            <p>Become a VoIP provider with Izwi Telecom's reseller opportunities. Offer a full-blown white label Hosted PBX to your clients</p>
                         </div>
                     </div>
                 </div>
@@ -332,9 +333,9 @@
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
                      <div class="u-content">
-                        <h1>Voys White Label Partner Program</h1>
-                        <p class="c-paragraph c-paragraph--lead">Voys’ partner program is a wholesale white label offering. You get to offer all functionality that Voys offers. Our self-service web portal will be rebranded with your logo and colours.</p>
-                        <p>Customers are your customers. You will handle signups, gather required (RICA) documents, setup, billing of customer and offer all support to your customer. Voys will never contact your customer directly.</p>
+                        <h1>Izwi White Label Partner Program</h1>
+                        <p class="c-paragraph c-paragraph--lead">Izwi’ partner program is a wholesale white label offering. You get to offer all functionality that Izwi offers. Our self-service web portal will be rebranded with your logo and colours.</p>
+                        <p>Customers are your customers. You will handle signups, gather required (RICA) documents, setup, billing of customer and offer all support to your customer. Izwi will never contact your customer directly.</p>
                      </div>
                   </div>
                </div>
@@ -349,14 +350,14 @@
             <div class="c-layout__container ">
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
-                     <h2 class="c-heading c-heading--50">What Voys offers</h2>
+                     <h2 class="c-heading c-heading--50">What Izwi offers</h2>
                   </div>
                </div>
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
                      <div class="u-content">
                         <h3>Partner discounts</h3>
-                        <p>As a partner, you receive discounts on the retail rates for calls and services. The discount increases as your total turnover increases. Partners are free to set their own pricing. Your rates may be higher or lower than Voys’ retail rates.</p>
+                        <p>As a partner, you receive discounts on the retail rates for calls and services. The discount increases as your total turnover increases. Partners are free to set their own pricing. Your rates may be higher or lower than Izwi’ retail rates.</p>
                         <h3>Tools and Training</h3>
                         <p>Upon joining, every Partner receives support to assist them with everything from onboarding to resolving customer issues. Included is up to 8 hours of 1-on-1 online training. Support documentation and online videos are made available to assist with best practices and configuration settings.</p>
                      </div>
@@ -398,7 +399,7 @@
                            <li>Advise on suitable connectivity for voice traffic.</li>
                         </ul>
                         <p>Call quality and a reliable service is dependent on the last mile connectivity. 95% of call quality issues are related to last mile connectivity. As a Partner, it is critical you take our advice and implement appropriate connectivity for voice. If you look after the connectivity and respond to customer support swiftly, you will have satisfied customers.</p>
-                        <p>Voys provides you with the tools, technology, training and support to help make your service business successful. But it is you, not Voys, that has the relationship with your customers. Voys never contacts Partners’ customers.</p>
+                        <p>Izwi provides you with the tools, technology, training and support to help make your service business successful. But it is you, not Izwi, that has the relationship with your customers. Izwi never contacts Partners’ customers.</p>
                      </div>
                   </div>
                </div>
@@ -413,19 +414,19 @@
             <div class="c-layout__container ">
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
-                     <h2 class="c-heading c-heading--50">Responsibilities of Voys</h2>
+                     <h2 class="c-heading c-heading--50">Responsibilities of Izwi</h2>
                   </div>
                </div>
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
                      <div class="u-content">
-                        <p>Voys supports you on technical issues unsolvable through normal methods provided in the initial training and <a href="http://help.voys.co.za">online help resources</a>. Voys provides a solid carrier-grade platform and +10 years experience in Hosted VoIP.</p>
+                        <p>Izwi supports you on technical issues unsolvable through normal methods provided in the initial training and <a href="http://help.voys.co.za">online help resources</a>. Izwi provides a solid carrier-grade platform and +10 years experience in Hosted VoIP.</p>
                         <h2>Billing</h2>
-                        <p>Voys bills you at discounted pricing. We send 1 invoice on the first weekday of each month.<br /> You can export customer billing items in CSV-format on the 1st weekday of each month and import in your preferred invoicing application.</p>
+                        <p>Izwi bills you at discounted pricing. We send 1 invoice on the first weekday of each month.<br /> You can export customer billing items in CSV-format on the 1st weekday of each month and import in your preferred invoicing application.</p>
                         <h3>Call rates</h3>
                         <p><a href="https://www.voys.co.za/features-pricing/call-rates/">National call rates</a> are fairly stable and only updated occasionally and with fair notice.<br /> <a href="https://www.voys.co.za/features-pricing/international-call-rates/">International call rates</a> are updated every calendar month and can be downloaded from our website.</p>
                         <h3>Payment terms</h3>
-                        <p>Payment terms are strictly Prepaid. Prepaid credit can be uploaded by means of credit card or instant EFT. All prices in this document and on the Voys website exclude 15% VAT.</p>
+                        <p>Payment terms are strictly Prepaid. Prepaid credit can be uploaded by means of credit card or instant EFT. All prices in this document and on the Izwi website exclude 15% VAT.</p>
                      </div>
                   </div>
                </div>
@@ -454,7 +455,7 @@
                            <li>Be providing your customers with IT related services and support;</li>
                            <li>Sign up with distributors for purchase of Yealink IP phones and other necessary equipment;</li>
                            <li>Have a good understanding of and be willing to learn about networks and connectivity in respect to voice traffic to ensure the customer has good call quality and overall experience.</li>
-                           <li>A meeting at the Voys office in Cape Town is required.</li>
+                           <li>A meeting at the Izwi office in Gauteng is required.</li>
                         </ul>
                         <p>When providing hosted PBX services the most important aspect is managing the connectivity of the phones to the Hosted PBX environment. VoIP phones run on a customer’s local network and then over a dedicated or prioritized connection. Partners need a good understanding of local networks, Internet connectivity and basic routing.</p>
                         <h2></h2>
@@ -472,7 +473,7 @@
             <div class="c-layout__container ">
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
-                     <h2 class="c-heading c-heading--50">Why Voys</h2>
+                     <h2 class="c-heading c-heading--50">Why Izwi</h2>
                   </div>
                </div>
                <div class="c-grid c-grid--single">
@@ -537,7 +538,7 @@
 			<div class="row align-items-center footer-bottom">
 				<div class="col-12 text-center">
 					<div class="copyright-content">
-						<p>© 2019 Calus Technologies. Designed &amp; Developed by <a href="https://www.calustechnologies.co.za/" target="_blank">Calus Technologies</a></p>
+						<p>© <script type="text/javascript">document.write(new Date().getFullYear());</script> Calus Technologies. Designed &amp; Developed by <a style="color:#ffffff;" href="https://www.calustechnologies.co.za/" target="_blank">Calus Technologies</a></p>
 					</div>
 				</div>
 			</div>

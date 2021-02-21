@@ -92,12 +92,12 @@
                                         <li><a href="#">Blog</a></li>
                                     </ul>
                                 </li>--%>
-                                <li class="has-children">
+                               <li class="has-children">
                                     <a href="#">Partners</a>
                                     <ul class="sub-menu">
-                                        <li><a href="#">Reseller Program</a></li>
-                                        <li><a href="#">Referral Program</a></li>
-                                        <li><a href="#">Submit a Referral</a></li>
+                                        <li><a href="reseller-program.aspx">Reseller Program</a></li>
+                                        <li><a href="referral-program.aspx">Referral Program</a></li>
+                                        <li><a href="submit-a-referral.aspx">Submit a Referral</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="contact.aspx">Contact</a></li>
@@ -417,7 +417,7 @@
 			<div class="row align-items-center footer-bottom">
 				<div class="col-12 text-center">
 					<div class="copyright-content">
-						<p>© 2019 Calus Technologies. Designed &amp; Developed by <a href="https://www.calustechnologies.co.za/" target="_blank">Calus Technologies</a></p>
+						<p>© <script type="text/javascript">document.write(new Date().getFullYear());</script> Calus Technologies. Designed &amp; Developed by <a style="color:#ffffff;" href="https://www.calustechnologies.co.za/" target="_blank">Calus Technologies</a></p>
 					</div>
 				</div>
 			</div>
