@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="assets/css/style.min.css">
 	<link rel="stylesheet" href="assets/css/style.css">
 	   <link href="assets/css/main.css" rel="stylesheet" />
+  <%--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">--%>
 
 
 
@@ -94,17 +95,6 @@
                                     </ul>
                                 </li>
                               <li><a href="about.aspx">About</a></li>
-                                <%--<li class="has-children">
-                                    <a href="about.aspx">About</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="about.aspx">About</a></li>
-                                        <li><a href="#">Team</a></li>
-                                        <li><a href="#">Company Culture</a></li>
-                                        <li><a href="#">We're hiring</a></li>
-                                        <li><a href="#">Reviews</a></li>
-                                        <li><a href="#">Blog</a></li>
-                                    </ul>
-                                </li>--%>
                                 <li class="has-children">
                                     <a href="#">Partners</a>
                                     <ul class="sub-menu">
@@ -259,10 +249,10 @@
             <div class="row">
                 <div class="col-12">
                     <div class="cr-breadcrumb-area">
-                        <h1 class="title">Features & Pricing</h1>
+                        <h1 class="title">Pay Now</h1>
                         <ul class="breadcrumb-list">
                             <li><a href="index.html">Home</a></li>
-                            <li><span>Features & Pricing</span></li>
+                            <li><span>Pay Now</span></li>
                         </ul>
                     </div>
                 </div>
@@ -280,7 +270,7 @@
 		   <div class="c-layout__container c-layout__container--flexbox">
 			   <div class="c-grid c-grid--side">
 				   <div class="c-grid__item" style="padding-top: 20px;">
-					   <h1 class="c-heading c-heading--50" style="color: #006EA1;">Features &#038; Pricing | Business phone system</h1>
+					   <h1 class="c-heading c-heading--50" style="color: #006EA1;">Features &#038; Pay Now</h1>
 					   <p class="p1">
 						   <span class="s1">
 							   <div class='gf_browser_chrome gform_wrapper' id='gform_wrapper_21' style='display: none'>
@@ -311,8 +301,10 @@
 													   <li id='field_21_123' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_above field_description_above gfield_visibility_visible'></li>
 												   </ul>
 											   </div>
-											   <div class='gform_page_footer'>
-												   <input type="button" id='gform_next_button_21_87' style="background-color: #006EA1; border: none; color: white; padding: 16px 32px; text-decoration: none; margin: 4px 2px; cursor: pointer;" value="Next" onclick='jQuery("#gform_target_page_number_21").val("2");  jQuery("#gform_21").trigger("submit",[true]); ' onkeypress='if( event.keyCode == 13 ){ jQuery("#gform_target_page_number_21").val("2");  jQuery("#gform_21").trigger("submit",[true]); } ' /></div>
+											   <%--<div class='gform_page_footer'>
+												   <input type="button" id='gform_next_button_21_87' style="background-color: #006EA1; border: none; color: white; padding: 16px 32px; text-decoration: none; margin: 4px 2px; cursor: pointer;" value="Next" onclick='jQuery("#gform_target_page_number_21").val("2");  jQuery("#gform_21").trigger("submit",[true]); ' onkeypress='if( event.keyCode == 13 ){ jQuery("#gform_target_page_number_21").val("2");  jQuery("#gform_21").trigger("submit",[true]); } ' />
+
+											   </div>--%>
 										   </div>
 										   <div id='gform_page_21_2' class='gform_page' style='display: none;'>
 											   <div class='gform_page_fields'>
@@ -863,15 +855,22 @@
 												   <td class="u-text-align-right"><strong>R <span class="total_onetime">0.00</span></strong></td>
 											   </tr>
 										   </tfoot>
-									   </table>
+									   </table><div class="row">
+									   <div class="col-6">
 									   <p><small><span class="c-button c-button--outline c-button--small c-button--square" id="myBtn">View call rates</span></small></p>
+										   </div>
+									   <div class="col-6">
+									   <p><small><span class="c-button c-button--outline c-button--small c-button--square" id="myBtn" style="float:right;">Pay Now</span></small></p>
+										   </div>
+
+										   </div>
 								   </div>
 							   </div>
 						   </div>
 						   <div class="c-sticky" id="sticky-costs">
 							   <div class="l-flexs l-flex--space-betweens">
 								   <div class="u-display-none">Total <strong>R <span class="total_monthly">0.00</span></strong> monthly</div>
-								   <div><a class="c-button c-button--white c-button--small c-button--square js-toggle-sticky">View costs</a></div>
+									   <a class="c-button c-button--white c-button--small c-button--square js-toggle-sticky">View costs</a>
 							   </div>
 						   </div>
 						   <script>(function ($) {

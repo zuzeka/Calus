@@ -1,23 +1,83 @@
-﻿<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Izwi - Cloud Telecoms</title>
-
-    <!-- Favicons -->
-    <link rel="shortcut icon" href="assets/images/favicon.ico">
-
-
+﻿<!DOCTYPE HTML>
+<html lang="en-ZA" prefix="og: http://ogp.me/ns#">
+   <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+       
     <link rel="stylesheet" href="assets/css/vendor.min.css">
     <link rel="stylesheet" href="assets/css/plugins.min.css">
     <link rel="stylesheet" href="assets/css/style.min.css">
+	<link rel="stylesheet" href="assets/css/style.css">
+	   <link href="assets/css/main.css" rel="stylesheet" />
 
-
-</head>
-
-<body>
+      <link rel="shortcut icon" href="/favicon.ico?new" />
+      <link rel="apple-touch-icon-precomposed" href="/apple-icon.png" />
+      <title>Telecom companies in South Africa can do better - Who is Voys?</title>
+      <meta name="description" content="Voys telecom is liberating South African business. We are transforming the telecommunications industry by offering maximum freedom and excellent support."/>
+      <meta name="robots" content="noodp"/>
+      <link rel="canonical" href="https://www.voys.co.za/telecom-company-south-africa/" />
+      <meta property="og:locale" content="en_US" />
+      <meta property="og:type" content="article" />
+      <meta property="og:title" content="Telecom companies in South Africa can do better - Who is Voys?" />
+      <meta property="og:description" content="Voys telecom is liberating South African business. We are transforming the telecommunications industry by offering maximum freedom and excellent support." />
+      <meta property="og:url" content="https://www.voys.co.za/telecom-company-south-africa/" />
+      <meta property="og:site_name" content="Voys" />
+      <meta property="article:publisher" content="https://www.facebook.com/voyssa/" />
+      <meta name="twitter:card" content="summary" />
+      <meta name="twitter:description" content="Voys telecom is liberating South African business. We are transforming the telecommunications industry by offering maximum freedom and excellent support." />
+      <meta name="twitter:title" content="Telecom companies in South Africa can do better - Who is Voys?" />
+      <meta name="twitter:site" content="@voyssa" />
+      <meta name="twitter:creator" content="@voyssa" />
+      <meta property="DC.date.issued" content="2016-02-03T10:54:15+02:00" />
+      <link rel='dns-prefetch' href='//js.hs-scripts.com' />
+      <link rel='dns-prefetch' href='//code.jquery.com' />
+      <link rel='dns-prefetch' href='//s.w.org' />
+      <link rel='stylesheet' id='wp-block-library-css'  href='https://www.voys.co.za/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+      <script type='text/javascript' src='//code.jquery.com/jquery-2.2.4.min.js' id='jquery-js'></script> 
+      <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.voys.co.za/xmlrpc.php?rsd" />
+      <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.voys.co.za/wp-includes/wlwmanifest.xml" />
+      <link rel='shortlink' href='https://www.voys.co.za/?p=3550' />
+      <script type="text/javascript">var _hsq = _hsq || [];
+         _hsq.push(["setContentType", "standard-page"]);
+      </script>  <script>(function() {
+         var hbspt = window.hbspt = window.hbspt || {};
+         hbspt.forms = hbspt.forms || {};
+         hbspt._wpFormsQueue = [];
+         hbspt.enqueueForm = function(formDef) {
+         	if (hbspt.forms && hbspt.forms.create) {
+         		hbspt.forms.create(formDef);
+         	} else {
+         		hbspt._wpFormsQueue.push(formDef);
+         	}
+         }
+         if (!window.hbspt.forms.create) {
+         	Object.defineProperty(window.hbspt.forms, 'create', {
+         		configurable: true,
+         		get: function() {
+         			return hbspt._wpCreateForm;
+         		},
+         		set: function(value) {
+         			hbspt._wpCreateForm = value;
+         			while (hbspt._wpFormsQueue.length) {
+         				var formDef = hbspt._wpFormsQueue.shift();
+         				if (!document.currentScript) {
+         					var formScriptId = 'leadin-forms-v2-js';
+         					hubspot.utils.currentScript = document.getElementById(formScriptId);
+         				}
+         				hbspt._wpCreateForm.call(hbspt.forms, formDef);
+         			}
+         		},
+         	});
+         }
+         })();
+      </script> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-K6ZL3VM');   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');    ga('create', 'UA-41912122-1', 'auto');   ga('send', 'pageview');</script>  <script>!function(f,b,e,v,n,t,s)  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?  n.callMethod.apply(n,arguments):n.queue.push(arguments)};  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';  n.queue=[];t=b.createElement(e);t.async=!0;  t.src=v;s=b.getElementsByTagName(e)[0];  s.parentNode.insertBefore(t,s)}(window, document,'script',  'https://connect.facebook.net/en_US/fbevents.js');  fbq('init', '1053827518010898');  fbq('track', 'PageView');</script> 
+      <noscript><img height="1" width="1" style="display:none"  src="https://www.facebook.com/tr?id=1053827518010898&ev=PageView&noscript=1 https://www.facebook.com/tr?id=1053827518010898&ev=PageView&noscript=1 " /></noscript>
+      <script>var hasMarketing = localStorage.getItem('cookieMarketing');
+         if (hasMarketing === 'true') {
+                     }
+      </script> 
+   </head>
+   <body>
     <!-- Header Section Start -->
     <div class="header section">
 
@@ -67,7 +127,7 @@
                                         <li><a href="phone.aspx">VoIP phones</a></li>
                                     </ul>
                                 </li>                                
-                                <li><a href="contact.html">Tour</a></li>
+                                <li><a href="tour.aspx">Tour</a></li>
                                 <li class="has-children">
                                     <a href="featureAndPrice.aspx">Features and pricing</a>
                                     <ul class="sub-menu">
@@ -78,8 +138,8 @@
                                         <li><a href="webphone.aspx">Izwi Webphone</a></li>
                                         <li><a href="request-a-quote.aspx">Request a quote</a></li>
                                     </ul>
-                                </li>                                
-                                <li><a href="about.aspx">About</a></li>
+                                </li>
+                             <li><a href="about.aspx">About</a></li>
                                 <%--<li class="has-children">
                                     <a href="about.aspx">About</a>
                                     <ul class="sub-menu">
@@ -165,7 +225,7 @@
                                 <ul class="dropdown">
                                     <li><a href="about.html">About Us</a></li>
                                     <li><a href="service.html">Service</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="contact.aspx">Contact</a></li>
                                     <li><a href="faq.html">Faq</a></li>
                                     <li><a href="error-404.html">Error 404</a></li>
                                 </ul>
@@ -181,7 +241,7 @@
                                 </ul>
                             </li>
                             <li><a href="about.html">About</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="contact.aspx">Contact</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -239,548 +299,251 @@
     </div>
     <!-- Header Section End -->
 
-    <!-- Breadcrumb Section Start -->
-    <div class="section breadcrumb-bg" style="background-color:#006EA1;">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="cr-breadcrumb-area">
-                        <h1 class="title">About Us</h1>
-                        <ul class="breadcrumb-list">
-                            <li><a href="index.html">Home</a></li>
-                            <li><span>About Us</span></li>
-                        </ul>
+       
+   
+    <!-- Hero/Intro Slider Start -->
+    <div class="section">
+        <div class="hero-slider swiper-container">
+            <div class="swiper-wrapper">
+                <div class="hero-slide-item swiper-slide">
+                    <div class="hero-slide-bg">
+                        <img src="assets/images/request-a-call/logo2.jpg" alt="" />
+                    </div>
+                    <div class="container">
+                        <div class="hero-slide-content">
+                            <h2 class="title">About Izwi Telecom</h2>
+                            <p>Izwi strives to be the best telecom company for business. Our mission is to radically transform the telecommunications industry in South Africa. 
+                                Izwi clients enjoy maximum freedom and excellent support.</p>
+                        </div>
                     </div>
                 </div>
             </div>
+
+            <div class="swiper-pagination"></div>
         </div>
     </div>
-    <!-- Breadcrumb Section End -->
+    <!-- Hero/Intro Slider End -->
+      <div class="c-layout">
+         <div class="c-layout__row c-layout__row--white c-layout__row--pv0">             
+            <div class="c-header"></div>
+         </div>
 
-    <!-- About Section Start -->
-    <div class="section section-padding">
-        <div class="container">
-            <!-- About Image/Content Start -->
-            <div class="about-image-content-area">
-                <div class="row align-items-center mb-n6">
-                    <div class="col-lg-6 order-lg-1 order-2 mb-6" data-aos="fade-up" data-aos-delay="300">
-                        <!-- About Content Start -->
-                        <div class="about-content-area">
-                            <h2 class="title">Welcome Message</h2>
-                            <p class="mb-5 mb-md-8 mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temp inc ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercita ullamco laboris nisi ut aliquip ex ea commodo conse. Duis aute irure dolor in repre derit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Except sint occa cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laboru Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor laudantium, totam rem aperiam,</p>
-                            <a href="about.html" class="btn btn-hover-secondary btn-primary">About Us</a>
-                        </div>
-                        <!-- About Content End -->
-                    </div>
-                    <div class="col-lg-6 order-lg-2 order-1 mb-6" data-aos="fade-up" data-aos-delay="400">
-                        <div class="about-image">
-                            <img src="assets/images/about/about-4.jpg" alt="About Image">
-                        </div>
-                    </div>
-                </div>
+         <div class="c-layout__row  c-layout__row--primary"></div>
+         <div class="c-layout__row  c-layout__row--white">
+            <div class="c-layout__container ">
+               <h1 class="c-heading c-heading--50">What to expect from Izwi Telecom</h1>
+               <div class="c-grid c-grid--halves">
+                  <div class="c-grid__item">
+                     <div class="u-content">
+                        <p>We started Izwi to offer businesses maximum flexibility and control over their phone systems. We believe that telecom providers can and should liberate their customers. Every South African business deserves a tailored telecom solution. That&#8217;s why we empower businesses to self-manage their phone systems, from anywhere at anytime. Just the way it should be!</p>
+                     </div>
+                  </div>
+                  <div class="c-grid__item">
+                     <div class="u-content">
+                        <p>Izwi is not just another telecom company. We offer freedom. We don&#8217;t only liberate our clients, but our colleagues as well. At Izwi there are no managers or hierarchal pecking orders. Every colleague has the freedom to manage themselves. This is why Izwi colleagues are the happiest in the telecom industry, and happy colleagues cultivate happy customers.</p>
+                     </div>
+                  </div>
+               </div>
             </div>
-            <!-- About Image/Content End -->
-            <!-- About Timeline Start -->
-            <div class="about-timeline-spacing-top border-top">
-                <div class="row row-cols-lg-3 row-cols-1 mb-n6">
-                    <div class="col mb-6" data-aos="fade-up" data-aos-delay="300">
-
-                        <!-- Feature Box Wrapper Start -->
-                        <div class="feature-box-wrapper">
-                            <div class="feature-box-icon">
-                                <img src="assets/images/icon/about-icon-1.png" alt="About Icon">
-                            </div>
-                            <div class="feature-content">
-                                <h4 class="title">Project Buildings</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed eius tempor inci ut labore.</p>
-                            </div>
-                        </div>
-                        <!-- Feature Box Wrapper End -->
-
-                    </div>
-
-                    <div class="col mb-6" data-aos="fade-up" data-aos-delay="400">
-
-                        <!-- Feature Box Wrapper Start -->
-                        <div class="feature-box-wrapper">
-                            <div class="feature-box-icon">
-                                <img src="assets/images/icon/about-icon-2.png" alt="About Icon">
-                            </div>
-                            <div class="feature-content">
-                                <h4 class="title">Home Maintenance</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed eius tempor inci ut labore.</p>
-                            </div>
-                        </div>
-                        <!-- Feature Box Wrapper End -->
-
-                    </div>
-
-                    <div class="col mb-6" data-aos="fade-up" data-aos-delay="500">
-                        <!-- Feature Box Wrapper Start -->
-                        <div class="feature-box-wrapper">
-                            <div class="feature-box-icon">
-                                <img src="assets/images/icon/about-icon-3.png" alt="About Icon">
-                            </div>
-                            <div class="feature-content">
-                                <h4 class="title">Electrical Project</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed eius tempor inci ut labore.</p>
-                            </div>
-                        </div>
-                        <!-- Feature Box Wrapper End -->
-                    </div>
-                </div>
+            <div class="c-layout__container ">
+               <div class="c-grid c-grid--single">
+                  <div class="c-grid__item">
+                     <div class="u-content">
+                        <figure class="c-media c-media--image"><a href="https://www.voys.co.za/wp-content/uploads/2018/10/Nat.jpg"><img loading="lazy" class="aligncenter wp-image-9346 size-large" src="https://www.voys.co.za/wp-content/uploads/2018/10/Nat-1024x683.jpg" alt="Izwi Telecom Colleague Smiling at Work " width="1024" height="683" srcset="https://www.voys.co.za/wp-content/uploads/2018/10/Nat-1024x683.jpg 1024w, https://www.voys.co.za/wp-content/uploads/2018/10/Nat-300x200.jpg 300w, https://www.voys.co.za/wp-content/uploads/2018/10/Nat-768x512.jpg 768w, https://www.voys.co.za/wp-content/uploads/2018/10/Nat-100x67.jpg 100w, https://www.voys.co.za/wp-content/uploads/2018/10/Nat-250x167.jpg 250w, https://www.voys.co.za/wp-content/uploads/2018/10/Nat.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+                     </div>
+                  </div>
+               </div>
             </div>
-            <!-- About Timeline End -->
-        </div>
-    </div>
-    <!-- About Section End -->
-
-    <!-- FunFact Section Start -->
-    <div class="section funfact-bg">
-        <div class="container">
-            <div class="row row-cols-sm-2 row-cols-lg-4 row-cols-1 mb-n10">
-                <!-- FunFact Area Start -->
-                <div class="col mb-10">
-                    <!-- Single FunFact Start -->
-                    <div class="funfact-wrap" data-aos="fade-up" data-aos-delay="300">
-                        <div class="funfact-icon">
-                            <img src="assets/images/icon/funfact-icon-1.png" alt="Funfact Icon">
-                        </div>
-                        <span class="odometer" data-count-to="599"></span>
-                        <h6 class="title">Projects Complete</h6>
-                    </div>
-                    <!-- Single FunFact End -->
-                </div>
-                <div class="col mb-10">
-                    <!-- Single FunFact Start -->
-                    <div class="funfact-wrap" data-aos="fade-up" data-aos-delay="400">
-                        <div class="funfact-icon">
-                            <img src="assets/images/icon/funfact-icon-2.png" alt="Funfact Icon">
-                        </div>
-                        <span class="odometer" data-count-to="252"></span>
-                        <h6 class="title">Happy Clients</h6>
-                    </div>
-                    <!-- Single FunFact End -->
-                </div>
-                <div class="col mb-10">
-                    <!-- Single FunFact Start -->
-                    <div class="funfact-wrap" data-aos="fade-up" data-aos-delay="500">
-                        <div class="funfact-icon">
-                            <img src="assets/images/icon/funfact-icon-3.png" alt="Funfact Icon">
-                        </div>
-                        <span class="odometer" data-count-to="1252"></span>
-                        <h6 class="title">Cups of Coffee</h6>
-                    </div>
-                    <!-- Single FunFact End -->
-                </div>
-                <div class="col mb-10">
-                    <!-- Single FunFact Start -->
-                    <div class="funfact-wrap" data-aos="fade-up" data-aos-delay="600">
-                        <div class="funfact-icon">
-                            <img src="assets/images/icon/funfact-icon-4.png" alt="Funfact Icon">
-                        </div>
-                        <span class="odometer" data-count-to="957"></span>
-                        <h6 class="title">Built House</h6>
-                    </div>
-                    <!-- Single FunFact End -->
-                </div>
-                <!-- FunFact Area End -->
+         </div>
+         <div class="c-layout__row  c-layout__row--neutral">
+            <div class="c-layout__container">
+               <div class="c-grid c-grid--side">
+                  <div class="c-grid__item">
+                     <h2 class="c-heading c-heading--50">Izwi Telecom Values</h2>
+                     <div class="c-paragraph c-paragraph--lead c-paragraph--margin">
+                        <p>These values have created a great business environment, with happy colleagues serving happy clients. Our customers frequently refer to us as one of the best telecom companies in South Africa, rating us 9.6 on a 10-point scale.</p>
+                     </div>
+                  </div>
+               </div>
+               <div class="c-grid ">
+                  <div class="c-grid__item">
+                     <ul class="c-grid c-grid--thirds u-spacing--10">
+                        <li class="c-grid__item c-card ">
+                           <div class="c-card__container ">
+                              <div class="c-card__content   ">
+                                 <h2 class="c-heading c-heading--30">Open</h2>
+                                 <p>Open dialogue is the foundation of every meaningful relationship. We don’t keep secrets and we don’t beat around the bush. We are warm and inclusive, friendly, but direct. What you see is what you get.</p>
+                              </div>
+                           </div>
+                        </li>
+                        <li class="c-grid__item c-card ">
+                           <div class="c-card__container ">
+                              <div class="c-card__content   ">
+                                 <h2 class="c-heading c-heading--30">Supportive</h2>
+                                 <p>We're humans, not robots. By nature, we nurture and kindness is our greatest feat. We enjoy helping and serving with a personal touch. We empathise with vigour and never patronise or judge.</p>
+                              </div>
+                           </div>
+                        </li>
+                        <li class="c-grid__item c-card ">
+                           <div class="c-card__container ">
+                              <div class="c-card__content   ">
+                                 <h2 class="c-heading c-heading--30">Joy</h2>
+                                 <p>“What’s the point of working hard & being successful if you’re not enjoying what you’re doing?”(Richard Branson). Don't take yourself all too seriously. Have a laugh, take a break! When you love what you do, you don’t work a day.</p>
+                              </div>
+                           </div>
+                        </li>
+                        <li class="c-grid__item c-card ">
+                           <div class="c-card__container ">
+                              <div class="c-card__content   ">
+                                 <h2 class="c-heading c-heading--30">Collaborative Autonomy</h2>
+                                 <p>“No man is an island”(John Donne). We're independent, resourceful and self-motivated individuals, but we enjoy collaborating to learn and participating to win. We manage ourselves and take ownership of our roles. We account for our actions and air our own flaws.</p>
+                              </div>
+                           </div>
+                        </li>
+                        <li class="c-grid__item c-card ">
+                           <div class="c-card__container ">
+                              <div class="c-card__content   ">
+                                 <h2 class="c-heading c-heading--30">Adapt and Grow</h2>
+                                 <p>“The only constant in life is change” (Heraclitus), so we embrace it. Our youthful curiosity is what keeps us developing as people and as a business. We adapt to our environment and grow with our clients. Advancement is our purpose and evolution our science.</p>
+                              </div>
+                           </div>
+                        </li>
+                        <li class="c-grid__item c-card ">
+                           <div class="c-card__container ">
+                              <div class="c-card__content   ">
+                                 <h2 class="c-heading c-heading--30">Impactful</h2>
+                                 <p>With great Freedom comes great responsibility. Are you making an impact? We are an output-oriented business, focused on individual effectiveness as a measure of value. How time is managed remains up to the individual, but being productive is always the residual.</p>
+                              </div>
+                           </div>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
             </div>
-        </div>
-    </div>
-    <!-- FunFact Section End -->
-
-    <!-- Team Section Start -->
-    <div class="section section-padding">
-        <div class="container">
-            <div class="row">
-                <!-- Section Title Start -->
-                <div class="col-12 section-title" data-aos="fade-up" data-aos-delay="300">
-                    <h2 class="title">Meet Our Teams</h2>
-                    <span></span>
-                    <p class="sub-title">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                </div>
-                <!-- Section Title End -->
+         </div>
+         <div class="c-layout__row  c-layout__row--white">
+            <div class="c-layout__container ">
+               <div class="c-grid c-grid--single">
+                  <div class="c-grid__item">
+                     <h2 class="c-heading c-heading--50">Who we are</h2>
+                  </div>
+               </div>
+               <div class="c-grid c-grid--single">
+                  <div class="c-grid__item">
+                     <div class="u-content">
+                        <h2>How did Izwi Telecom start</h2>
+                        <p>Izwi was founded in 2006 as a spin-off of TNO, the leading research facility in the Netherlands. Our VoIP platform has been nominated for several awards including the Shell LiveWire Awards. Voys is also a Deloitte Technology Fast50 company for 4 years in a row.</p>
+                        <figure class="c-media c-media--image"><a href="https://www.voys.co.za/wp-content/uploads/2018/10/ABout.jpg"><img loading="lazy" class="alignnone size-large wp-image-9309" src="https://www.voys.co.za/wp-content/uploads/2020/11/6-2.jpg" alt="Voys Telecom Remote Work" width="1024" height="683" /></a></figure>
+                        <p>&nbsp;</p>
+                     </div>
+                  </div>
+                  <div class="c-grid__item">
+                     <div class="u-content">
+                        <h2>Izwi company culture</h2>
+                        <p>As a flat organisation, Izwi beliefs in empowering individuals to self-manage their professional lives. This means every colleague knows exactly what they are responsible for, and has the freedom to meet those expectations however they prefer. It’s about having the power to make changes and improve things &#8211; beyond what is required from you.</p>
+                     </div>
+                  </div>
+               </div>
+               <div class="c-grid c-grid--single">
+                  <div class="c-grid__item">
+                     <p></p>
+                  </div>
+               </div>
             </div>
-            <div class="row row-cols-sm-2 row-cols-lg-4 row-cols-1 mb-n6">
-                <!-- Team Members Area Start -->
-                <div class="col mb-6">
-                    <!-- Single Team member Start -->
-                    <div class="single-team-member" data-aos="fade-up" data-aos-delay="300">
-                        <!-- Team Member Images Start -->
-                        <div class="team-member-image">
-                            <img src="assets/images/team/1.jpg" alt="Team Member">
-                        </div>
-                        <!-- Team Member Images End -->
-
-                        <!-- Team Member Name/Social Identity Start -->
-                        <div class="team-member-content">
-                            <h2 class="name">Jessica Watson</h2>
-                            <span class="person-title">Director</span>
-                            <ul class="social-widgets">
-                                <li>
-                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-vimeo"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-linkedin"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                        <!-- Team Member Name/Social Identity End -->
-                    </div>
-                    <!-- Single Team member End -->
-                </div>
-
-                <div class="col mb-6">
-                    <!-- Single Team member Start -->
-                    <div class="single-team-member" data-aos="fade-up" data-aos-delay="400">
-                        <!-- Team Member Images Start -->
-                        <div class="team-member-image">
-                            <img src="assets/images/team/2.jpg" alt="Team Member">
-                        </div>
-                        <!-- Team Member Images End -->
-
-                        <!-- Team Member Name/Social Identity Start -->
-                        <div class="team-member-content">
-                            <h2 class="name">Ronald Long</h2>
-                            <span class="person-title">Director</span>
-                            <ul class="social-widgets">
-                                <li>
-                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-vimeo"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-linkedin"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                        <!-- Team Member Name/Social Identity End -->
-                    </div>
-                    <!-- Single Team member End -->
-                </div>
-
-                <div class="col mb-6">
-                    <!-- Single Team member Start -->
-                    <div class="single-team-member" data-aos="fade-up" data-aos-delay="500">
-                        <!-- Team Member Images Start -->
-                        <div class="team-member-image">
-                            <img src="assets/images/team/3.jpg" alt="Team Member">
-                        </div>
-                        <!-- Team Member Images End -->
-
-                        <!-- Team Member Name/Social Identity Start -->
-                        <div class="team-member-content">
-                            <h2 class="name">Ashley Sanchez</h2>
-                            <span class="person-title">Director</span>
-                            <ul class="social-widgets">
-                                <li>
-                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-vimeo"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-linkedin"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                        <!-- Team Member Name/Social Identity End -->
-                    </div>
-                    <!-- Single Team member End -->
-                </div>
-
-                <div class="col mb-6">
-                    <!-- Single Team member Start -->
-                    <div class="single-team-member" data-aos="fade-up" data-aos-delay="600">
-                        <!-- Team Member Images Start -->
-                        <div class="team-member-image">
-                            <img src="assets/images/team/4.jpg" alt="Team Member">
-                        </div>
-                        <!-- Team Member Images End -->
-
-                        <!-- Team Member Name/Social Identity Start -->
-                        <div class="team-member-content">
-                            <h2 class="name">Shirley Gibson</h2>
-                            <span class="person-title">Director</span>
-                            <ul class="social-widgets">
-                                <li>
-                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-vimeo"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-linkedin"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                        <!-- Team Member Name/Social Identity End -->
-                    </div>
-                    <!-- Single Team member End -->
-                </div>
-                <!-- Team Members Area End -->
+         </div>
+         <div class="c-layout__row  c-layout__row--neutral">
+            <div class="c-layout__container ">
+               <h1 class="c-heading c-heading--50">Izwi Telecom Customers</h1>
+               <div class="c-grid c-grid--halves">
+                  <div class="c-grid__item">
+                     <div class="u-content">
+                        <p>Our clients range from freelancers to corporates such as MSI Computers, Royal Dutch Airlines, Disney and Gazprom. We are proud to be the highest ranked telecom provider in terms of customer satisfaction. <a href="https://www.voys.co.za/telecom-company-south-africa/voip-service-providers/">More&#8230;</a></p>
+                     </div>
+                  </div>
+                  <div class="c-grid__item">
+                     <div class="u-content">
+                        <blockquote>
+                           <p>&#8220;Izwi has been brilliant to work with in terms of service and product. Very helpful service and quick delivery. It was easy to set up and the business was able to communicate easily. Good quality calls and the wireless system makes everything a whole lot easier. From a business perspective we were never waiting for Izwi to do their part the only waiting period was Izwi waiting for us to accept the quote. Was a pleasure doing business with them and they were absolutely fantastic.&#8221;<br /> <small>Daniel Coetzee, <a href="http://www.jcgroup.co.za/">J.C Group</a></small></p>
+                        </blockquote>
+                     </div>
+                  </div>
+               </div>
+               <div class="c-grid c-grid--single">
+                  <div class="c-grid__item">
+                     <p></p>
+                  </div>
+               </div>
             </div>
-        </div>
-    </div>
-    <!-- Team Section End -->
-
-    <!-- Brand Logo Section Start -->
-    <div class="section bg-secondary brand-logo-bg">
-        <div class="container">
-            <div class="row">
-                <div class="col">
-
-                    <div class="brand-logo-carousel text-center">
-                        <div class="swiper-container">
-                            <div class="swiper-wrapper align-items-center">
-
-                                <!-- Single Brand Logo Start -->
-                                <div class="swiper-slide">
-                                    <div class="brand-logo" data-aos="fade-up" data-aos-delay="300">
-                                        <img src="assets/images/brand-logo/1.png" alt="Brand Logo">
-                                    </div>
-                                </div>
-                                <!-- Single Brand Logo End -->
-
-                                <!-- Single Brand Logo Start -->
-                                <div class="swiper-slide">
-                                    <div class="brand-logo" data-aos="fade-up" data-aos-delay="400">
-                                        <img src="assets/images/brand-logo/2.png" alt="Brand Logo">
-                                    </div>
-                                </div>
-                                <!-- Single Brand Logo End -->
-
-                                <!-- Single Brand Logo Start -->
-                                <div class="swiper-slide">
-                                    <div class="brand-logo" data-aos="fade-up" data-aos-delay="500">
-                                        <img src="assets/images/brand-logo/3.png" alt="Brand Logo">
-                                    </div>
-                                </div>
-                                <!-- Single Brand Logo End -->
-
-                                <!-- Single Brand Logo Start -->
-                                <div class="swiper-slide">
-                                    <div class="brand-logo" data-aos="fade-up" data-aos-delay="600">
-                                        <img src="assets/images/brand-logo/4.png" alt="Brand Logo">
-                                    </div>
-                                </div>
-                                <!-- Single Brand Logo End -->
-
-                                <!-- Single Brand Logo Start -->
-                                <div class="swiper-slide">
-                                    <div class="brand-logo" data-aos="fade-up" data-aos-delay="700">
-                                        <img src="assets/images/brand-logo/5.png" alt="Brand Logo">
-                                    </div>
-                                </div>
-                                <!-- Single Brand Logo End -->
-
-                            </div>
-
-                        </div>
-                    </div>
-
-                </div>
+         </div>
+         <div class="c-layout__row  c-layout__row--primary">
+            <div class="c-layout__container u-text-align-center">
+               <div class="c-grid c-grid--single">
+                  <div class="c-grid__item">
+                     <h2 class="c-heading c-heading--50">Like what you hear? Let's do business!</h2>
+                  </div>
+               </div>
+               <div class="c-grid c-grid--single">
+                  <div class="c-grid__item">
+                     <div class="u-content">
+                        <p>Freedom = optimally available, save money and maximum flexibility. You&#8217;re in good company along with over 10,000 other businesses.</p>
+                     </div>
+                  </div>
+               </div>
+               <div class="c-grid c-grid--single">
+                  <div class="c-grid__item">
+                     <p> <a class="c-button c-button--neutral"
+                        href="request-a-quote.apsx">Yes, I want to receive a quote</a></p>
+                  </div>
+               </div>
             </div>
-        </div>
-    </div>
-    <!-- Brand Logo Section End -->
-
-    <!-- Testimonial Section Start -->
-    <div class="section section-padding">
-        <div class="container">
-            <div class="row">
-                <!-- Section Title Start -->
-                <div class="col-12 section-title" data-aos="fade-up" data-aos-delay="300">
-                    <h2 class="title">Testimonials</h2>
-                    <span></span>
-                    <p class="sub-title">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                </div>
-                <!-- Section Title End -->
-            </div>
-            <div class="row">
-                <div class="col">
-                    <div class="testimonial-carousel">
-                        <div class="swiper-container">
-                            <div class="swiper-wrapper">
-
-                                <!-- Single Testimonial Start -->
-                                <div class="swiper-slide">
-                                    <div class="testimonial" data-aos="fade-up" data-aos-delay="300">
-                                        <div class="text">
-                                            <p>"You could debate whether it is an issue of the theme or a new extension. PlazaThemes support and response has been amazing, helping me with several issues. With no doubt when designing a complex website you will face issues with the compatibility of the theme specially when installing new extensions.</p>
-                                        </div>
-                                        <div class="thumb">
-                                            <img src="assets/images/testimonial/testimonial-author-image-1.png" alt="Testimonial Image">
-                                            <div class="name">
-                                                <h2 class="title">Michile Johnson</h2>
-                                                <h4 class="sub-title">Creative Director</h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- Single Testimonial End -->
-
-                                <!-- Single Testimonial Start -->
-                                <div class="swiper-slide">
-                                    <div class="testimonial" data-aos="fade-up" data-aos-delay="400">
-                                        <div class="text">
-                                            <p>"You could debate whether it is an issue of the theme or a new extension. PlazaThemes support and response has been amazing, helping me with several issues. With no doubt when designing a complex website you will face issues with the compatibility of the theme specially when installing new extensions.</p>
-                                        </div>
-                                        <div class="thumb">
-                                            <img src="assets/images/testimonial/testimonial-author-image-2.png" alt="Testimonial Image">
-                                            <div class="name">
-                                                <h2 class="title">Tianna Streich</h2>
-                                                <h4 class="sub-title">Project CEO</h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- Single Testimonial End -->
-
-                                <!-- Single Testimonial Start -->
-                                <div class="swiper-slide">
-                                    <div class="testimonial" data-aos="fade-up" data-aos-delay="500">
-                                        <div class="text">
-                                            <p>"You could debate whether it is an issue of the theme or a new extension. PlazaThemes support and response has been amazing, helping me with several issues. With no doubt when designing a complex website you will face issues with the compatibility of the theme specially when installing new extensions.</p>
-                                        </div>
-                                        <div class="thumb">
-                                            <img src="assets/images/testimonial/testimonial-author-image-3.png" alt="Testimonial Image">
-                                            <div class="name">
-                                                <h2 class="title">Beau O'Hara</h2>
-                                                <h4 class="sub-title">Creative Director</h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- Single Testimonial End -->
-
-                            </div>
-
-                            <!-- pagination -->
-                            <div class="swiper-pagination"></div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Testimonial Section End -->
-
-    <footer class="section footer-section bg-secondary">
+         </div>        
+      </div>
+       
         <!-- Footer Top Start -->
-        <div class="footer-top">
-            <div class="container">
-                <div class="row mb-n10">
-                    <div class="col-12 col-sm-6 col-lg-3 col-xl-3 mb-10">
-                        <div class="single-footer-widget">
-                            <div class="footer-logo">
-                                <a href="index.html">
-                                    <img src="assets/images/logo/footer-logo.png" alt="Logo Image">
-                                </a>
-                            </div>
-                            <p class="desc-content pt-5 pb-3">Lorem ipsum dolor sit amet, consect ascing elit, sed do eiusmod incididunt ut labore et dolore Many desktop</p>
-                            <!-- Contact Address Start -->
-                            <ul class="widget-address">
-                                <li><i class="fa fa-map-o"></i><span>1234 Road, London, UK</span></li>
-                                <li><i class="fa fa-phone"></i><a href="#">+123 456 789 123</a></li>
-                                <li><i class="fa fa-envelope-o"></i><a href="#">info@example.com</a></li>
-                            </ul>
-                            <!-- Contact Address End -->
-                        </div>
-                    </div>
-                    <div class="col-12 col-sm-6 col-lg-3 col-xl-3 mb-10">
-                        <div class="single-footer-widget">
-                            <h2 class="widget-title">Our Servcie</h2>
-                            <ul class="widget-list pt-6">
-                                <li><a href="service.html">Mobile App Development</a></li>
-                                <li><a href="service.html">Ui/Ux Design</a></li>
-                                <li><a href="service.html">Web Development</a></li>
-                                <li><a href="service.html">Article Writting</a></li>
-                                <li><a href="service.html">Content Management</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-12 col-sm-6 col-lg-2 col-xl-3 mb-10">
-                        <div class="single-footer-widget aos-init aos-animate">
-                            <h2 class="widget-title">Quicklink</h2>
-                            <ul class="widget-list pt-6">
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="about.html">About</a></li>
-                                <li><a href="contact.html">Help Center</a></li>
-                                <li><a href="contact.html">Conditin</a></li>
-                                <li><a href="contact.html">Term Of Use</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-12 col-sm-6 col-lg-4 col-xl-3 mb-10">
-                        <div class="single-footer-widget">
-                            <h2 class="widget-title">Get in Touch</h2>
-                            <div class="widget-body pt-5">
-                                <p class="desc-content mb-0">Enter your email and receive the latest news from us.</p>
+	<footer class="section single-footer" style="background-color: #f4f3f8">
+		<div class="footer-top">
+			<div class="container">
+				<div class="row mb-5 element-animate fadeInUp element-animated">
+					<div class="col-md-3 mb-5">
+						<h3>Terms & Conditions</h3>
+						<p class="mb-5"><a href="termsAndConditions.aspx"><u>Terms & Conditions</u></a></p>
+					</div>
+					<div class="col-md-3 mb-5">
+						<h3>Call us on</h3>
+						<p>+27 12 110 4017<br>
+							+27 66 212 1961</p>
+					</div>
+					<div class="col-md-3 mb-5">
+						<h3>Email us @</h3>
+						<p class="mb-5"><a href="mailto:info@bumbatechnos.co.za"><u>info@bumbatechnos.co.za</u></a></p>
 
-                                <!-- Newsletter Form Start -->
-                                <div class="newsletter-form-wrap pt-4">
-                                    <form id="mc-form" class="mc-form">
-                                        <input type="email" id="mc-email" class="form-control email-box" placeholder="email@example.com" name="EMAIL">
-                                        <button id="mc-submit" class="newsletter-btn" type="submit"><i class="fa fa-envelope"></i></button>
-                                    </form>
-                                    <!-- mailchimp-alerts Start -->
-                                    <div class="mailchimp-alerts text-centre">
-                                        <div class="mailchimp-submitting"></div><!-- mailchimp-submitting end -->
-                                        <div class="mailchimp-success text-success"></div><!-- mailchimp-success end -->
-                                        <div class="mailchimp-error text-danger"></div><!-- mailchimp-error end -->
-                                    </div>
-                                    <!-- mailchimp-alerts end -->
-                                </div>
-                                <!-- Newsletter Form End -->
+					</div>
+					<div class="col-md-3 mb-5">
+						<h3>Location &amp; Contact</h3>
+						<p class="mb-5" style="font-size: larger;">
+							Suite 9A Schoeman Street Forum<br>
+							1157 Francis Baard Street<br>
+							Hatfield, 0028
+						</p>
+					</div>
+				</div>
 
-                                <!-- Soclial Link Start -->
-                                <div class="widget-social justify-content-start mt-6">
-                                    <a title="Facebook" href="#"><i class="fa fa-facebook-f"></i></a>
-                                    <a title="Twitter" href="#"><i class="fa fa-twitter"></i></a>
-                                    <a title="Linkedin" href="#"><i class="fa fa-linkedin"></i></a>
-                                    <a title="Youtube" href="#"><i class="fa fa-youtube"></i></a>
-                                    <a title="Vimeo" href="#"><i class="fa fa-vimeo"></i></a>
-                                </div>
-                                <!-- Social Link End -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Footer Top End -->
+			</div>
+		</div>
+		<!-- Footer Top End -->
 
-        <!-- Footer Bottom Start -->
-        <div class="container">
-            <div class="row align-items-center footer-bottom">
-                <div class="col-12 text-center">
-                    <div class="copyright-content">
-                        <p class="mb-0">Copyright © 2020 <a href="https://hasthemes.com/">HasThemes.</a> All Rights Reserved.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+		<!-- Footer Bottom Start -->
+		<div class="container" style="background-color: #006ea1">
+			<div class="row align-items-center footer-bottom">
+				<div class="col-12 text-center">
+					<div class="copyright-content">
+						<p>© 2019 Calus Technologies. Designed &amp; Developed by <a href="https://www.calustechnologies.co.za/" target="_blank">Calus Technologies</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
         <!-- Footer Bottom End -->
-    </footer>
 
     <!-- Scroll Top Start -->
     <a href="#" class="scroll-top" id="scroll-top">
@@ -798,6 +561,7 @@
 
     <!--Main JS-->
     <script src="assets/js/main.js"></script>
-</body>
 
+      <script defer src="https://www.voys.co.za/wp-content/cache/autoptimize/autoptimize_36f12dcff73e51a06541db68853ac53f.php"></script>
+   </body>
 </html>

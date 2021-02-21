@@ -425,54 +425,7 @@
                </div>
             </div>
          </div>
-      </div>
-      <script type='text/javascript' id='leadin-script-loader-js-js-extra'>var leadin_wordpress = { "userRole": "visitor", "pageType": "page", "leadinPluginVersion": "7.51.34" };</script> <script type='text/javascript' src='https://js.hs-scripts.com/5604529.js?integration=WordPress' async defer id='hs-script-loader'></script> <script type='text/javascript' src='https://www.voys.co.za/wp-content/plugins/gravityforms/js/jquery.json.min.js' id='gform_json-js'></script> <script type='text/javascript' id='gform_gravityforms-js-extra'>var gf_global = { "gf_currency_config": { "name": "South African Rand", "symbol_left": "R", "symbol_right": "", "symbol_padding": "", "thousand_separator": ",", "decimal_separator": ".", "decimals": 2 }, "base_url": "https:\/\/www.voys.co.za\/wp-content\/plugins\/gravityforms", "number_formats": [], "spinnerUrl": "https:\/\/www.voys.co.za\/wp-content\/plugins\/gravityforms\/images\/spinner.gif" };</script> 
-      <div class="l-navigation-mobile u-display-none">
-         <ul class="l-navigation-mobile__items">
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7144">
-               <a href="https://www.voys.co.za/voip/">VoIP</a>
-               <ul class='sub-menu'>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9404"><a href="https://www.voys.co.za/voip/">What is VoIP</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-7176"><a href="https://www.voys.co.za/pabx-phone-system/">Phone system</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7155"><a href="https://www.voys.co.za/voip/phone-number/">Phone numbers</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7145"><a href="https://www.voys.co.za/voip/phones/">VoIP Phones</a></li>
-               </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-24"><a href="https://www.voys.co.za/pabx-phone-system/">Tour</a></li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-3606">
-               <a href="https://www.voys.co.za/business-phone-system-features-pricing/">Features and pricing</a>
-               <ul class='sub-menu'>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6942"><a href="https://www.voys.co.za/business-phone-system-features-pricing/">Features and pricing</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9298"><a href="https://www.voys.co.za/business-phone-system-features-pricing/call-rates/">Local call rates</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9246"><a href="https://www.voys.co.za/business-phone-system-features-pricing/international-call-rates/">International call rates</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7131"><a href="https://www.voys.co.za/pabx-phone-system/voip-app/">Izwi 4G-app</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11022 current_page_item menu-item-11081"><a href="https://www.voys.co.za/pabx-phone-system/softphone-for-business/">Izwi Webphone</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6941"><a href="https://www.voys.co.za/contact/request-a-quote/">Request a quote</a></li>
-               </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3554">
-               <a href="https://www.voys.co.za/telecom-company-south-africa/">About</a>
-               <ul class='sub-menu'>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6943"><a href="https://www.voys.co.za/telecom-company-south-africa/">About</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9890"><a href="https://www.voys.co.za/telecom-company-south-africa/team/">Team</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6933"><a href="https://www.voys.co.za/telecom-company-south-africa/voys-model/">Company Culture</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7587"><a href="https://www.voys.co.za/telecom-company-south-africa/were-hiring/">We&#8217;re hiring</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7100"><a href="https://www.voys.co.za/telecom-company-south-africa/voip-service-providers/">Reviews</a></li>
-                  <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7475"><a href="https://www.voys.co.za/blog/">Blog</a></li>
-               </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11366">
-               <a href="https://www.voys.co.za/business-phone-system-features-pricing/reseller-programs/">Partners</a>
-               <ul class='sub-menu'>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11367"><a href="https://www.voys.co.za/business-phone-system-features-pricing/reseller-programs/white-label-reseller-opportunities/">Reseller Program</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11368"><a href="https://www.voys.co.za/business-phone-system-features-pricing/reseller-programs/referral-program/">Referral Program</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11369"><a href="https://www.voys.co.za/friend-of-voys/">Submit a Referral</a></li>
-               </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://www.voys.co.za/contact/">Contact</a></li>
-         </ul>
-      </div>
-       
+      </div>       
     
         <!-- Footer Top Start -->
 	<footer class="section single-footer" style="background-color: #f4f3f8">

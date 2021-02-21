@@ -36,10 +36,8 @@
       <script type='text/javascript' src='//code.jquery.com/jquery-2.2.4.min.js' id='jquery-js'></script> 
       <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.voys.co.za/xmlrpc.php?rsd" />
       <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.voys.co.za/wp-includes/wlwmanifest.xml" />
-      
-   </head>
+        </head>
    <body>
-          
     <!-- Header Section Start -->
     <div class="header section">
 
@@ -101,7 +99,7 @@
                                         <li><a href="request-a-quote.aspx">Request a quote</a></li>
                                     </ul>
                                 </li>
-                               <li><a href="about.aspx">About</a></li>
+                              <li><a href="about.aspx">About</a></li>
                                 <%--<li class="has-children">
                                     <a href="about.aspx">About</a>
                                     <ul class="sub-menu">
@@ -260,87 +258,37 @@
 
     </div>
     <!-- Header Section End -->
-       
-    <!-- Breadcrumb Section Start -->
-    <div class="section breadcrumb-voip" style="background-color:#006EA1;">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="cr-breadcrumb-area">
-                        <h1 class="title">International Call Rates</h1>
-                        <ul class="breadcrumb-list">
-                            <li><a href="index.html">Home</a></li>
-                            <li><span>International Call Rates</span></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Breadcrumb Section End -->
-          
-       <div class="c-layout">
 
-         <div class="c-layout__row c-layout__row--white c-layout__row--pv0">             
-            <div class="c-header"></div>
-         </div>
+    
+    <!-- Hero/Intro Slider Start -->
     <div class="section">
         <div class="hero-slider swiper-container">
             <div class="swiper-wrapper">
                 <div class="hero-slide-item swiper-slide">
                     <div class="hero-slide-bg">
-                        <img src="assets/images/slider/slide-1.jpg" alt="" />
+                        <img src="assets/images/request-a-call/logo2.jpg" alt="" />
                     </div>
                     <div class="container">
                         <div class="hero-slide-content">
                             <h2 class="title">Izwi 4G App</h2>
-                            <p>A complete phone system in your pocket with the Izwi 4G app for smartphones. Available on Android and iOS.</p>
-                            <a href="tour.aspx" style="background-color: #006EA1; border-color: #006EA1;" class="btn btn-hover-secondary btn-primary">Product tour</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="hero-slide-item swiper-slide">
-                    <div class="hero-slide-bg">
-                        <img src="https://www.voys.co.za/wp-content/uploads/2016/02/hiking-voys-app-work-anywhere.jpg" alt="" />
-                    </div>
-                    <div class="container">
-                        <div class="hero-slide-content">
-                            <span class="sub-title">Best Construction Company</span>
-                            <h2 class="title"> Build Your <br /> Dream Home </h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sedlo eiusmod tempor incididunt ut labore et dolore.</p>
-                            <a href="contact.aspx" class="btn btn-primary btn-hover-light">Contact Us</a>
+                            <p>A complete phone system in your pocket with the Voys 4G app for smartphones. Available on Android and iOS.</p>
                         </div>
                     </div>
                 </div>
             </div>
 
             <div class="swiper-pagination"></div>
-
-            <div class="home-slider-prev swiper-button-prev main-slider-nav"><i class="fa fa-angle-left"></i></div>
-            <div class="home-slider-next swiper-button-next main-slider-nav"><i class="fa fa-angle-right"></i></div>
         </div>
     </div>
+
     <!-- Hero/Intro Slider End -->
-
-
-         <div class="c-layout__row  c-layout__row--white"></div>
-         <div class="c-layout__row  c-layout__row--primary">
-            <div class="c-layout__container u-text-align-center">
-               <div class="c-grid c-grid--single">
-                  <div class="c-grid__item">
-                     <h2 class="c-heading c-heading--50">Work from anywhere with our VoIP app!</h2>
-                  </div>
-               </div>
-               <div class="c-grid c-grid--single">
-                  <div class="c-grid__item">
-                     <div class="u-content">
-                        <p><a href="https://www.voys.co.za/contact/request-a-quote/">Sign up now</a> and start working from any location. Already have an account with us? Follow the link below to configure the app, or give us a call on 021 012 5000 for assistance.</p>
-                        <p><a href="http://help.voys.co.za/voys-freedom/great-to-know/the-voys-4g-app" class="c-button ">Install 4G app</a></p>
-                     </div>
-                  </div>
-               </div>
-            </div>
+          
+       <div class="c-layout">
+         <div class="c-layout__row c-layout__row--white c-layout__row--pv0">             
+            <div class="c-header"></div>
          </div>
+
+
          <div class="c-layout__row  c-layout__row--white">
             <div class="c-layout__container ">
                <div class="c-grid c-grid--single">
