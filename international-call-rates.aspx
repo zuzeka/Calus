@@ -153,9 +153,9 @@
                                 <li class="has-children">
                                     <a href="#">Partners</a>
                                     <ul class="sub-menu">
-                                        <li><a href="#">Reseller Program</a></li>
-                                        <li><a href="#">Referral Program</a></li>
-                                        <li><a href="#">Submit a Referral</a></li>
+                                        <li><a href="reseller-program.aspx">Reseller Program</a></li>
+                                        <li><a href="referral-program.aspx">Referral Program</a></li>
+                                        <li><a href="submit-a-referral.aspx">Submit a Referral</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="contact.aspx">Contact</a></li>
