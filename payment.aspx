@@ -1,4 +1,8 @@
-﻿<!DOCTYPE HTML>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="payment.aspx.cs" Inherits="payment" %>
+
+
+<!DOCTYPE HTML>
+
 <html lang="en-ZA" prefix="og: http://ogp.me/ns#">
    <head>
        <meta charset="UTF-8" />
@@ -852,18 +856,23 @@
 										   <tfoot>
 											   <tr>
 												   <td><strong>Total</strong> <small>(excl. VAT)</small></td>
-												   <td class="u-text-align-right"><strong>R <span class="total_onetime">0.00</span></strong></td>
+												   <td class="u-text-align-right"><strong>R <span class="total_onetime" id="total_onetime">0.00</span></strong></td>
 											   </tr>
 										   </tfoot>
-									   </table><div class="row">
-									   <div class="col-6">
-									   <p><small><span class="c-button c-button--outline c-button--small c-button--square" id="myBtn">View call rates</span></small></p>
+									   </table>
+									   <div class="row">
+										   <div class="col-6">
+											   <p><small><span class="c-button c-button--outline c-button--small c-button--square" id="myBtn">View call rates</span></small></p>
 										   </div>
-									   <div class="col-6">
-									   <p><small><span class="c-button c-button--outline c-button--small c-button--square" id="myBtn" style="float:right;">Pay Now</span></small></p>
+										   <div class="col-6">
+											   <p><small><span class="c-button c-button--outline c-button--small c-button--square" id="" style="float: right;">Pay Now</span></small></p>
 										   </div>
-
+										   <div class="col-6">
+										   <form runat="server">
+											   <asp:Button ID="btnCheckout" runat="server" Text="Checkout" />
+											   </form>
 										   </div>
+									   </div>
 								   </div>
 							   </div>
 						   </div>
@@ -1497,3 +1506,56 @@
 	</script>
    </body>
 </html>
+
+
+<script>
+	$(document).ready(function () {
+
+		//click event for first button 
+		$('#btnCheckout').click(function (e) {
+			console.log('Hy there');
+			var total = document.getElementsByClassName("total_onetime")[0].innerHTML;
+			console.log('value: ', total)
+			e.preventDefault();
+			//var googleResponse = grecaptcha.getResponse();
+			//if (googleResponse.length === 0) {
+			//	$('#lblMessage').val('*Please verify the recaptcha*');
+			//}
+			//else {
+
+			if (total == '') {
+					return false; // prevent default click action from happening!
+					e.preventDefault(); // same thing as above
+					console.log('total is zero');
+				}
+				else {
+				console.log('Hy there, Im in');
+
+					var dataToSend = JSON.stringify({
+						'totalAmount': total
+					});
+
+					$.ajax({
+						url: "payment.aspx/CheckoutInfo",
+						type: "POST",
+						contentType: "application/json; charset=utf-8",
+						dataType: "json",
+						data: dataToSend, // pass that text to the server as a correct JSON String
+						success: function (msg) {
+							total;
+						},
+						error: function (type) {
+							$('#lblMessage').text("ERROR!!" + type.responseText);
+						}
+					});
+
+					return false; // prevent default click action from happening!
+					e.preventDefault(); // same thing as above
+				}
+
+			//}
+
+		});
+
+	});
+</script>
