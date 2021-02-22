@@ -1,4 +1,5 @@
 ﻿<!DOCTYPE HTML>
+
 <html lang="en-ZA" prefix="og: http://ogp.me/ns#">
    <head>
        <meta charset="UTF-8" />
@@ -31,6 +32,8 @@
 
    </head>
    <body>
+                
+       <form id="form1" runat="server">
                 
     <!-- Header Section Start -->
     <div class="header section">
@@ -239,9 +242,7 @@
                 <!-- Button Close End -->
 
                 <!-- Offcanvas Search Form Start -->
-                <form class="offcanvas-search-form" action="#">
                     <input type="text" placeholder="Search Products...">
-                </form>
                 <!-- Offcanvas Search Form End -->
 
             </div>
@@ -285,7 +286,6 @@
 						   <span class="s1">
 							   <div class='gf_browser_chrome gform_wrapper' id='gform_wrapper_21' style='display: none'>
 								   <div id='gf_21' class='gform_anchor' tabindex='-1'></div>
-								   <form method='post' enctype='multipart/form-data' id='gform_21' action='/feature-and-price2.aspx'>
 									   <div class='gform_body'>
 										   <div id='gform_page_21_1' class='gform_page'>
 											   <div class='gform_page_fields'>
@@ -740,7 +740,6 @@
 												   <input type='hidden' name='gform_field_values' value='' /></div>
 										   </div>
 									   </div>
-								   </form>
 							   </div>
 							   <script type='text/javascript'>jQuery(document).bind('gform_post_render', function (event, formId, currentPage) {
 									   if (formId == 21) {
@@ -864,7 +863,9 @@
 											   </tr>
 										   </tfoot>
 									   </table>
-									   <p><small><span class="c-button c-button--outline c-button--small c-button--square" id="myBtn">View call rates</span></small></p>
+									   <p><small><span class="c-button c-button--outline c-button--small c-button--square" id="myBtn">View call rates</span>&nbsp;
+										   <span class="c-button c-button--outline c-button--small c-button--square"><a href="PayNow.aspx">Make payment</a></span>
+										   </small></p>
 								   </div>
 							   </div>
 						   </div>
@@ -1496,5 +1497,6 @@
 			}
 		}
 	</script>
+   	</form>
    </body>
 </html>
