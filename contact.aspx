@@ -434,5 +434,104 @@
 
     <!--Main JS-->
     <script src="assets/js/main.js"></script>
-      <sc
+     
 </html>
+
+
+<script>
+	$(document).ready(function () {
+
+		//click event for first button 
+		$('#btnSubmit').click(function (e) {
+
+			e.preventDefault();
+			var googleResponse = grecaptcha.getResponse();
+			if (googleResponse.length === 0) {
+				$('#lblMessage').val('*Please verify the recaptcha*');
+			}
+			else {
+
+				//Reqular Expressions
+				var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+				var contactReg = /[0-9]{10}/;
+
+				//Control Values
+				var txtEmail = $("#txtEmail").val();
+
+				if ($('#txtName').val() == '' || $('#txtName').val() == -1 || $('#txtName').val() == 0 || $('#txtName').val() == 1000500) {
+					$('#lblMessage').text("Please enter your first name");
+					$('#txtName').focus();
+					return false; // prevent default click action from happening!
+					e.preventDefault(); // same thing as above
+				}
+				else if ($('#txtLastname').val() == '' || $('#txtLastname').val() == -1 || $('#txtLastname').val() == 0 || $('#txtLastname').val() == 1000500) {
+					$('#lblMessage').text("Please enter your last name");
+					$('#txtLastname').focus();
+					return false; // prevent default click action from happening!
+					e.preventDefault(); // same thing as above
+				}
+				else if (!emailReg.test(txtEmail)) {
+					$('#lblMessage').text("The email address you have entered is invalid");
+					$('#txtEmail').focus();
+					return false; // prevent default click action from happening!
+					e.preventDefault(); // same thing as above
+				}
+				else if ($('#txtEmail').val() == '' || $('#txtEmail').val() == -1 || $('#txtEmail').val() == 0 || $('#txtEmail').val() == 1000500) {
+					$('#lblMessage').text("Please enter your email address");
+					$('#txtEmail').focus();
+					return false; // prevent default click action from happening!
+					e.preventDefault(); // same thing as above
+				}
+				else if ($('#txtContact').val() == '' || $('#txtContact').val() == -1 || $('#txtContact').val() == 0 || $('#txtContact').val() == 1000500) {
+					$('#lblMessage').text("Please enter your contact number");
+					$('#txtContact').focus();
+					return false; // prevent default click action from happening!
+					e.preventDefault(); // same thing as above
+				}
+				else if ($('#ddlSubject').val() == '' || $('#ddlSubject').val() == -1 || $('#ddlSubject').val() == 0 || $('#ddlSubject').val() == 1000500) {
+					$('#lblMessage').text("Please select the product");
+					$('#ddlSubject').focus();
+					return false; // prevent default click action from happening!
+					e.preventDefault(); // same thing as above
+				}
+				else {
+					var dataToSend = JSON.stringify({
+						'name': $('#txtName').val(),
+						'lastname': $('#txtLastname').val(),
+						'contact': $('#txtContact').val(),
+						'email': $('#txtEmail').val(),
+						'subject': $('#ddlSubject').val(),
+						'message': $('#txtMessage').val()
+					});
+
+					$.ajax({
+						url: "contact.aspx/SubmitInfo",
+						type: "POST",
+						contentType: "application/json; charset=utf-8",
+						dataType: "json",
+						data: dataToSend, // pass that text to the server as a correct JSON String
+						success: function (msg) {
+
+							$('#lblMessage').text(msg.d);
+							$('#txtName').val('');
+							$('#txtEmail').val('');
+							$('#txtContact').val('');
+							$('#txtMessage').val('');
+							$('#ddlSubject').val('-1');
+							$('#txtMessage').val('');
+						},
+						error: function (type) {
+							$('#lblMessage').text("ERROR!!" + type.responseText);
+						}
+					});
+
+					return false; // prevent default click action from happening!
+					e.preventDefault(); // same thing as above
+				}
+
+			}
+
+		});
+
+	});
+</script>
