@@ -13,7 +13,6 @@
 
       <link rel="shortcut icon" href="/favicon.ico?new" />
       <link rel="apple-touch-icon-precomposed" href="/apple-icon.png" />
-      <title>Business phone system - Izwi offers more features at less costs</title>
       <meta name="description" content="See just how affordable a business phone system is with our award winning cloud based VoIP platform. Add and remove services to suit your needs."/>
       <meta name="robots" content="noodp"/>
       <link rel="canonical" href="https://www.voys.co.za/business-phone-system-features-pricing/" />
@@ -157,14 +156,14 @@
                                         <li><a href="#">Blog</a></li>
                                     </ul>
                                 </li>--%>
-                               <li class="has-children">
+                               <%--<li class="has-children">
                                     <a href="#">Partners</a>
                                     <ul class="sub-menu">
                                         <li><a href="reseller-program.aspx">Reseller Program</a></li>
                                         <li><a href="referral-program.aspx">Referral Program</a></li>
                                         <li><a href="submit-a-referral.aspx">Submit a Referral</a></li>
                                     </ul>
-                                </li>
+                                </li>--%>
                                 <li><a href="contact.aspx">Contact</a></li>
                             </ul>
                         </div>
@@ -194,7 +193,7 @@
             </div>
         </div>
         <!-- Header Bottom End -->
-
+        
         <!-- Mobile Menu Start -->
         <div class="mobile-menu-wrapper">
             <div class="body-overlay"></div>
@@ -212,41 +211,35 @@
                     <nav>
                         <ul class="mobile-menu">
                             <li class="has-children">
-                                <a href="#">Home <i class="fa fa-angle-down"></i></a>
-                                <ul class="dropdown">
-                                    <li><a href="index.html">Home One</a></li>
-                                    <li><a href="index-2.html">Home Two</a></li>
+                                <a href="#">Voip <i class="fa fa-angle-down"></i></a>
+                                <ul class="dropdown" style="background-color:#ffffff;">
+                                    <li><a href="voip.aspx">What is VoIP</a></li>
+                                        <li><a href="tour.aspx">Phone system</a></li>
+                                        <li><a href="phone-number.aspx">Phone numbers</a></li>
+                                        <li><a href="phone.aspx">VoIP phones</a></li>
                                 </ul>
-                            </li>
+                            </li> 
+                                <li><a href="tour.aspx">Tour</a></li>
                             <li class="has-children">
-                                <a href="#">Project <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                                <ul class="dropdown">
-                                    <li><a href="project-grid.html">Project Style 1</a></li>
-                                    <li><a href="project-grid-2.html">Project Style 2</a></li>
-                                    <li><a href="project-details.html">Project Details</a></li>
+                                <a href="#">Features and pricing <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                <ul class="dropdown" style="background-color:#ffffff;">
+                                    <li><a href="feature-and-price.aspx">Features and pricing</a></li>
+                                        <li><a href="local-call-rates.aspx">Local call rates</a></li>
+                                        <li><a href="international-call-rates.aspx">International call rates</a></li>
+                                        <li><a href="4g-app.aspx">Izwi 4G-app</a></li>
+                                        <li><a href="webphone.aspx">Izwi Webphone</a></li>
+                                        <li><a href="request-a-quote.aspx">Request a quote</a></li>
                                 </ul>
                             </li>
-                            <li class="has-children">
-                                <a href="#">Pages <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                                <ul class="dropdown">
-                                    <li><a href="about.aspx">About Us</a></li>
-                                    <li><a href="service.html">Service</a></li>
-                                    <li><a href="contact.aspx">Contact</a></li>
-                                    <li><a href="faq.html">Faq</a></li>
-                                    <li><a href="error-404.html">Error 404</a></li>
+							<li><a href="about.aspx">About</a></li>
+                            <%--<li class="has-children">
+                                <a href="#">Partners <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                <ul class="dropdown" style="background-color:#ffffff;">
+                                    <li><a href="reseller-program.aspx">Reseller Program</a></li>
+                                        <li><a href="referral-program.aspx">Referral Program</a></li>
+                                        <li><a href="submit-a-referral.aspx">Submit a Referral</a></li>
                                 </ul>
-                            </li>
-                            <li class="has-children">
-                                <a href="#">Blog <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                                <ul class="dropdown">
-                                    <li><a href="blog.html">Blog</a></li>
-                                    <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                    <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                    <li><a href="blog-details-sidebar.html">Blog Details Sidebar</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="about.aspx">About</a></li>
+                            </li>--%>
                             <li><a href="contact.aspx">Contact</a></li>
                         </ul>
                     </nav>
@@ -257,9 +250,9 @@
                 <div class="mt-auto">
                     <!-- Contact Link Start -->
                     <ul class="contact-links">
-                        <li><i class="fa fa-phone"></i><a href="#"> +012 3456 789 123</a></li>
-                        <li><i class="fa fa-envelope-o"></i><a href="#"> info@example.com</a></li>
-                        <li><i class="fa fa-clock-o"></i> <span>Monday - Sunday 9.00 - 18.00</span> </li>
+                        <li><i class="fa fa-phone"></i><a href="#"> 012 110 4017</a></li>
+                        <li><i class="fa fa-envelope-o"></i><a href="#"> info@izwi.com</a></li>
+                        <li><i class="fa fa-clock-o"></i> <span>Monday - Friday 8.00 - 17.00</span> </li>
                     </ul>
                     <!-- Contact Link End -->
 
@@ -1068,575 +1061,6 @@
 																																																																																																																						  });
 																																																																																																																					  })(jQuery);
 	  </script> 
-      <div class="l-navigation-mobile u-display-none">
-         <ul class="l-navigation-mobile__items">
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7144">
-               <a href="https://www.voys.co.za/voip/">VoIP</a>
-               <ul class='sub-menu'>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9404"><a href="https://www.voys.co.za/voip/">What is VoIP</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7176"><a href="https://www.voys.co.za/pabx-phone-system/">Phone system</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7155"><a href="https://www.voys.co.za/voip/phone-number/">Phone numbers</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7145"><a href="https://www.voys.co.za/voip/phones/">VoIP Phones</a></li>
-               </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://www.voys.co.za/pabx-phone-system/">Tour</a></li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3604 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-3606">
-               <a href="https://www.voys.co.za/business-phone-system-features-pricing/">Features and pricing</a>
-               <ul class='sub-menu'>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3604 current_page_item menu-item-6942"><a href="https://www.voys.co.za/business-phone-system-features-pricing/">Features and pricing</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9298"><a href="https://www.voys.co.za/business-phone-system-features-pricing/call-rates/">Local call rates</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9246"><a href="https://www.voys.co.za/business-phone-system-features-pricing/international-call-rates/">International call rates</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7131"><a href="https://www.voys.co.za/pabx-phone-system/voip-app/">Izwi 4G-app</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11081"><a href="https://www.voys.co.za/pabx-phone-system/softphone-for-business/">Izwi Webphone</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6941"><a href="https://www.voys.co.za/contact/request-a-quote/">Request a quote</a></li>
-               </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3554">
-               <a href="https://www.voys.co.za/telecom-company-south-africa/">About</a>
-               <ul class='sub-menu'>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6943"><a href="https://www.voys.co.za/telecom-company-south-africa/">About</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9890"><a href="https://www.voys.co.za/telecom-company-south-africa/team/">Team</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6933"><a href="https://www.voys.co.za/telecom-company-south-africa/voys-model/">Company Culture</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7587"><a href="https://www.voys.co.za/telecom-company-south-africa/were-hiring/">We&#8217;re hiring</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7100"><a href="https://www.voys.co.za/telecom-company-south-africa/voip-service-providers/">Reviews</a></li>
-                  <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7475"><a href="https://www.voys.co.za/blog/">Blog</a></li>
-               </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11366">
-               <a href="https://www.voys.co.za/business-phone-system-features-pricing/reseller-programs/">Partners</a>
-               <ul class='sub-menu'>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11367"><a href="https://www.voys.co.za/business-phone-system-features-pricing/reseller-programs/white-label-reseller-opportunities/">Reseller Program</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11368"><a href="https://www.voys.co.za/business-phone-system-features-pricing/reseller-programs/referral-program/">Referral Program</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11369"><a href="https://www.voys.co.za/friend-of-voys/">Submit a Referral</a></li>
-               </ul>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://www.voys.co.za/contact/">Contact</a></li>
-         </ul>
-      </div>
-      <svg xmlns="http://www.w3.org/2000/svg" style="height:0;width:0;position:absolute;z-index:-100;">
-         <symbol id="spinner" viewBox="0 0 103 79" preserveAspectRatio="xMinYMin">
-            <path class="c-spinner__1" d="M10.4 6.2C16.2.4 16.2.4 22 .4h60.5c4.7 0 5.6 0 8.7 3l-7.5 13H.3l10-10.2"/>
-            <path class="c-spinner__2" d="M98.4 10.5l-7.2-7.2L51 73l3.4 5.8H59c6 0 8 0 11.7-6 3.4-5 31-53.3 31-53.3 1.8-4-.4-6-3.3-9"/>
-            <path class="c-spinner__3" d="M18.2 16.3H.2L33 73c2.5 4.5 6.7 5.8 12 5.8h9.4L18.2 16.3"/>
-         </symbol>
-         <symbol id="cc" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" style="fill:none;">
-            <circle stroke="#74759D" stroke-width="2.18" cx="12" cy="12" r="10.91"/>
-            <path d="M11.46 11.34c-.14-1.6-1.23-2.6-3.03-2.6-2.14 0-3.34 1.3-3.34 3.6C5.1 14.7 6.3 16 8.42 16c1.77 0 2.9-1 3.03-2.57H9.78c-.13.7-.62 1.06-1.35 1.06-.97 0-1.52-.76-1.52-2.15 0-1.37.55-2.1 1.53-2.1.76 0 1.23.42 1.35 1.1h1.68zm7.45 0c-.14-1.6-1.22-2.6-3.03-2.6-2.13 0-3.33 1.3-3.33 3.6 0 2.35 1.2 3.66 3.33 3.66 1.78 0 2.9-1 3.04-2.57h-1.67c-.14.7-.62 1.06-1.36 1.06-.96 0-1.52-.76-1.52-2.15 0-1.37.55-2.1 1.52-2.1.77 0 1.23.42 1.36 1.1h1.68z" fill="#74759D"/>
-         </symbol>
-         <symbol id="icon-chat" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin">
-            <path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z"/>
-         </symbol>
-         <symbol id="icon-link" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin">
-            <path d="M0 0h24v24H0z" fill="none"/>
-            <path d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"/>
-         </symbol>
-         <symbol id="icon-arrow-down" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin">
-            <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"/>
-         </symbol>
-         <symbol id="icon-edit" viewBox="0 0 18 18" preserveAspectRatio="xMinYMin">
-            <path d="M2 12.88V16h3.12L14 7.12 10.88 4 2 12.88zm14.76-8.51c.33-.33.33-.85 0-1.18l-1.95-1.95a.827.827 0 0 0-1.18 0L12 2.88 15.12 6l1.64-1.63z"/>
-            <path d="M0 0h18v18H0z" fill="none"/>
-         </symbol>
-         <symbol id="icon-question" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin">
-            <path d="M11 17h2v-6h-2v6zm1-15C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zM11 9h2V7h-2v2z"/>
-         </symbol>
-         <symbol id="icon-help" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin">
-            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17h-2v-2h2v2zm2.07-7.75l-.9.92C13.45 12.9 13 13.5 13 15h-2v-.5c0-1.1.45-2.1 1.17-2.83l1.24-1.26c.37-.36.59-.86.59-1.41 0-1.1-.9-2-2-2s-2 .9-2 2H8c0-2.21 1.79-4 4-4s4 1.79 4 4c0 .88-.36 1.68-.93 2.25z"/>
-         </symbol>
-         <symbol id="icon-lock" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin">
-            <path d="M18 8h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6-5.1c1.71 0 3.1 1.39 3.1 3.1v2H9V6h-.1c0-1.71 1.39-3.1 3.1-3.1zM18 20H6V10h12v10zm-6-3c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2z"/>
-         </symbol>
-         <symbol id="icon-overview" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin">
-            <path d="M3 13h8V3H3v10zm0 8h8v-6H3v6zm10 0h8V11h-8v10zm0-18v6h8V3h-8z"/>
-         </symbol>
-         <symbol id="icon-navigation" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin">
-            <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
-         </symbol>
-         <symbol id="icon-phone" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin">
-            <path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/>
-         </symbol>
-         <symbol id="icon-close" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin">
-            <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/>
-         </symbol>
-         <symbol id="icon-plus" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin">
-            <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"/>
-            <path d="M0 0h24v24H0z" fill="none"/>
-         </symbol>
-         <symbol id="icon-trashcan" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin">
-            <path fill="none" d="M0 0h24v24H0V0z"/>
-            <path d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zm2.46-7.12l1.41-1.41L12 12.59l2.12-2.12 1.41 1.41L13.41 14l2.12 2.12-1.41 1.41L12 15.41l-2.12 2.12-1.41-1.41L10.59 14l-2.13-2.12zM15.5 4l-1-1h-5l-1 1H5v2h14V4z"/>
-            <path fill="none" d="M0 0h24v24H0z"/>
-         </symbol>
-         <symbol id="icon-twitter" viewBox="0 0 32 32" preserveAspectRatio="xMinYMin">
-            <path d="M28.22 7.11c1.374-.813 2.405-2.11 2.89-3.64-1.25.75-2.672 1.296-4.14 1.592C25.733 3.813 24.03 3 22.14 3c-3.624 0-6.546 2.922-6.546 6.547 0 .515.03 1.047.14 1.515-5.437-.296-10.25-2.765-13.515-6.734-.548.97-.892 1.97-.892 3.188 0 2.25 1.156 4.25 2.938 5.437-1.079-.03-2.079-.328-2.97-.812v.08c0 3.186 2.266 5.842 5.266 6.436-.562.157-1.156.235-1.75.235-.406 0-.812-.046-1.218-.124.812 2.593 3.265 4.53 6.11 4.562-2.22 1.78-5.08 3.11-8.142 3.11-.53 0-1.046-.032-1.562-.11C2.89 28.188 6.375 29 10.078 29c12.063 0 18.656-10 18.656-18.672v-.86C30 8.55 31.11 7.407 32 6.064c-1.188.53-2.438.89-3.78 1.046z"/>
-         </symbol>
-         <symbol id="icon-facebook" viewBox="0 0 32 32" preserveAspectRatio="xMinYMin">
-            <path d="M28.25 2H3.75C2.793 2 2 2.793 2 3.75v24.5c0 .957.793 1.75 1.75 1.75h13.22V19.117h-3.5v-4.033h3.5v-3.486c0-3.186 1.942-5.32 5.784-5.32 1.695 0 2.87.193 2.87.193v3.637H23c-1.162 0-1.75.657-1.75 1.805v3.172h4.088l-.588 4.033h-3.5V30h7c.957 0 1.75-.793 1.75-1.75V3.75C30 2.793 29.207 2 28.25 2z"/>
-         </symbol>
-         <symbol id="icon-instagram" viewBox="0 0 56.7 56.7" preserveAspectRatio="xMinYMin">
-            <path d="M28.2 16.7c-7 0-12.8 5.7-12.8 12.8s5.7 12.8 12.8 12.8S41 36.5 41 29.5s-5.8-12.8-12.8-12.8zm0 21c-4.5 0-8.2-3.7-8.2-8.2s3.7-8.2 8.2-8.2 8.2 3.7 8.2 8.2-3.7 8.2-8.2 8.2z"/>
-            <circle cx="41.5" cy="16.4" r="2.9"/>
-            <path d="M49 8.9c-2.6-2.7-6.3-4.1-10.5-4.1H17.9c-8.7 0-14.5 5.8-14.5 14.5v20.5c0 4.3 1.4 8 4.2 10.7 2.7 2.6 6.3 3.9 10.4 3.9h20.4c4.3 0 7.9-1.4 10.5-3.9 2.7-2.6 4.1-6.3 4.1-10.6V19.3c0-4.2-1.4-7.8-4-10.4zm-.6 31c0 3.1-.9 5.6-2.7 7.3-1.8 1.7-4.3 2.6-7.3 2.6H18c-3 0-5.5-.9-7.3-2.6C8.9 45.4 8 42.9 8 39.8V19.3c0-3 .9-5.5 2.7-7.3 1.7-1.7 4.3-2.6 7.3-2.6h20.6c3 0 5.5.9 7.3 2.7 1.7 1.8 2.7 4.3 2.7 7.2v20.6z"/>
-         </symbol>
-         <symbol id="icon-linkedin" viewBox="0 0 32 32" preserveAspectRatio="xMinYMin">
-            <path d="M10.048 5.764C10.025 4.204 8.868 3 7.048 3 5.205 3 4 4.205 4 5.764 4 7.312 5.18 8.54 6.965 8.54H7c1.867 0 3.048-1.228 3.048-2.776zm-5.54 5.292v15.63H9.54v-15.63H4.508zm13.1 6.557c0-2.02 1.288-3.024 2.8-3.024 1.512 0 2.74 1.003 2.74 3.53v8.565h5.045v-9.072c0-4.537-2.516-7.053-6.048-7.053-2.02 0-3.532 1.146-4.536 2.658l-.167-2.162h-4.96c0 .532.08 3.533.08 3.533v12.095h5.046v-9.072z"/>
-         </symbol>
-         <symbol id="icon-play" viewBox="0 0 72 72" preserveAspectRatio="xMinYMin">
-            <path d="M26.43 17.5c-1.9-1.13-3.43-.27-3.43 1.94v32.9c0 2.2 1.56 3.1 3.48 2L54.65 38.4c1.93-1.1 1.95-2.9.05-4.02L26.43 17.5z"/>
-         </symbol>
-         <symbol id="icon-cloud" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin">
-            <path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM19 18H6c-2.21 0-4-1.79-4-4s1.79-4 4-4h.71C7.37 7.69 9.48 6 12 6c3.04 0 5.5 2.46 5.5 5.5v.5H19c1.66 0 3 1.34 3 3s-1.34 3-3 3z"/>
-         </symbol>
-         <symbol id="icon-plus-box" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin">
-            <path d="M0 0h24v24H0z" fill="none"/>
-            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"/>
-         </symbol>
-         <symbol id="icon-min" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin">
-            <path d="M0 0h24v24H0z" fill="none"/>
-            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z"/>
-         </symbol>
-         <symbol id="icon-check" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin">
-            <path d="M0 0h24v24H0z" fill="none"/>
-            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
-         </symbol>
-         <symbol id="icon-feature-account" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M19.151 14.473S23.5 13.914 23.5 9.5c0-2.797-2.31-5.098-5.18-4.992C17.198 2.141 14.793.5 12 .5 8.274.5 5.238 3.41 5.021 7.08 2.688 6.592.5 8.369.5 10.75c0 3.809 3.835 3.744 3.835 3.744"/>
-            <path stroke-linecap="round" d="M21.5 21c0 1.381-1.119 2.5-2.5 2.5H5c-1.381 0-2.5-1.119-2.5-2.5v-2.5h19V21zM2.5 18.5l2.333-5.092c.229-.5.867-.908 1.417-.908H17c.55 0 1.227.389 1.504.863L21.5 18.5h-19zM15 21.5h3"/>
-         </symbol>
-         <symbol id="icon-feature-app" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path stroke-linecap="round" d="M18.5 21.5c0 1.104-.896 2-2 2h-9c-1.104 0-2-.896-2-2v-19c0-1.104.896-2 2-2h9c1.104 0 2 .896 2 2v19zM18.5 19.5h-13M18.5 4.5h-13M9.5 2.5h5"/>
-            <path d="M12 22c-.276 0-.5-.224-.5-.5s.224-.5.5-.5.5.224.5.5-.223.5-.5.5z"/>
-         </symbol>
-         <symbol id="icon-feature-browserplugin" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M22.536 9.692l-3.89 3.89c-2.139 2.139-5.798 1.979-8.131-.354-2.334-2.334-2.493-5.994-.354-8.133l3.889-3.889M14.051 1.207l8.485 8.485M16.172 3.328L19 .5M20.415 7.57l2.828-2.828M14.051 4.035l5.656 5.657"/>
-            <circle cx="13.697" cy="10.046" r="1.5"/>
-            <path d="M11.698 14.167L9.454 16.41l-2.121-2.121 2.243-2.244"/>
-            <path d="M8.394 15.35l-4.596 4.596a2 2 0 1 0 2.828 2.828l3.182-3.182a1.5 1.5 0 0 1 2.122 2.121l-1.683 1.682"/>
-         </symbol>
-         <symbol id="icon-feature-callgroup" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <circle cx="5" cy="13.998" r="2.5"/>
-            <path d="M6.578 20.498H1a4 4 0 0 1 7.227-2.363"/>
-            <circle cx="19" cy="13.998" r="2.5"/>
-            <path d="M15.771 18.136A4 4 0 0 1 23 20.498h-5.578"/>
-            <circle cx="12" cy="13.124" r="3.611"/>
-            <path d="M6.859 9.008A6.49 6.49 0 0 1 12 6.486c2.09 0 3.95.987 5.139 2.521"/>
-            <path d="M4.986 7.344A8.985 8.985 0 0 1 12 3.986a8.989 8.989 0 0 1 7.006 3.349"/>
-            <path d="M2.985 5.844A11.473 11.473 0 0 1 12 1.487c3.658 0 6.916 1.707 9.022 4.368M17.777 22.514H6.223a5.777 5.777 0 1 1 11.554 0z"/>
-         </symbol>
-         <symbol id="icon-feature-callmenow" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M21 14c1.381.282 2.5 1.591 2.5 3v1.5c0 1.093-.907 2-2 2h-3c-1.092 0-2-.907-2-2v-1a46.029 46.029 0 0 0-9 0v1c0 1.093-.907 2-2 2h-3c-1.093 0-2-.907-2-2V17c0-1.409 1.119-2.718 2.5-3a44.979 44.979 0 0 1 18 0zM11.5 2.5v6M20.402 5.842l-4.243 4.243M2.598 5.842l4.243 4.243"/>
-         </symbol>
-         <symbol id="icon-feature-fax" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path fill="none" stroke-linejoin="round" stroke-miterlimit="10" d="M11.5 6.5v-6H19l2.5 2v4M13 2.5h4.5M13 4.5h7M9.5 21.5a2 2 0 0 1-2 2h-3a2 2 0 0 1-2-2v-16a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v16zM9.5 6.5h13c.55 0 1 .45 1 1v13c0 .55-.45 1-1 1h-13M2.5 21.5h-1c-.55 0-1-.45-1-1v-13c0-.55.45-1 1-1h1"/>
-            <path fill="none" stroke-linejoin="round" stroke-miterlimit="10" d="M13.5 8.5h6v2h-6z"/>
-            <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M4.5 3.5v-3"/>
-            <path d="M14 13h-1v1h1v-1zM17 13h-1v1h1v-1zM20 13h-1v1h1v-1zM14 15h-1v1h1v-1zM17 15h-1v1h1v-1zM20 15h-1v1h1v-1zM14 17h-1v1h1v-1zM17 17h-1v1h1v-1zM20 17h-1v1h1v-1z"/>
-         </symbol>
-         <symbol id="icon-feature-filters" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <ellipse fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="10" cy="4" rx="9.5" ry="3.5"/>
-            <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M.5 4v2.5c0 1.1.637 2.637 1.415 3.414L8.5 16.5M19.5 4v2.5c0 1.1-.636 2.637-1.414 3.414L11.5 16.5M11.5 16.5v6c0 .55-.449 1-1 1h-1c-.55 0-1-.45-1-1v-6"/>
-            <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M11.5 18.606a5.472 5.472 0 0 0 3 .894A5.5 5.5 0 0 0 20 14a5.481 5.481 0 0 0-1.873-4.127"/>
-         </symbol>
-         <symbol id="icon-feature-forward" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M7.492 10.012c.78-.781.78-2.047 0-2.828L5.37 5.062a2 2 0 0 0-2.829 0L1.378 6.226A2.995 2.995 0 0 0 1 10.001a46.51 46.51 0 0 0 13 13 2.999 2.999 0 0 0 3.773-.379l1.164-1.164a2 2 0 0 0 0-2.828l-2.121-2.121a2 2 0 0 0-2.828 0l-.707.707a47.425 47.425 0 0 1-6.496-6.497l.707-.707zM23.5.501l-10 10M17 .5h6.5V7"/>
-         </symbol>
-         <symbol id="icon-feature-hardware" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path stroke-linecap="round" d="M2.5 14.5c-1.104 0-2-.896-2-2s.896-2 2-2M14.5 21.5h2c1.934 0 3.5-1.066 3.5-3v-1.064"/>
-            <circle stroke-linecap="round" cx="13" cy="21.5" r="1.5"/>
-            <path stroke-linecap="round" d="M6.5 17.5h-2c-1.104 0-2-.896-2-2v-6c0-1.104.896-2 2-2h2v10zM21.5 14.5c1.104 0 2-.896 2-2s-.896-2-2-2M17.5 17.5h2c1.104 0 2-.896 2-2v-6c0-1.104-.896-2-2-2h-2v10z"/>
-            <path d="M5 7.5c0-3.866 3.134-7 7-7 3.865 0 7 3.134 7 7"/>
-         </symbol>
-         <symbol id="icon-feature-listen" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M22.5 9a6.5 6.5 0 1 0-13 0c0 4.817 4 4.609 4 9a4.5 4.5 0 0 0 9 0M4.868 1.868C2.787 3.949 1.5 6.824 1.5 10s1.287 6.051 3.368 8.132M7.697 4.697A7.477 7.477 0 0 0 5.5 10c0 2.07.84 3.946 2.197 5.303"/>
-            <path d="M19 9a3.001 3.001 0 0 0-6 0c0 2.377 2 2.168 2 4a2 2 0 0 0 4 0"/>
-         </symbol>
-         <symbol id="icon-feature-meeting" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M4 6.609V8l-2.539.726C.933 8.877.5 9.45.5 10v.5H6"/>
-            <path d="M7 6.578V8l2.538.726c.529.151.962.724.962 1.274v.5H5"/>
-            <ellipse cx="5.5" cy="3.771" rx="3" ry="3.271"/>
-            <path d="M8.469 3.198c-.5.5-1.93.476-2.469-.528-1 1-2.625 1-3.434.43M17 6.609V8l-2.539.726c-.528.151-.961.724-.961 1.274v.5H19"/>
-            <path d="M20 6.594V8l2.538.726c.529.151.962.724.962 1.274v.5H18"/>
-            <ellipse cx="18.5" cy="3.771" rx="3" ry="3.271"/>
-            <path d="M21.453 3.195c-.5.5-1.914.479-2.453-.525-1 1-2.625 1-3.434.43M10.5 19.609V21l-2.539.726C7.433 21.877 7 22.45 7 23v.5h5.5"/>
-            <path d="M13.5 19.609V21l2.538.726c.529.151.962.724.962 1.274v.5h-5.5"/>
-            <ellipse cx="12" cy="16.771" rx="3" ry="3.271"/>
-            <path d="M14.953 16.17c-.5.5-1.914.504-2.453-.5-1 1-2.625 1-3.434.43"/>
-            <path stroke-linecap="round" d="M4 12.5L6.5 15M20 12.5L17.5 15"/>
-         </symbol>
-         <symbol id="icon-feature-menu" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M3.5 3.5h17v3h-17zM3.5 9.5h17v3h-17zM3.5 15.5h17v3h-17z"/>
-         </symbol>
-         <symbol id="icon-feature-notifications" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M7.5 6.5v8.527c0 2.74 1.549 5.246 4 6.473M23.5 11c0 .828-.672 1.5-1.5 1.5h-.5v-4h.5c.828 0 1.5.672 1.5 1.5v1z"/>
-            <path d="M4.5 6.5h-1c-1.656 0-3 1.343-3 3v2c0 1.656 1.344 3 3 3h1c8.927 0 12.59 1.995 17 4v-16c-4.4 2-8.068 4-17 4z"/>
-         </symbol>
-         <symbol id="icon-feature-number" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M12 19c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zM6 1c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm12-8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm-6 8c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0-6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0-6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"/>
-         </symbol>
-         <symbol id="icon-feature-on-hold" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M.5 17.5h17v5H.5z"/>
-            <path stroke-linecap="round" d="M14.5 23.516V22.5M3.5 23.516V22.5M15.5 17.5h-2C17 14 7 9 1.369 11.262L10.399.564C8.094 9.373 20 12 15.5 17.5zM1.5 15.5h10M6.5 14.5v3"/>
-         </symbol>
-         <symbol id="icon-feature-opening-hours" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path stroke-linecap="round" d="M15 12.5h-3.5V7"/>
-            <path d="M23.5 19.5c0 2.2-1.8 4-4 4h-15c-2.2 0-4-1.8-4-4v-15c0-2.2 1.8-4 4-4h15c2.2 0 4 1.8 4 4v15z"/>
-            <circle cx="12" cy="12" r="8.5"/>
-         </symbol>
-         <symbol id="icon-feature-popup" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M12 20.5H2.5a2 2 0 0 1-2-2v-14a2 2 0 0 1 2-2h19a2 2 0 0 1 2 2V12M.5 7.5h23"/>
-            <circle cx="4" cy="5" r=".5"/>
-            <circle cx="7" cy="5" r=".5"/>
-            <circle cx="10" cy="5" r=".5"/>
-            <path d="M18.5 10.5h-10M4.5 10.5h1M12.5 13.5h-4M4.5 13.5h1M12.5 16.5h-4M4.5 16.5h1M23.5 23.5a4.5 4.5 0 0 0-9 0h9z"/>
-            <circle cx="19" cy="16.25" r="2.75"/>
-         </symbol>
-         <symbol id="icon-feature-queu" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M16.5 12.5v2h-9v-2h-7v8h23v-8zM9.5 12.5h5M2.5 10.5h19M2.5 8.5h19M2.5 6.5h19M2.5 4.5h19"/>
-         </symbol>
-         <symbol id="icon-feature-recognition" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <circle cx="12" cy="8" r="7"/>
-            <path d="M12.326 1.009s.965 1.396.534 2.688c-1.075.644-1.29 2.151-1.075 1.936.215-.216 1.291.43 1.291.43.432 0 .646-.645.646-.645 1.077 0 .646 2.368.86 2.582.216.216.861-.215.862.432-.001.645-.218 1.074-.218 1.074 1.078 1.077.001 2.154-.213 2.368-.217.216-1.506-.216-1.723-.432-.214-.213-.215-.643-.432-.859-.214-.214-1.074-.214-1.074-.214-.859-.862-1.291 0-1.938.645-.646.647-1.505-.213-1.505-.213S6.836 9.291 7.695 8c.861-1.294 1.293-.861 1.293-.861.859 0 1.291-1.292 1.721-1.722 0 0-1.291-1.721-1.508-1.075-.215.644-.766.865-1.289.429-.736-.609.8-2.954.8-2.954M7 3L4.5.5M5.5 23.5c0-1.381 3.134-3 7-3s7 1.619 7 3h-14zM17 13l3 3c0 5-7.5 4.5-7.5 4.5"/>
-            <path d="M18.718 14.717c-3.71 3.71-9.726 3.71-13.435 0-3.711-3.709-3.711-9.725 0-13.435"/>
-         </symbol>
-         <symbol id="icon-feature-recorder" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <circle stroke-linecap="round" cx="5.5" cy="7.5" r="5"/>
-            <circle stroke-linecap="round" cx="18.5" cy="7.5" r="5"/>
-            <path stroke-linecap="round" d="M8.5 19.5h7v2h-7z"/>
-            <circle stroke-linecap="round" cx="6" cy="17.5" r=".5"/>
-            <circle stroke-linecap="round" cx="18" cy="17.5" r=".5"/>
-            <circle stroke-linecap="round" cx="14" cy="14.5" r="1"/>
-            <circle stroke-linecap="round" cx="10" cy="14.5" r="1"/>
-            <path d="M20.5 12.084V19.5c0 1.1-.9 2-2 2h-13c-1.1 0-2-.9-2-2v-7.416M10.084 9.5h3.832"/>
-            <path stroke-linecap="round" d="M5.5 6V4.5M18.5 6V4.5M17.201 8.25L15.902 9M19.799 8.25l1.298.75M4.201 8.25L2.902 9M6.799 8.25L8.097 9"/>
-         </symbol>
-         <symbol id="icon-feature-routering" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M.5.501h13v3H.5zM10.5 12.501h13.001v3H10.5zM10.5 20.501h13.001v3H10.5zM17.5 15.501v5M7.5 3.501v4.5c0 .827.672 1.5 1.5 1.5h7a1.5 1.5 0 0 1 1.5 1.5v1.5"/>
-         </symbol>
-         <symbol id="icon-feature-stats" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M23.5 23.5H.5V.5"/>
-            <circle cx="7.5" cy="16.5" r="1.5"/>
-            <path d="M16.916 8.314l4.076-5.206M9.933 7.462l4.618 1.648M.5 11.781l6.719-4.005M16.299 15.752l4.405-2.496M9 16.5h4.5M.5 21l5.712-3.734"/>
-            <circle cx="8.5" cy="7" r="1.5"/>
-            <circle cx="16" cy="9.5" r="1.5"/>
-            <circle cx="22" cy="2" r="1.5"/>
-            <circle cx="22" cy="12.5" r="1.5"/>
-            <circle cx="15" cy="16.5" r="1.5"/>
-         </symbol>
-         <symbol id="icon-feature-trunk" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M.5 5.5h23v6H.5zM.5 5.5l6-5h11l6 5"/>
-            <circle cx="14" cy="8.5" r=".5"/>
-            <circle cx="17" cy="8.5" r=".5"/>
-            <circle cx="20" cy="8.5" r=".5"/>
-            <circle cx="3.5" cy="8.5" r="1"/>
-            <path d="M.5 11.5v6h23v-6"/>
-            <circle cx="14" cy="14.5" r=".5"/>
-            <circle cx="17" cy="14.5" r=".5"/>
-            <circle cx="20" cy="14.5" r=".5"/>
-            <circle cx="3.5" cy="14.5" r="1"/>
-            <path d="M23.5 17.5v4c0 1.104-.896 2-2 2h-19c-1.104 0-2-.896-2-2v-4"/>
-            <circle cx="14" cy="20.5" r=".5"/>
-            <circle cx="17" cy="20.5" r=".5"/>
-            <circle cx="20" cy="20.5" r=".5"/>
-            <circle cx="3.5" cy="20.5" r="1"/>
-         </symbol>
-         <symbol id="icon-feature-voicemail" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <circle cx="5.5" cy="12.5" r="5"/>
-            <circle cx="18.5" cy="12.5" r="5"/>
-            <path d="M18.5 17.5h-13"/>
-         </symbol>
-         <symbol id="icon-feature-webapp" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M23.5 16.5c0 .55-.449 1-1 1h-21c-.55 0-1-.45-1-1v-13c0-.55.45-1 1-1h21c.551 0 1 .45 1 1v13z"/>
-            <path d="M2.5 4.5h19v11h-19z"/>
-            <path stroke-linecap="round" d="M7 20.5h10"/>
-            <path d="M10.5 17.5v3M13.5 17.5v3"/>
-         </symbol>
-         <symbol id="icon-feature-webhooks" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path fill="none" stroke-linejoin="round" stroke-miterlimit="10" d="M21.277 11.908a6.515 6.515 0 0 0 1.19-7.565L19.156 7.5H16.5V5l3.222-3.476C17.28.275 14.171.67 12.126 2.714a6.505 6.505 0 0 0-1.21 7.554l-9.827 9.819a1.997 1.997 0 1 0 2.82 2.827l9.816-9.817a6.498 6.498 0 0 0 7.552-1.189zM16.5 7.5l4.5 4.813"/>
-            <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M12.5 9L14 7.5M13.75 10.25l1.5-1.5M15 11.5l1.5-1.5"/>
-         </symbol>
-         <symbol id="symbol-badge" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M4.21 14.068L.5 20.482l3.85-.651L5.686 23.5l3.283-5.516M19.672 14.157l3.667 6.325-3.851-.651-1.336 3.669-3.277-5.484"/>
-            <circle cx="12" cy="9.5" r="9"/>
-            <path d="M12 4.5l1.5 3h3L14 10l1 3.5-3-1.876L9 13.5l1-3.5-2.5-2.5h3z"/>
-         </symbol>
-         <symbol id="symbol-balloon" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M18.5 8c0-4.5-3-7.5-7-7.5s-7 3-7 7.5c0 4.007 5.283 7.256 6.5 8l-1.5 2.5h4L12 16c1.217-.744 6.5-3.993 6.5-8zM11.5 18.5v3a1 1 0 1 0 2 0 1 1 0 1 1 2 0v2M6.5 7.5a5 5 0 0 1 5-5"/>
-         </symbol>
-         <symbol id="symbol-blocked" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <circle cx="11.5" cy="11.5" r="11"/>
-            <path d="M4.5 9.5h14v4h-14z"/>
-         </symbol>
-         <symbol id="symbol-book" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M5.5 2.5h12v2"/>
-            <path d="M19.5 4.5v-4h-14c-1.104 0-2 .895-2 2 0 1.104.896 2 2 2h15v19h-15c-1.104 0-2-.896-2-2v-19"/>
-         </symbol>
-         <symbol id="symbol-buoy" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M7.219 13.5H.5v-3h6.703M13.5 16.766V23.5h-3v-6.734M16.766 10.5H23.5v3h-6.75M10.5 7.219V.5h3v6.734"/>
-            <circle cx="12" cy="12" r="5"/>
-            <path d="M13.5 1.607c4.598.659 8.235 4.294 8.893 8.893M1.605 10.5C2.264 5.901 5.9 2.266 10.5 1.607M10.5 22.394C5.9 21.737 2.264 18.1 1.605 13.5M22.393 13.5c-.657 4.6-4.295 8.237-8.893 8.894"/>
-         </symbol>
-         <symbol id="symbol-calculator" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M20.5 21c0 1.375-1.125 2.5-2.5 2.5H5A2.507 2.507 0 0 1 2.5 21V3C2.5 1.625 3.625.5 5 .5h13c1.375 0 2.5 1.125 2.5 2.5v18z"/>
-            <path d="M18.5 5.606a.896.896 0 0 1-.895.894H5.395a.896.896 0 0 1-.895-.894V3.395c0-.493.402-.895.895-.895h12.211c.492 0 .895.402.895.895v2.211zM2.5 15.5h18M2.5 8.5h18M11.5 8.5v15"/>
-            <path stroke-linecap="round" d="M5 12.5h3M14.5 12.5h3M14.5 20.5h3M14.5 18.5h3M6.5 11v3M5 18l3 3M8 18l-3 3"/>
-         </symbol>
-         <symbol id="symbol-chat" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M14.5 1.5h-10c-2.209 0-4 1.791-4 4v4c0 2.21 1.791 4 4 4h1v4l4.5-4h4.5c2.209 0 4-1.79 4-4v-4c0-2.209-1.791-4-4-4zM11.5 17c0 1.381 1.119 2.5 2.5 2.5h2.5l3 3v-3H21c1.381 0 2.5-1.119 2.5-2.5v-2c0-1.381-1.119-2.5-2.5-2.5"/>
-         </symbol>
-         <symbol id="symbol-check" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M17 8.5l-7.5 7L7 13"/>
-            <circle cx="12" cy="12" r="11.5"/>
-         </symbol>
-         <symbol id="symbol-cloud-2" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path fill="none" stroke-linejoin="round" stroke-miterlimit="10" d="M23.5 13.5c0-2.797-2.31-5.098-5.18-4.991A6.994 6.994 0 0 0 12 4.5a6.992 6.992 0 0 0-6.979 6.579A3.752 3.752 0 0 0 .5 14.75c0 3.81 4 3.75 4 3.75H19s4.5-.586 4.5-5z"/>
-         </symbol>
-         <symbol id="symbol-cloud-server" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path fill="none" stroke-linejoin="round" stroke-miterlimit="10" d="M17.5 6.928c0-1.998-1.707-3.641-3.828-3.564C12.842 1.672 11.064.5 9 .5 6.246.5 4.002 2.578 3.842 5.199 2.117 4.852.5 6.121.5 7.82c0 2.721 2.956 2.68 2.956 2.68h10.718s3.326-.42 3.326-3.572zM.5 13.5h17v5H.5zM.5 18.5h17v5H.5z"/>
-            <circle fill="none" stroke-linejoin="round" stroke-miterlimit="10" cx="4" cy="16" r="1"/>
-            <circle fill="none" stroke-linejoin="round" stroke-miterlimit="10" cx="14" cy="16" r=".5"/>
-            <circle fill="none" stroke-linejoin="round" stroke-miterlimit="10" cx="11" cy="16" r=".5"/>
-            <circle fill="none" stroke-linejoin="round" stroke-miterlimit="10" cx="4" cy="21" r="1"/>
-            <circle fill="none" stroke-linejoin="round" stroke-miterlimit="10" cx="14" cy="21" r=".5"/>
-            <circle fill="none" stroke-linejoin="round" stroke-miterlimit="10" cx="11" cy="21" r=".5"/>
-         </symbol>
-         <symbol id="symbol-cloud" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M19.151 14.473S23.5 13.914 23.5 9.5c0-2.797-2.31-5.098-5.18-4.992C17.198 2.141 14.793.5 12 .5 8.274.5 5.238 3.41 5.021 7.08 2.688 6.592.5 8.369.5 10.75c0 3.809 3.835 3.744 3.835 3.744"/>
-            <path stroke-linecap="round" d="M21.5 21c0 1.381-1.119 2.5-2.5 2.5H5c-1.381 0-2.5-1.119-2.5-2.5v-2.5h19V21zM2.5 18.5l2.333-5.092c.229-.5.867-.908 1.417-.908H17c.55 0 1.227.389 1.504.863L21.5 18.5h-19zM15 21.5h3"/>
-         </symbol>
-         <symbol id="symbol-coffee" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path stroke-linecap="round" d="M17.5 2.5v15c0 2.2-1.8 4-4 4h-9c-2.2 0-4-1.8-4-4v-15"/>
-            <path d="M17.5 5a6 6 0 0 1 0 12"/>
-            <path stroke-linecap="round" d="M.5 2.5h17"/>
-            <path d="M17.5 7.5a3.5 3.5 0 1 1 0 7"/>
-            <path stroke-linecap="round" d="M3.5 6v11"/>
-         </symbol>
-         <symbol id="symbol-cog" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <g fill="none" stroke-linejoin="round" stroke-miterlimit="10">
-               <circle cx="8.5" cy="15.5" r="3"/>
-               <path d="M14.851 14.143l1.577-.911-2-3.464-1.574.909A6.531 6.531 0 0 0 10.5 9.323V7.5h-4v1.821a6.456 6.456 0 0 0-2.356 1.356l-1.573-.909-2 3.464 1.578.912a6.443 6.443 0 0 0 0 2.713l-1.578.911 2 3.464 1.574-.909a6.51 6.51 0 0 0 2.354 1.354V23.5h4v-1.821a6.462 6.462 0 0 0 2.356-1.355l1.572.908 2-3.464-1.578-.91a6.452 6.452 0 0 0 .002-2.715z"/>
-               <g>
-                  <circle cx="19" cy="5" r="1.5"/>
-                  <path d="M22.39 4.197l1.007-.582-1-1.732-1.007.582a3.474 3.474 0 0 0-1.39-.81V.5h-2v1.156a3.49 3.49 0 0 0-1.395.806l-1.002-.579-1 1.732 1 .577a3.46 3.46 0 0 0 .005 1.61l-1.005.581 1 1.732 1.005-.581c.386.364.851.65 1.392.812V9.5h2V8.344a3.504 3.504 0 0 0 1.395-.807l1.002.579 1-1.732-1.001-.578a3.483 3.483 0 0 0-.006-1.609z"/>
-               </g>
-            </g>
-         </symbol>
-         <symbol id="symbol-crown" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <circle cx="2" cy="6.833" r="1.5"/>
-            <circle cx="22" cy="6.917" r="1.5"/>
-            <path d="M4 21.5h16M4 19.5L1.953 8.328S3 13.5 7 13.5s5-7 5-7 1 7 5 7 5.047-5.093 5.047-5.093L20 19.5H4z"/>
-            <circle cx="12" cy="4.5" r="2"/>
-         </symbol>
-         <symbol id="symbol-danger" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path stroke-linecap="round" d="M11.5 16.8V9.2m11 14.3H.5l11-22z"/>
-            <path d="M12 20c0 .3-.2.5-.5.5a.5.5 0 0 1 0-1c.3 0 .5.2.5.5z"/>
-         </symbol>
-         <symbol id="symbol-dashboard" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <circle cx="12" cy="16" r="1.5"/>
-            <path d="M13.061 14.939l4.95-4.949M2.5 16.5h2M21.5 16.5h-2M20.776 12.365l-1.847.765M15.635 7.223l-.765 1.848M12 6.5v2M8.365 7.223l.765 1.848M5.283 9.282l1.412 1.415M3.224 12.365l1.846.765M12 4.5C5.648 4.5.5 9.649.5 16v4.5h23V16c0-6.351-5.148-11.5-11.5-11.5z"/>
-         </symbol>
-         <symbol id="symbol-desk-phone" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path fill="none" stroke-linejoin="round" stroke-miterlimit="10" d="M10.5 21.5a2 2 0 0 1-2 2h-3a2 2 0 0 1-2-2v-16a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v16zM10.5 6.5h11c.55 0 1 .45 1 1v13c0 .55-.45 1-1 1h-11M3.5 21.5h-1c-.55 0-1-.45-1-1v-13c0-.55.45-1 1-1h1"/>
-            <path fill="none" stroke-linejoin="round" stroke-miterlimit="10" d="M13.5 8.5h6v2h-6z"/>
-            <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M5.5 3.5v-3"/>
-            <path d="M14 13h-1v1h1v-1zM17 13h-1v1h1v-1zM20 13h-1v1h1v-1zM14 15h-1v1h1v-1zM17 15h-1v1h1v-1zM20 15h-1v1h1v-1zM14 17h-1v1h1v-1zM17 17h-1v1h1v-1zM20 17h-1v1h1v-1z"/>
-         </symbol>
-         <symbol id="symbol-dial" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path stroke-linecap="round" d="M21 2.5c1.38.282 2.5 1.59 2.5 3v2c0 1.093-.907 2-2 2h-3c-1.092 0-2-.907-2-2V6c-2.965-.294-6.033-.294-9 0v1.5c0 1.093-.908 2-2 2h-3c-1.093 0-2-.907-2-2v-2c0-1.41 1.12-2.718 2.5-3 5.75-1.172 11.848-1.253 18 0z"/>
-            <path d="M5.5 12.5h3v2h-3zM10.5 12.5h3v2h-3zM15.5 12.5h3v2h-3zM5.5 16.5h3v2h-3zM10.5 16.5h3v2h-3zM15.5 16.5h3v2h-3zM5.5 20.5h3v2h-3zM10.5 20.5h3v2h-3zM15.5 20.5h3v2h-3z"/>
-         </symbol>
-         <symbol id="symbol-emoticon-1" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <circle cx="12" cy="12" r="11.5"/>
-            <path d="M19.5 13c0 4.143-3.357 7.5-7.5 7.5S4.5 17.143 4.5 13M5.5 10c0-2.643 4-2.646 4 0M18.5 10c0-2.643-4-2.646-4 0"/>
-         </symbol>
-         <symbol id="symbol-flag" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M2.5.5v23m19-20.3S13 5.5 13 2.5s-8.5 0-8.5 0v12s8.5-3 8.5 0 8.5.7 8.5.7v-12z" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
-         </symbol>
-         <symbol id="symbol-globe" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <circle cx="12" cy="8" r="7"/>
-            <path d="M12.326 1.009s.965 1.396.534 2.688c-1.075.644-1.29 2.151-1.075 1.936.215-.216 1.291.43 1.291.43.432 0 .646-.645.646-.645 1.077 0 .646 2.368.86 2.582.216.216.861-.215.862.432-.001.645-.218 1.074-.218 1.074 1.078 1.077.001 2.154-.213 2.368-.217.216-1.506-.216-1.723-.432-.214-.213-.215-.643-.432-.859-.214-.214-1.074-.214-1.074-.214-.859-.862-1.291 0-1.938.645-.646.647-1.505-.213-1.505-.213S6.836 9.291 7.695 8c.861-1.294 1.293-.861 1.293-.861.859 0 1.291-1.292 1.721-1.722 0 0-1.291-1.721-1.508-1.075-.215.644-.766.865-1.289.429-.736-.609.8-2.954.8-2.954M7 3L4.5.5M5.5 23.5c0-1.381 3.134-3 7-3s7 1.619 7 3h-14zM17 13l3 3c0 5-7.5 4.5-7.5 4.5"/>
-            <path d="M18.718 14.717c-3.71 3.71-9.726 3.71-13.435 0-3.711-3.709-3.711-9.725 0-13.435"/>
-         </symbol>
-         <symbol id="symbol-headphones" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path stroke-linecap="round" d="M2.5 14.5c-1.104 0-2-.896-2-2s.896-2 2-2M14.5 21.5h2c1.934 0 3.5-1.066 3.5-3v-1.064"/>
-            <circle stroke-linecap="round" cx="13" cy="21.5" r="1.5"/>
-            <path stroke-linecap="round" d="M6.5 17.5h-2c-1.104 0-2-.896-2-2v-6c0-1.104.896-2 2-2h2v10zM21.5 14.5c1.104 0 2-.896 2-2s-.896-2-2-2M17.5 17.5h2c1.104 0 2-.896 2-2v-6c0-1.104-.896-2-2-2h-2v10z"/>
-            <path d="M5 7.5c0-3.866 3.134-7 7-7 3.865 0 7 3.134 7 7"/>
-         </symbol>
-         <symbol id="symbol-house" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path stroke-linecap="round" d="M.5 23.5h23M.5 15.5l10-4"/>
-            <path d="M2.5 14.719V23.5"/>
-            <path stroke-linecap="round" d="M9 4.5l14.5 9"/>
-            <path d="M21.5 12.281V23.5M18.5 10.407V6.5h2v5.141"/>
-            <path stroke-linecap="round" d="M12.5 19.5h7v4h-7zM16.5 19.5v4"/>
-            <circle stroke-linecap="round" cx="14" cy="12.5" r="1.5"/>
-            <path stroke-linecap="round" d="M4.5 18.5h4v5h-4zM4.5 16.5h4"/>
-            <path d="M10.5 5.453V23.5"/>
-         </symbol>
-         <symbol id="symbol-lightbulb" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M17.5 11.5a6 6 0 0 0-12 0 5.997 5.997 0 0 0 4.5 5.803V18.5h3v-1.197a5.999 5.999 0 0 0 4.5-5.803zM12 22.5h-1M13 20.5h-3M11.5 1.5v2M21.5 11.5h-2M1.5 11.5h2M3.721 3.722l2.122 2.122M19.277 3.722l-2.122 2.122"/>
-         </symbol>
-         <symbol id="symbol-line-chart" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M23.5 23.5H.5V.5"/>
-            <circle cx="7.5" cy="16.5" r="1.5"/>
-            <path d="M16.916 8.314l4.076-5.206M9.933 7.462l4.618 1.648M.5 11.781l6.719-4.005M16.299 15.752l4.405-2.496M9 16.5h4.5M.5 21l5.712-3.734"/>
-            <circle cx="8.5" cy="7" r="1.5"/>
-            <circle cx="16" cy="9.5" r="1.5"/>
-            <circle cx="22" cy="2" r="1.5"/>
-            <circle cx="22" cy="12.5" r="1.5"/>
-            <circle cx="15" cy="16.5" r="1.5"/>
-         </symbol>
-         <symbol id="symbol-lock" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M20.5 9.5h-17v14h17v-3h-5v-8h5zM6.5 6C6.5 2.962 8.963.5 12 .5s5.5 2.462 5.5 5.5v3.5h-11V6zM15.5 14.5H21M15.5 16.5H21M15.5 18.5H21"/>
-         </symbol>
-         <symbol id="symbol-megaphone" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M7.5 6.5v8.527c0 2.74 1.549 5.246 4 6.473M23.5 11c0 .828-.672 1.5-1.5 1.5h-.5v-4h.5c.828 0 1.5.672 1.5 1.5v1z"/>
-            <path d="M4.5 6.5h-1c-1.656 0-3 1.343-3 3v2c0 1.656 1.344 3 3 3h1c8.927 0 12.59 1.995 17 4v-16c-4.4 2-8.068 4-17 4z"/>
-         </symbol>
-         <symbol id="symbol-mobile-download" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M19.195 15s4.305-.463 4.305-4.684c0-2.677-2.209-4.827-4.955-4.726-1.073-2.266-3.373-3.81-6.045-3.81-3.563 0-6.468 2.794-6.676 6.305C3.593 7.62 1.5 9.228 1.5 11.505c0 2.412 1.677 3.162 2.811 3.396"/>
-            <path d="M15.5 14.5c0-.551-.447-1-1-1h-4c-.553 0-1 .449-1 1v8c0 .552.447 1 1 1h4c.553 0 1-.448 1-1v-8zM9.5 21.5h6M12.5 11V5.5M10.5 9l2 2 2-2"/>
-         </symbol>
-         <symbol id="symbol-mobile-phone" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path stroke-linecap="round" d="M18.5 21.5c0 1.104-.896 2-2 2h-9c-1.104 0-2-.896-2-2v-19c0-1.104.896-2 2-2h9c1.104 0 2 .896 2 2v19zM18.5 19.5h-13M18.5 4.5h-13M9.5 2.5h5"/>
-            <path d="M12 22c-.276 0-.5-.224-.5-.5s.224-.5.5-.5.5.224.5.5-.223.5-.5.5z"/>
-         </symbol>
-         <symbol id="symbol-mouse" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M19.5 17.5c0 3.3-2.699 6-6 6h-3c-3.3 0-6-2.7-6-6v-11c0-3.3 2.7-6 6-6h3c3.301 0 6 2.7 6 6v11z"/>
-            <path d="M13 7.5c0 .55-.449 1-1 1-.55 0-1-.45-1-1v-2c0-.55.45-1 1-1 .551 0 1 .45 1 1v2z"/>
-         </symbol>
-         <symbol id="symbol-office" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M2.5 8.5h10v15h-10z"/>
-            <path d="M20.5 23.5h-8v-15h-2v-8h10z"/>
-            <path d="M15.5 20.5h3v3h-3zM4.5 20.5h3v3h-3zM2.5 10.5h4M2.5 12.5h3M10.5 4.5h4M10.5 2.5h6M10.5 6.5h3M2.5 14.5h2"/>
-         </symbol>
-         <symbol id="symbol-paper" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M23.5 1.5L.5 11l9 3.5z"/>
-            <path d="M23.5 1.5l-4 18.5-10-5.5zM9.5 14.5v8l3.5-6"/>
-         </symbol>
-         <symbol id="symbol-phone-heart" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path stroke-linecap="round" d="M18.5 21.5a2 2 0 0 1-2 2h-9a2 2 0 0 1-2-2v-19a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v19zM18.5 4.5h-13M18.5 19.5h-13M9.5 2.5h5"/>
-            <path d="M12.5 21.5a.5.5 0 0 1-1 0 .5.5 0 0 1 1 0zM12 16.102s4.5-3.24 4.5-5.64c0-2.77-3.682-3.646-4.5-.276-.818-3.369-4.5-2.493-4.5.276 0 2.399 4.5 5.64 4.5 5.64z"/>
-         </symbol>
-         <symbol id="symbol-phone-signal" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M7.492 10.012c.78-.78.78-2.048 0-2.83L5.37 5.063c-.78-.78-2.048-.78-2.828 0L1.378 6.226C.368 7.234.213 8.81 1 10c3.38 5.11 7.89 9.62 13 13 1.188.785 2.768.63 3.773-.38l1.165-1.163c.78-.78.78-2.047 0-2.828l-2.122-2.122c-.78-.78-2.047-.78-2.828 0l-.707.707c-2.325-1.906-4.59-4.17-6.495-6.496l.707-.708zM12 .5C18.352.5 23.5 5.648 23.5 12M12 4.5c4.142 0 7.5 3.357 7.5 7.5M12 8.5c1.933 0 3.5 1.566 3.5 3.5"/>
-         </symbol>
-         <symbol id="symbol-phone" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M21 3.5c1.381.282 2.5 1.591 2.5 3v2c0 1.093-.907 2-2 2h-3c-1.092 0-2-.907-2-2V7c-2.965-.294-6.033-.294-9 0v1.5c0 1.093-.908 2-2 2h-3c-1.093 0-2-.907-2-2v-2c0-1.409 1.119-2.718 2.5-3 5.751-1.172 11.848-1.253 18 0zM21.5 22.5h-19v-3c0-4.4 3.6-8 8-8h3c4.4 0 8 3.6 8 8v3zM10.5 9.5v2M13.5 9.5v2"/>
-            <circle cx="12" cy="17" r="3.5"/>
-         </symbol>
-         <symbol id="symbol-pie-chart" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M13.5 10.5h10c0-5.522-4.477-10-10-10v10zM20.571 19.571c1.81-1.81 2.929-4.31 2.929-7.071h-10l7.071 7.071z"/>
-            <path d="M10.5 3.5c-5.522 0-10 4.478-10 10 0 8.938 10.83 13.312 17.071 7.071L10.5 13.5v-10z"/>
-         </symbol>
-         <symbol id="symbol-piggy" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M11.5 6.017a7.483 7.483 0 0 1 5 1.483M23.5 9.5a2 2 0 0 1-2 2"/>
-            <path d="M9.546 3.78A3.492 3.492 0 0 0 4.75 2.472a3.5 3.5 0 0 1 1.715 2.536C4.37 6.276 2.91 8.24 2.574 10.5H.5v4h2.697c1.41 2.931 4.817 5 8.803 5 5.247 0 9.5-3.581 9.5-8 0-5.167-5.806-9.105-11.954-7.72z"/>
-            <circle cx="6" cy="10" r=".5"/>
-            <path d="M7.5 18.546V22M16.5 18.546V22"/>
-         </symbol>
-         <symbol id="symbol-pin" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <circle cx="12" cy="7" r="3.5"/>
-            <path d="M18.855 7.356c0 3.787-6.855 14.168-6.855 14.168S5.145 11.143 5.145 7.356a6.855 6.855 0 1 1 13.71 0z"/>
-            <path d="M17 19.699c3.848.324 6.5 1.009 6.5 1.801 0 1.105-5.148 2-11.5 2-6.351 0-11.5-.895-11.5-2 0-.79 2.635-1.473 6.458-1.798"/>
-         </symbol>
-         <symbol id="symbol-present" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M.5 7.5h23v4H.5zM1.5 11.5h21v12h-21zM8.5 7.5v16M15.5 23.5v-16"/>
-            <path stroke-linecap="round" d="M17.657 5.268C16.681 6.245 12 7.389 12 7.389s1.145-4.681 2.121-5.657 2.56-.976 3.536 0 .976 2.56 0 3.536zM6.343 5.268C7.319 6.245 12 7.389 12 7.389s-1.146-4.681-2.121-5.657c-.977-.976-2.56-.976-3.536 0s-.977 2.56 0 3.536z"/>
-         </symbol>
-         <symbol id="symbol-print" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M5.5 17.5h-3c-1.1 0-2-.9-2-2v-6c0-1.1.9-2 2-2h19c1.101 0 2 .9 2 2v6c0 1.1-.899 2-2 2h-3M5.5 5.5v-4h10l3 3v1"/>
-            <path d="M5.5 14.5h13v8h-13z"/>
-            <circle cx="3.5" cy="10.5" r="1"/>
-            <path d="M7.5 16.5h9M7.5 18.5h9M7.5 20.5h9M15.5 1.5v3h3"/>
-         </symbol>
-         <symbol id="symbol-screen" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M23.5 16.5c0 .55-.449 1-1 1h-21c-.55 0-1-.45-1-1v-13c0-.55.45-1 1-1h21c.551 0 1 .45 1 1v13z"/>
-            <path d="M2.5 4.5h19v11h-19z"/>
-            <path stroke-linecap="round" d="M7 20.5h10"/>
-            <path d="M10.5 17.5v3M13.5 17.5v3"/>
-         </symbol>
-         <symbol id="symbol-security-camera" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M15.5 9.5h-11V5c0-1.381 1.118-2.5 2.5-2.5h16.5l-1 3-7 2v2z"/>
-            <path d="M19.5 6.359V11.5h-12c-1.105 0-2-.823-2-1.928M21.5 8v2M8.5 13.5h4M10.5 13.5v5l-10 2M.5 18.5v4"/>
-         </symbol>
-         <symbol id="symbol-server" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M.5 5.5h23v6H.5zM.5 5.5l6-5h11l6 5"/>
-            <circle cx="14" cy="8.5" r=".5"/>
-            <circle cx="17" cy="8.5" r=".5"/>
-            <circle cx="20" cy="8.5" r=".5"/>
-            <circle cx="3.5" cy="8.5" r="1"/>
-            <path d="M.5 11.5v6h23v-6"/>
-            <circle cx="14" cy="14.5" r=".5"/>
-            <circle cx="17" cy="14.5" r=".5"/>
-            <circle cx="20" cy="14.5" r=".5"/>
-            <circle cx="3.5" cy="14.5" r="1"/>
-            <path d="M23.5 17.5v4c0 1.104-.896 2-2 2h-19c-1.104 0-2-.896-2-2v-4"/>
-            <circle cx="14" cy="20.5" r=".5"/>
-            <circle cx="17" cy="20.5" r=".5"/>
-            <circle cx="20" cy="20.5" r=".5"/>
-            <circle cx="3.5" cy="20.5" r="1"/>
-         </symbol>
-         <symbol id="symbol-settings-2" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M23.5 21.5c0 .552-.447 1-1 1h-21c-.553 0-1-.448-1-1v-20c0-.552.447-1 1-1h21c.553 0 1 .448 1 1v20z"/>
-            <circle cx="12" cy="5.5" r="2"/>
-            <path d="M13.998 5.5h6.523M3.521 5.5h6.475"/>
-            <circle cx="8" cy="11.5" r="2"/>
-            <path d="M9.996 11.5h10.525M3.521 11.5h2.475"/>
-            <circle cx="10" cy="17.5" r="2"/>
-            <path d="M11.996 17.5h8.525M3.521 17.5H8"/>
-         </symbol>
-         <symbol id="symbol-settings" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M.5.5h23v23H.5z"/>
-            <path d="M3.5 6.5c0 1.657 1.344 3 3 3h11c1.656 0 3-1.343 3-3s-1.344-3-3-3h-11c-1.656 0-3 1.343-3 3zM3.5 17.5c0 1.657 1.344 3 3 3h11c1.656 0 3-1.343 3-3s-1.344-3-3-3h-11c-1.656 0-3 1.343-3 3z"/>
-            <circle cx="6.5" cy="6.5" r="3"/>
-            <circle cx="17.5" cy="17.5" r="3"/>
-         </symbol>
-         <symbol id="symbol-shield" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path stroke-linecap="round" d="M11.508.5h-.016C9 2.998 1.5 5.02 1.5 5.02c0 7.961.5 14.961 10 18.48 9.5-3.519 10-10.519 10-18.48 0 0-7.5-2.022-9.992-4.52z"/>
-            <path d="M11.5 6.929l1.429 3.571H16.5l-2.857 2.546 1.071 3.949-3.214-2.488-3.214 2.506 1.071-3.971L6.5 10.5h3.571z"/>
-         </symbol>
-         <symbol id="symbol-thumbs-up" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M19 15.5c.829 0 1.5.672 1.5 1.5 0 .829-.671 1.5-1.5 1.5h-1c.829 0 1.5.672 1.5 1.5 0 .829-.671 1.5-1.5 1.5h-6.5c-4 0-3-2-11-2v-9h3c3.5 0 7.5-3.222 7.5-8 0-1.581 3-1.781 3 1.219 0 2-1 5.781-1 5.781h8c.829 0 1.5.672 1.5 1.5 0 .829-.671 1.5-1.5 1.5h-1c.829 0 1.5.672 1.5 1.5 0 .829-.671 1.5-1.5 1.5h-1"/>
-         </symbol>
-         <symbol id="symbol-train" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M23.5 19.5H5a2.504 2.504 0 0 1-2.5-2.505c0-1.286.006-.971 8-9.25a6.219 6.219 0 0 1 3.75-1.25h9.25"/>
-            <path d="M5 13.5h8c.816 0 1.543-.397 2-1.005l3-3H9M4.5 14.14a3.503 3.503 0 0 1 1.902 5.312M14 19.495l2.5-2.5c.418-.313.938-.5 1.5-.5h5.5M.5 21.5h23M14.5 19.495a1.5 1.5 0 1 1-3 0M19.5 19.495a1.5 1.5 0 1 1-3 0"/>
-         </symbol>
-         <symbol id="symbol-users" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M7.92 21.5h7.58V17c0-.5-3-2-5.5-3v-2s1-.35 1-2.5c.695 0 1-2 .032-2 0-.212.766-1.308.468-2.5-.5-2-5.5-2-6 0C3.395 4.57 5 7.212 5 7.5c-1 0-.696 2 0 2C5 11.65 6 12 6 12v2C3.5 15 .5 16.5.5 17v4.5h7.42z"/>
-            <path stroke-linecap="round" d="M18 21.5h5.5V17c0-.5-2.5-1.2-4.5-2v-1.5s1-.28 1-2c.557 0 .774-2 0-2 0-.17.81-1.067.5-2-.5-1.5-4.5-1.5-5 0-1.685-.345-.5 1.77-.5 2-.8 0-.557 2 0 2 0 1.72 1 2 1 2v1"/>
-         </symbol>
-         <symbol id="symbol-user-chat" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path fill="none" stroke-linejoin="round" stroke-miterlimit="10" d="M10.5 6.5c0-3.314 2.91-6 6.5-6s6.5 2.687 6.5 6c0 2.496-1.65 4.636-4 5.539C19 12.5 16 15 15.5 15.5c0-.5-.004-2.5 0-3.07a6.774 6.774 0 0 1-1.521-.396"/>
-            <path d="M20 6h-1v1h1V6zM17.5 6h-1v1h1V6zM15 6h-1v1h1V6z"/>
-            <path fill="none" stroke-linejoin="round" stroke-miterlimit="10" d="M7.919 23.5H15.5V21c0-.5-3-2-5.5-3v-2s1-.35 1-2.5c.695 0 1-2 .032-2 0-.211.766-1.308.468-2.5-.5-2-5.5-2-6 0-2.105-.43-.5 2.212-.5 2.5-1 0-.695 2 0 2C5 15.65 6 16 6 16v2C3.5 19 .5 20.5.5 21v2.5h7.419z"/>
-         </symbol>
-         <symbol id="symbol-van" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path d="M3.5 19.495v-11c0-4.694 3.806-7 8.5-7s8.5 2.306 8.5 7v11M2.5 19.495h19v2h-19zM4.5 5.495h15M12 5.495v5M20.5 10.686a10.51 10.51 0 0 0-8.394 8.81M11.895 19.494A10.513 10.513 0 0 0 3.5 10.685"/>
-            <circle cx="7" cy="16.495" r="1.5"/>
-            <circle cx="17" cy="16.495" r="1.5"/>
-            <path d="M3.5 9.995H2a1.5 1.5 0 0 0-.988 2.629L3.5 14.495M20.5 10.495h-17M20.5 14.495l2.488-1.872A1.5 1.5 0 0 0 22 9.995h-1.5M5 21.513v1.232c0 .414.586.75 1 .75s1-.336 1-.75v-1.25M17 21.513v1.232c0 .414.586.75 1 .75s1-.336 1-.75v-1.25"/>
-         </symbol>
-         <symbol id="symbol-window-graph" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <g stroke-linecap="round">
-               <path d="M23.5 20.5a2 2 0 0 1-2 2h-19a2 2 0 0 1-2-2v-17a2 2 0 0 1 2-2h19a2 2 0 0 1 2 2v17zM.5 6.5h23"/>
-               <circle cx="4" cy="4" r=".5"/>
-               <circle cx="7" cy="4" r=".5"/>
-               <circle cx="10" cy="4" r=".5"/>
-            </g>
-            <circle stroke-linecap="round" cx="8" cy="14.5" r="5"/>
-            <path stroke-linecap="round" d="M10.821 10.372L8 14.5l3.205 3.837M8 14.5H3"/>
-            <path d="M15 10.5h6M15 13.5h6M15 16.5h6"/>
-            </g> 
-         </symbol>
-         <symbol id="symbol-wrench" viewBox="0 0 24 24" preserveAspectRatio="xMinYMin" fill="none">
-            <path fill="none" stroke-linejoin="round" stroke-miterlimit="10" d="M21.277 11.908a6.515 6.515 0 0 0 1.19-7.565L19.156 7.5H16.5V5l3.222-3.476C17.28.275 14.171.67 12.126 2.714a6.505 6.505 0 0 0-1.21 7.554l-9.827 9.819a1.997 1.997 0 1 0 2.82 2.827l9.816-9.817a6.498 6.498 0 0 0 7.552-1.189zM16.5 7.5l4.5 4.813"/>
-            <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M12.5 9L14 7.5M13.75 10.25l1.5-1.5M15 11.5l1.5-1.5"/>
-         </symbol>
-         <symbol id="interface-arrow-right" viewBox="0 0 32 31" preserveAspectRatio="xMinYMin">
-            <path d="M31.3333 15.672H.6667M14.6667 30.3386L31.3333 15.672 14.6667 1.0053"/>
-         </symbol>
-      </svg>
       <script defer src="https://www.voys.co.za/wp-content/cache/autoptimize/autoptimize_c9152df39f301ee70618227b7937a854.php"></script>
    </body>
 </html>

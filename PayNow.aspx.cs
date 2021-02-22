@@ -23,7 +23,6 @@ public partial class PayNow : System.Web.UI.Page
 		Random random = new Random();
 		txnId.Value = (Convert.ToString(random.Next(10000, 20000)));
 		txnId.Value = "BumbaTechnos " + txnId.Value.ToString();
-		Response.Write(txnId.Value.ToString());
 	}
 
 

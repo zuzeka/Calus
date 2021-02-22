@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="assets/css/plugins.min.css">
     <link rel="stylesheet" href="assets/css/style.min.css">
 	<link rel="stylesheet" href="assets/css/style.css">
+	   <link href="assets/css/main.css" rel="stylesheet" />
 
 </head>
 
@@ -89,14 +90,14 @@
                                         <li><a href="#">Blog</a></li>
                                     </ul>
                                 </li>--%>
-                                <li class="has-children">
+                                <%--<li class="has-children">
                                     <a href="#">Partners</a>
                                     <ul class="sub-menu">
                                         <li><a href="reseller-program.aspx">Reseller Program</a></li>
                                         <li><a href="referral-program.aspx">Referral Program</a></li>
                                         <li><a href="submit-a-referral.aspx">Submit a Referral</a></li>
                                     </ul>
-                                </li>
+                                </li>--%>
                                 <li><a href="contact.aspx">Contact</a></li>
                             </ul>
                         </div>
@@ -126,7 +127,7 @@
             </div>
         </div>
         <!-- Header Bottom End -->
-
+        
         <!-- Mobile Menu Start -->
         <div class="mobile-menu-wrapper">
             <div class="body-overlay"></div>
@@ -144,41 +145,35 @@
                     <nav>
                         <ul class="mobile-menu">
                             <li class="has-children">
-                                <a href="#">Home <i class="fa fa-angle-down"></i></a>
-                                <ul class="dropdown">
-                                    <li><a href="index.html">Home One</a></li>
-                                    <li><a href="index-2.html">Home Two</a></li>
+                                <a href="#">Voip <i class="fa fa-angle-down"></i></a>
+                                <ul class="dropdown" style="background-color:#ffffff;">
+                                    <li><a href="voip.aspx">What is VoIP</a></li>
+                                        <li><a href="tour.aspx">Phone system</a></li>
+                                        <li><a href="phone-number.aspx">Phone numbers</a></li>
+                                        <li><a href="phone.aspx">VoIP phones</a></li>
                                 </ul>
-                            </li>
+                            </li> 
+                                <li><a href="tour.aspx">Tour</a></li>
                             <li class="has-children">
-                                <a href="#">Project <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                                <ul class="dropdown">
-                                    <li><a href="project-grid.html">Project Style 1</a></li>
-                                    <li><a href="project-grid-2.html">Project Style 2</a></li>
-                                    <li><a href="project-details.html">Project Details</a></li>
+                                <a href="#">Features and pricing <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                <ul class="dropdown" style="background-color:#ffffff;">
+                                    <li><a href="feature-and-price.aspx">Features and pricing</a></li>
+                                        <li><a href="local-call-rates.aspx">Local call rates</a></li>
+                                        <li><a href="international-call-rates.aspx">International call rates</a></li>
+                                        <li><a href="4g-app.aspx">Izwi 4G-app</a></li>
+                                        <li><a href="webphone.aspx">Izwi Webphone</a></li>
+                                        <li><a href="request-a-quote.aspx">Request a quote</a></li>
                                 </ul>
                             </li>
-                            <li class="has-children">
-                                <a href="#">Pages <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                                <ul class="dropdown">
-                                    <li><a href="about.aspx">About Us</a></li>
-                                    <li><a href="service.html">Service</a></li>
-                                    <li><a href="contact.aspx">Contact</a></li>
-                                    <li><a href="faq.html">Faq</a></li>
-                                    <li><a href="error-404.html">Error 404</a></li>
+							<li><a href="about.aspx">About</a></li>
+                            <%--<li class="has-children">
+                                <a href="#">Partners <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                <ul class="dropdown" style="background-color:#ffffff;">
+                                    <li><a href="reseller-program.aspx">Reseller Program</a></li>
+                                        <li><a href="referral-program.aspx">Referral Program</a></li>
+                                        <li><a href="submit-a-referral.aspx">Submit a Referral</a></li>
                                 </ul>
-                            </li>
-                            <li class="has-children">
-                                <a href="#">Blog <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                                <ul class="dropdown">
-                                    <li><a href="blog.html">Blog</a></li>
-                                    <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                    <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                    <li><a href="blog-details-sidebar.html">Blog Details Sidebar</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="about.aspx">About</a></li>
+                            </li>--%>
                             <li><a href="contact.aspx">Contact</a></li>
                         </ul>
                     </nav>
@@ -189,9 +184,9 @@
                 <div class="mt-auto">
                     <!-- Contact Link Start -->
                     <ul class="contact-links">
-                        <li><i class="fa fa-phone"></i><a href="#"> +012 3456 789 123</a></li>
-                        <li><i class="fa fa-envelope-o"></i><a href="#"> info@example.com</a></li>
-                        <li><i class="fa fa-clock-o"></i> <span>Monday - Sunday 9.00 - 18.00</span> </li>
+                        <li><i class="fa fa-phone"></i><a href="#"> 012 110 4017</a></li>
+                        <li><i class="fa fa-envelope-o"></i><a href="#"> info@izwi.com</a></li>
+                        <li><i class="fa fa-clock-o"></i> <span>Monday - Friday 8.00 - 17.00</span> </li>
                     </ul>
                     <!-- Contact Link End -->
 
@@ -212,7 +207,8 @@
         </div>
         <!-- Mobile Menu End -->
 
-        <!-- Offcanvas Search Start -->
+
+  <!-- Offcanvas Search Start -->
         <div class="offcanvas-search">
             <!-- Offcanvas Search Inner Start -->
             <div class="offcanvas-search-inner">
@@ -356,16 +352,17 @@
                     <div class="single-team-member" data-aos="fade-up" data-aos-delay="300">
                         <!-- Team Member Images End -->
 
+                        <!-- Team Member Images Start -->
+                        <div class="team-member-image">
+                            <img src="assets/images/default/award.jpg" alt="Awards">
+                        </div>
+                        <!-- Team Member Name/Social Identity End -->
+                        
                         <!-- Team Member Name/Social Identity Start -->
                         <div class="team-member-content" style="color: #006ea1;">
                             <h2 class="name" style="color: #006ea1; font-weight:900;">Awards</h2>
-                            <p style="font-size:larger;">Our VoIP platform has been nominated for several awards including the Shell LiveWire Awards. Izwi is also a Deloitte Fast50 company, 9 years in a row.</p>
-                        </div>
-                        <!-- Team Member Images Start -->
-                        <div class="team-member-image">
-                            <img src="assets/images/team/1.jpg" alt="Awards">
-                        </div>
-                        <!-- Team Member Name/Social Identity End -->
+                            <p style="font-size:larger;">Our VoIP platform has been nominated for several awards.</p>
+                         </div>
                     </div>
                     <!-- Single Team member End -->
                 </div>
@@ -375,16 +372,17 @@
                     <div class="single-team-member" data-aos="fade-up" data-aos-delay="300">
                         <!-- Team Member Images End -->
 
+                        <div class="team-member-image">
+                            <img src="assets/images/default/customer.jpg" alt="customer">
+                        </div>
+                        <!-- Team Member Name/Social Identity End -->
+                        
                         <!-- Team Member Name/Social Identity Start -->
                         <div class="team-member-content" style="color: #006ea1;">
                             <h2 class="name" style="color: #006ea1; font-weight:900;">Izwi customers rate us with a</h2>
                             <p style="font-size:larger;">More than 96% of our customers are more than happy with our telephone services.</p>
                         </div>
                         <!-- Team Member Images Start -->
-                        <div class="team-member-image">
-                            <img src="assets/images/team/1.jpg" alt="Awards">
-                        </div>
-                        <!-- Team Member Name/Social Identity End -->
                     </div>
                     <!-- Single Team member End -->
                 </div>
@@ -394,16 +392,17 @@
                     <div class="single-team-member" data-aos="fade-up" data-aos-delay="300">
                         <!-- Team Member Images End -->
 
+                        <div class="team-member-image">
+                            <img src="assets/images/default/happyCustomers.jpg" alt="happyCustomers">
+                        </div>
+                        <!-- Team Member Name/Social Identity End -->
+                        
                         <!-- Team Member Name/Social Identity Start -->
                         <div class="team-member-content" style="color: #006ea1;">
                             <h2 class="name" style="color: #006ea1; font-weight:900;">Happy customers</h2>
                             <p style="font-size:larger;">So far so good.</p>
                         </div>
                         <!-- Team Member Images Start -->
-                        <div class="team-member-image">
-                            <img src="assets/images/team/1.jpg" alt="Awards">
-                        </div>
-                        <!-- Team Member Name/Social Identity End -->
                     </div>
                     <!-- Single Team member End -->
                 </div>

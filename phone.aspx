@@ -132,14 +132,14 @@
                                         <li><a href="#">Blog</a></li>
                                     </ul>
                                 </li>--%>
-								<li class="has-children">
+								<%--<li class="has-children">
                                     <a href="#">Partners</a>
                                     <ul class="sub-menu">
                                         <li><a href="reseller-program.aspx">Reseller Program</a></li>
                                         <li><a href="referral-program.aspx">Referral Program</a></li>
                                         <li><a href="submit-a-referral.aspx">Submit a Referral</a></li>
                                     </ul>
-                                </li>
+                                </li>--%>
 								<li><a href="contact.aspx">Contact</a></li>
 							</ul>
 						</div>
@@ -169,91 +169,85 @@
 			</div>
 		</div>
 		<!-- Header Bottom End -->
+		
+        <!-- Mobile Menu Start -->
+        <div class="mobile-menu-wrapper">
+            <div class="body-overlay"></div>
+            <!-- Mobile Menu Inner Start -->
+            <div class="mobile-menu-inner">
 
-		<!-- Mobile Menu Start -->
-		<div class="mobile-menu-wrapper">
-			<div class="body-overlay"></div>
-			<!-- Mobile Menu Inner Start -->
-			<div class="mobile-menu-inner">
+                <!-- Button Close Start -->
+                <div class="btn-close-bar">
+                    <i class="pe-7s-close"></i>
+                </div>
+                <!-- Button Close End -->
 
-				<!-- Button Close Start -->
-				<div class="btn-close-bar">
-					<i class="pe-7s-close"></i>
-				</div>
-				<!-- Button Close End -->
+                <!-- mobile menu start -->
+                <div class="mobile-navigation">
+                    <nav>
+                        <ul class="mobile-menu">
+                            <li class="has-children">
+                                <a href="#">Voip <i class="fa fa-angle-down"></i></a>
+                                <ul class="dropdown" style="background-color:#ffffff;">
+                                    <li><a href="voip.aspx">What is VoIP</a></li>
+                                        <li><a href="tour.aspx">Phone system</a></li>
+                                        <li><a href="phone-number.aspx">Phone numbers</a></li>
+                                        <li><a href="phone.aspx">VoIP phones</a></li>
+                                </ul>
+                            </li> 
+                                <li><a href="tour.aspx">Tour</a></li>
+                            <li class="has-children">
+                                <a href="#">Features and pricing <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                <ul class="dropdown" style="background-color:#ffffff;">
+                                    <li><a href="feature-and-price.aspx">Features and pricing</a></li>
+                                        <li><a href="local-call-rates.aspx">Local call rates</a></li>
+                                        <li><a href="international-call-rates.aspx">International call rates</a></li>
+                                        <li><a href="4g-app.aspx">Izwi 4G-app</a></li>
+                                        <li><a href="webphone.aspx">Izwi Webphone</a></li>
+                                        <li><a href="request-a-quote.aspx">Request a quote</a></li>
+                                </ul>
+                            </li>
+							<li><a href="about.aspx">About</a></li>
+                            <%--<li class="has-children">
+                                <a href="#">Partners <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                <ul class="dropdown" style="background-color:#ffffff;">
+                                    <li><a href="reseller-program.aspx">Reseller Program</a></li>
+                                        <li><a href="referral-program.aspx">Referral Program</a></li>
+                                        <li><a href="submit-a-referral.aspx">Submit a Referral</a></li>
+                                </ul>
+                            </li>--%>
+                            <li><a href="contact.aspx">Contact</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <!-- mobile menu end -->
 
-				<!-- mobile menu start -->
-				<div class="mobile-navigation">
-					<nav>
-						<ul class="mobile-menu">
-							<li class="has-children">
-								<a href="#">Home <i class="fa fa-angle-down"></i></a>
-								<ul class="dropdown">
-									<li><a href="index.html">Home One</a></li>
-									<li><a href="index-2.html">Home Two</a></li>
-								</ul>
-							</li>
-							<li class="has-children">
-								<a href="#">Project <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-								<ul class="dropdown">
-									<li><a href="project-grid.html">Project Style 1</a></li>
-									<li><a href="project-grid-2.html">Project Style 2</a></li>
-									<li><a href="project-details.html">Project Details</a></li>
-								</ul>
-							</li>
-							<li class="has-children">
-								<a href="#">Pages <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-								<ul class="dropdown">
-									<li><a href="about.html">About Us</a></li>
-									<li><a href="service.html">Service</a></li>
-									<li><a href="contact.aspx">Contact</a></li>
-									<li><a href="faq.html">Faq</a></li>
-									<li><a href="error-404.html">Error 404</a></li>
-								</ul>
-							</li>
-							<li class="has-children">
-								<a href="#">Blog <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-								<ul class="dropdown">
-									<li><a href="blog.html">Blog</a></li>
-									<li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-									<li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-									<li><a href="blog-details.html">Blog Details</a></li>
-									<li><a href="blog-details-sidebar.html">Blog Details Sidebar</a></li>
-								</ul>
-							</li>
-							<li><a href="about.html">About</a></li>
-							<li><a href="contact.aspx">Contact</a></li>
-						</ul>
-					</nav>
-				</div>
-				<!-- mobile menu end -->
+                <!-- Contact Links/Social Links Start -->
+                <div class="mt-auto">
+                    <!-- Contact Link Start -->
+                    <ul class="contact-links">
+                        <li><i class="fa fa-phone"></i><a href="#"> 012 110 4017</a></li>
+                        <li><i class="fa fa-envelope-o"></i><a href="#"> info@izwi.com</a></li>
+                        <li><i class="fa fa-clock-o"></i> <span>Monday - Friday 8.00 - 17.00</span> </li>
+                    </ul>
+                    <!-- Contact Link End -->
 
-				<!-- Contact Links/Social Links Start -->
-				<div class="mt-auto">
-					<!-- Contact Link Start -->
-					<ul class="contact-links">
-						<li><i class="fa fa-phone"></i><a href="#">+012 3456 789 123</a></li>
-						<li><i class="fa fa-envelope-o"></i><a href="#">info@example.com</a></li>
-						<li><i class="fa fa-clock-o"></i><span>Monday - Sunday 9.00 - 18.00</span> </li>
-					</ul>
-					<!-- Contact Link End -->
+                    <!-- Social Widget Start -->
+                    <div class="widget-social">
+                        <a title="Facebook" href="#"><i class="fa fa-facebook-f"></i></a>
+                        <a title="Twitter" href="#"><i class="fa fa-twitter"></i></a>
+                        <a title="Linkedin" href="#"><i class="fa fa-linkedin"></i></a>
+                        <a title="Youtube" href="#"><i class="fa fa-youtube"></i></a>
+                        <a title="Vimeo" href="#"><i class="fa fa-vimeo"></i></a>
+                    </div>
+                    <!-- Social Widget End -->
+                </div>
+                <!-- Contact Links/Social Links End -->
 
-					<!-- Social Widget Start -->
-					<div class="widget-social">
-						<a title="Facebook" href="#"><i class="fa fa-facebook-f"></i></a>
-						<a title="Twitter" href="#"><i class="fa fa-twitter"></i></a>
-						<a title="Linkedin" href="#"><i class="fa fa-linkedin"></i></a>
-						<a title="Youtube" href="#"><i class="fa fa-youtube"></i></a>
-						<a title="Vimeo" href="#"><i class="fa fa-vimeo"></i></a>
-					</div>
-					<!-- Social Widget End -->
-				</div>
-				<!-- Contact Links/Social Links End -->
-
-			</div>
-			<!-- Mobile Menu Inner End -->
-		</div>
-		<!-- Mobile Menu End -->
+            </div>
+            <!-- Mobile Menu Inner End -->
+        </div>
+        <!-- Mobile Menu End -->
 
 		<!-- Offcanvas Search Start -->
 		<div class="offcanvas-search">

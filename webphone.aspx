@@ -13,21 +13,9 @@
       <link rel="shortcut icon" href="/favicon.ico?new" />
       <link rel="apple-touch-icon-precomposed" href="/apple-icon.png" />
       <title>Softphone - The Izwi Webphone turns your computer into a telephone</title>
-      <meta name="description" content="The Voys Webphone is a softphone application that turns your computer into telephone. Use your business phone system without acquiring any extra hardware."/>
       <meta name="robots" content="noodp"/>
       <link rel="canonical" href="https://www.voys.co.za/pabx-phone-system/softphone-for-business/" />
-      <meta property="og:locale" content="en_US" />
-      <meta property="og:type" content="article" />
-      <meta property="og:title" content="Softphone - The Voys Webphone turns your computer into a telephone" />
-      <meta property="og:description" content="The Voys Webphone is a softphone application that turns your computer into telephone. Use your business phone system without acquiring any extra hardware." />
-      <meta property="og:url" content="https://www.voys.co.za/pabx-phone-system/softphone-for-business/" />
-      <meta property="og:site_name" content="Voys" />
       <meta property="article:publisher" content="https://www.facebook.com/voyssa/" />
-      <meta name="twitter:card" content="summary" />
-      <meta name="twitter:description" content="The Voys Webphone is a softphone application that turns your computer into telephone. Use your business phone system without acquiring any extra hardware." />
-      <meta name="twitter:title" content="Softphone - The Voys Webphone turns your computer into a telephone" />
-      <meta name="twitter:site" content="@voyssa" />
-      <meta name="twitter:creator" content="@voyssa" />
       <meta property="DC.date.issued" content="2020-05-06T16:54:24+02:00" />
       <link rel='dns-prefetch' href='//js.hs-scripts.com' />
       <link rel='dns-prefetch' href='//code.jquery.com' />
@@ -152,14 +140,14 @@
                                         <li><a href="#">Blog</a></li>
                                     </ul>
                                 </li>--%>
-                                  <li class="has-children">
+                                  <%--<li class="has-children">
                                     <a href="#">Partners</a>
                                     <ul class="sub-menu">
                                         <li><a href="reseller-program.aspx">Reseller Program</a></li>
                                         <li><a href="referral-program.aspx">Referral Program</a></li>
                                         <li><a href="submit-a-referral.aspx">Submit a Referral</a></li>
                                     </ul>
-                                </li>
+                                </li>--%>
                                 <li><a href="contact.aspx">Contact</a></li>
                             </ul>
                         </div>
@@ -189,7 +177,7 @@
             </div>
         </div>
         <!-- Header Bottom End -->
-
+        
         <!-- Mobile Menu Start -->
         <div class="mobile-menu-wrapper">
             <div class="body-overlay"></div>
@@ -207,41 +195,35 @@
                     <nav>
                         <ul class="mobile-menu">
                             <li class="has-children">
-                                <a href="#">Home <i class="fa fa-angle-down"></i></a>
-                                <ul class="dropdown">
-                                    <li><a href="index.html">Home One</a></li>
-                                    <li><a href="index-2.html">Home Two</a></li>
+                                <a href="#">Voip <i class="fa fa-angle-down"></i></a>
+                                <ul class="dropdown" style="background-color:#ffffff;">
+                                    <li><a href="voip.aspx">What is VoIP</a></li>
+                                        <li><a href="tour.aspx">Phone system</a></li>
+                                        <li><a href="phone-number.aspx">Phone numbers</a></li>
+                                        <li><a href="phone.aspx">VoIP phones</a></li>
                                 </ul>
-                            </li>
+                            </li> 
+                                <li><a href="tour.aspx">Tour</a></li>
                             <li class="has-children">
-                                <a href="#">Project <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                                <ul class="dropdown">
-                                    <li><a href="project-grid.html">Project Style 1</a></li>
-                                    <li><a href="project-grid-2.html">Project Style 2</a></li>
-                                    <li><a href="project-details.html">Project Details</a></li>
+                                <a href="#">Features and pricing <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                <ul class="dropdown" style="background-color:#ffffff;">
+                                    <li><a href="feature-and-price.aspx">Features and pricing</a></li>
+                                        <li><a href="local-call-rates.aspx">Local call rates</a></li>
+                                        <li><a href="international-call-rates.aspx">International call rates</a></li>
+                                        <li><a href="4g-app.aspx">Izwi 4G-app</a></li>
+                                        <li><a href="webphone.aspx">Izwi Webphone</a></li>
+                                        <li><a href="request-a-quote.aspx">Request a quote</a></li>
                                 </ul>
                             </li>
-                            <li class="has-children">
-                                <a href="#">Pages <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                                <ul class="dropdown">
-                                    <li><a href="about.html">About Us</a></li>
-                                    <li><a href="service.html">Service</a></li>
-                                    <li><a href="contact.aspx">Contact</a></li>
-                                    <li><a href="faq.html">Faq</a></li>
-                                    <li><a href="error-404.html">Error 404</a></li>
+							<li><a href="about.aspx">About</a></li>
+                            <%--<li class="has-children">
+                                <a href="#">Partners <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                <ul class="dropdown" style="background-color:#ffffff;">
+                                    <li><a href="reseller-program.aspx">Reseller Program</a></li>
+                                        <li><a href="referral-program.aspx">Referral Program</a></li>
+                                        <li><a href="submit-a-referral.aspx">Submit a Referral</a></li>
                                 </ul>
-                            </li>
-                            <li class="has-children">
-                                <a href="#">Blog <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                                <ul class="dropdown">
-                                    <li><a href="blog.html">Blog</a></li>
-                                    <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                    <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                    <li><a href="blog-details-sidebar.html">Blog Details Sidebar</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="about.html">About</a></li>
+                            </li>--%>
                             <li><a href="contact.aspx">Contact</a></li>
                         </ul>
                     </nav>
@@ -252,9 +234,9 @@
                 <div class="mt-auto">
                     <!-- Contact Link Start -->
                     <ul class="contact-links">
-                        <li><i class="fa fa-phone"></i><a href="#"> +012 3456 789 123</a></li>
-                        <li><i class="fa fa-envelope-o"></i><a href="#"> info@example.com</a></li>
-                        <li><i class="fa fa-clock-o"></i> <span>Monday - Sunday 9.00 - 18.00</span> </li>
+                        <li><i class="fa fa-phone"></i><a href="#"> 012 110 4017</a></li>
+                        <li><i class="fa fa-envelope-o"></i><a href="#"> info@izwi.com</a></li>
+                        <li><i class="fa fa-clock-o"></i> <span>Monday - Friday 8.00 - 17.00</span> </li>
                     </ul>
                     <!-- Contact Link End -->
 
@@ -341,8 +323,13 @@
                   <div class="c-grid__item">
                      <div class="u-content">
                         <h2>Izwi Webphone</h2>
-                        <p class="c-paragraph c-paragraph--lead"> The Izwi Webphone is a <a href="https://www.voys.co.za/blog/softphones-the-good-the-bad-the-ugly/" target="_blank" rel="noopener">softphone application</a> <span style="font-weight: 400;">that turns your computer into a fully-fledged business telephone. Enjoy all the features of your business phone system conveniently from your browser. With the Izwi Webphone, your office phone goes wherever your computer goes. Why stay confined to the office when you can work from home or your favourite coffee shop? Leave your desk phone at work and take your laptop with you. Work how you want, where you want.</span></p>
-                        <p><span style="font-weight: 400;">Stay available on your office phone number, no matter where you are in the world. Serve clients who call your office in Bloemfontein, while you&#8217;re visiting your grandma in Kazakhstan. Anything is possible! Sign up for as little as R70 per month for a (non-)geographic phone number and gain access to our Webphone, 4G app, self-service web portal, and browser plugin.</span></p>
+                        <p class="c-paragraph c-paragraph--lead"> The Izwi Webphone is a softphone application <span style="font-weight: 400;">that turns your computer
+                            into a fully-fledged business telephone. Enjoy all the features of your business phone system conveniently from your browser. With the Izwi 
+                            Webphone, your office phone goes wherever your computer goes. Why stay confined to the office when you can work from home or your favourite 
+                            coffee shop? Leave your desk phone at work and take your laptop with you. Work how you want, where you want.</span></p>
+                        <p><span style="font-weight: 400;">Stay available on your office phone number, no matter where you are in the world. Serve clients who call your
+                            office in Bloemfontein, while you&#8217;re visiting your grandma in Kazakhstan. Anything is possible! Sign up for as little as R70 per month
+                            for a (non-)geographic phone number and gain access to our Webphone, 4G app, self-service web portal, and browser plugin.</span></p>
                         <h2>Advantages of our softphone application</h2>
                         <ul class="list">
                            <li>Call with your office number from wherever your computer is.</li>
@@ -351,7 +338,7 @@
                            <li>Update the telephonic availability of your business in real-time wherever you are.</li>
                         </ul>
                         <h2>Disadvantages of using softphones</h2>
-                        <p>Softphones make a great addition to your business phone system, but they do have limitations. <a href="https://www.voys.co.za/pabx-phone-system/softphone-for-business/" target="_blank" rel="noopener">Read about the good, the bad, and the ugly of softphones here.</a></p>
+                        <p>Softphones make a great addition to your business phone system</p>
                      </div>
                   </div>
                </div>
@@ -363,23 +350,30 @@
             </div>
          </div>           
 
-         <div class="c-layout__row  c-layout__row--primary">
-            <div class="c-layout__container u-text-align-center">
-               <div class="c-grid c-grid--single">
-                  <div class="c-grid__item">
-                     <h2 class="c-heading c-heading--50">Softphone included in all subscriptions</h2>
-                  </div>
-               </div>
-               <div class="c-grid c-grid--single">
-                  <div class="c-grid__item">
-                     <div class="u-content">
-                        <p><a href="https://www.voys.co.za/contact/request-a-quote/">Sign up now</a> <span style="font-weight: 400;">and start using the Izwi Webphone. Already have an account? Follow the link below to learn how you can set up your softphone, or give us a call on 021 012 5000 for assistance.</span></p>
-                        <p><a href="http://help.voys.co.za/en/articles/3804767-webphone-setup" class="c-button ">How to set up your Webphone</a></p>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
+           
+	<!-- Brand Logo Section Start -->
+	<div class="section brand-logo-bg" style="background-color: #006ea1;">
+		<div class="section">
+			<div class="container">
+				<div class="row">
+					<!-- Section Title Start -->
+					<div class="col-12 section-title" data-aos="fade-up" data-aos-delay="300">
+
+						<div class="single-footer-widget">
+							<h2 class="c-heading c-heading--50" style="color: #ffffff;">Softphone included in all subscriptions</h2>
+							<span style="color: #ffffff; font-size: larger;">
+								<p>Contact us and start using the Izwi Webphone. Already have an account? Follow the link below to learn how you can set up your softphone,
+                                    or give us a call on 021 012 5000 for assistance.</p>
+                       
+							</span>
+						</div>
+					</div>
+					<!-- Section Title End -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Brand Logo Section End -->
 
          <div class="c-layout__row  c-layout__row--neutral">
             <div class="c-layout__container ">
@@ -403,28 +397,29 @@
                </div>
             </div>
          </div>
-         <div class="c-layout__row  c-layout__row--primary">
-            <div class="c-layout__container u-text-align-center">
-               <div class="c-grid c-grid--single">
-                  <div class="c-grid__item">
-                     <h2 class="c-heading c-heading--50">Ready for real telephone freedom?</h2>
-                  </div>
-               </div>
-               <div class="c-grid c-grid--single">
-                  <div class="c-grid__item">
-                     <div class="u-content">
-                        <p>Enjoy the benefits of our softphone application! Sign up now and get the Izwi Webphone for free. Want a little more information? Give us a call on 021 012 5000, or send us a quote request.</p>
-                     </div>
-                  </div>
-               </div>
-               <div class="c-grid c-grid--single">
-                  <div class="c-grid__item">
-                     <p> <a class="c-button c-button--neutral"
-                        href="https://www.voys.co.za/contact/request-a-quote/">Request a quote</a></p>
-                  </div>
-               </div>
-            </div>
-         </div>
+
+	<!-- Brand Logo Section Start -->
+	<div class="section brand-logo-bg" style="background-color: #006ea1;">
+		<div class="section">
+			<div class="container">
+				<div class="row">
+					<!-- Section Title Start -->
+					<div class="col-12 section-title" data-aos="fade-up" data-aos-delay="300">
+
+						<div class="single-footer-widget">
+							<h2 class="c-heading c-heading--50" style="color: #ffffff;">Ready for real telephone freedom?</h2>
+							<span style="color: #ffffff; font-size: larger;">
+								<p>Enjoy the benefits of our softphone application! Sign up now and get the Izwi Webphone for free. 
+                            Want a little more information? Give us a call on 021 012 5000, or send us a quote request.</p>
+							</span>
+						</div>
+					</div>
+					<!-- Section Title End -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Brand Logo Section End -->
       </div>       
     
         <!-- Footer Top Start -->
@@ -443,7 +438,7 @@
 					</div>
 					<div class="col-md-3 mb-5">
 						<h3>Email us @</h3>
-						<p class="mb-5"><a href="mailto:info@bumbatechnos.co.za"><u>info@bumbatechnos.co.za</u></a></p>
+						<p class="mb-5"><a href="mailto:info@izwi.co.za"><u>info@izwi.co.za</u></a></p>
 
 					</div>
 					<div class="col-md-3 mb-5">

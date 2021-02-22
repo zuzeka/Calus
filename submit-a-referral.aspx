@@ -147,14 +147,14 @@
                                         <li><a href="#">Blog</a></li>
                                     </ul>
                                 </li>--%>
-                                  <li class="has-children">
+                                  <%--<li class="has-children">
                                     <a href="#">Partners</a>
                                     <ul class="sub-menu">
                                         <li><a href="reseller-program.aspx">Reseller Program</a></li>
                                         <li><a href="referral-program.aspx">Referral Program</a></li>
                                         <li><a href="submit-a-referral.aspx">Submit a Referral</a></li>
                                     </ul>
-                                </li>
+                                </li>--%>
                                 <li><a href="contact.aspx">Contact</a></li>
                             </ul>
                         </div>
@@ -184,7 +184,7 @@
             </div>
         </div>
         <!-- Header Bottom End -->
-
+        
         <!-- Mobile Menu Start -->
         <div class="mobile-menu-wrapper">
             <div class="body-overlay"></div>
@@ -202,41 +202,35 @@
                     <nav>
                         <ul class="mobile-menu">
                             <li class="has-children">
-                                <a href="#">Home <i class="fa fa-angle-down"></i></a>
-                                <ul class="dropdown">
-                                    <li><a href="index.html">Home One</a></li>
-                                    <li><a href="index-2.html">Home Two</a></li>
+                                <a href="#">Voip <i class="fa fa-angle-down"></i></a>
+                                <ul class="dropdown" style="background-color:#ffffff;">
+                                    <li><a href="voip.aspx">What is VoIP</a></li>
+                                        <li><a href="tour.aspx">Phone system</a></li>
+                                        <li><a href="phone-number.aspx">Phone numbers</a></li>
+                                        <li><a href="phone.aspx">VoIP phones</a></li>
                                 </ul>
-                            </li>
+                            </li> 
+                                <li><a href="tour.aspx">Tour</a></li>
                             <li class="has-children">
-                                <a href="#">Project <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                                <ul class="dropdown">
-                                    <li><a href="project-grid.html">Project Style 1</a></li>
-                                    <li><a href="project-grid-2.html">Project Style 2</a></li>
-                                    <li><a href="project-details.html">Project Details</a></li>
+                                <a href="#">Features and pricing <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                <ul class="dropdown" style="background-color:#ffffff;">
+                                    <li><a href="feature-and-price.aspx">Features and pricing</a></li>
+                                        <li><a href="local-call-rates.aspx">Local call rates</a></li>
+                                        <li><a href="international-call-rates.aspx">International call rates</a></li>
+                                        <li><a href="4g-app.aspx">Izwi 4G-app</a></li>
+                                        <li><a href="webphone.aspx">Izwi Webphone</a></li>
+                                        <li><a href="request-a-quote.aspx">Request a quote</a></li>
                                 </ul>
                             </li>
-                            <li class="has-children">
-                                <a href="#">Pages <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                                <ul class="dropdown">
-                                    <li><a href="about.html">About Us</a></li>
-                                    <li><a href="service.html">Service</a></li>
-                                    <li><a href="contact.aspx">Contact</a></li>
-                                    <li><a href="faq.html">Faq</a></li>
-                                    <li><a href="error-404.html">Error 404</a></li>
+							<li><a href="about.aspx">About</a></li>
+                            <%--<li class="has-children">
+                                <a href="#">Partners <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                <ul class="dropdown" style="background-color:#ffffff;">
+                                    <li><a href="reseller-program.aspx">Reseller Program</a></li>
+                                        <li><a href="referral-program.aspx">Referral Program</a></li>
+                                        <li><a href="submit-a-referral.aspx">Submit a Referral</a></li>
                                 </ul>
-                            </li>
-                            <li class="has-children">
-                                <a href="#">Blog <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                                <ul class="dropdown">
-                                    <li><a href="blog.html">Blog</a></li>
-                                    <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                    <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                    <li><a href="blog-details-sidebar.html">Blog Details Sidebar</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="about.html">About</a></li>
+                            </li>--%>
                             <li><a href="contact.aspx">Contact</a></li>
                         </ul>
                     </nav>
@@ -247,9 +241,9 @@
                 <div class="mt-auto">
                     <!-- Contact Link Start -->
                     <ul class="contact-links">
-                        <li><i class="fa fa-phone"></i><a href="#"> +012 3456 789 123</a></li>
-                        <li><i class="fa fa-envelope-o"></i><a href="#"> info@example.com</a></li>
-                        <li><i class="fa fa-clock-o"></i> <span>Monday - Sunday 9.00 - 18.00</span> </li>
+                        <li><i class="fa fa-phone"></i><a href="#"> 012 110 4017</a></li>
+                        <li><i class="fa fa-envelope-o"></i><a href="#"> info@izwi.com</a></li>
+                        <li><i class="fa fa-clock-o"></i> <span>Monday - Friday 8.00 - 17.00</span> </li>
                     </ul>
                     <!-- Contact Link End -->
 
@@ -341,14 +335,130 @@
                      <div class="u-content">
                         <p>
                            <span class="s1">
-                        <div class='gf_browser_chrome gform_wrapper' id='gform_wrapper_32' ><form method='post' enctype='multipart/form-data'  id='gform_32'  action='/friend-of-voys/'><div class='gform_body'><ul id='gform_fields_32' class='gform_fields top_label form_sublabel_below description_below'><li id='field_32_21'  class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_below gfield_visibility_visible' ><h1>Friends of Izwi - Referral Program</h1><h2>Referrer details</h2> <small>Please provide the same email address that you used to activate your Izwi account. The contact details provided here must be for the same person who activated your Izwi account on behalf of your business.</small></li><li id='field_32_22'  class='gfield gfield__left gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_32_22' >Your name &amp; surname</label><div class='ginput_container ginput_container_text'><input name='input_22' id='input_32_22' type='text' value='' class='medium'     aria-required="true" aria-invalid="false" /></div></li><li id='field_32_20'  class='gfield gfield__right gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_32_20' >Your email address</label><div class='ginput_container ginput_container_email'> <input name='input_20' id='input_32_20' type='email' value='' class='medium'    aria-required="true" aria-invalid="false" /></div></li><li id='field_32_28'  class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_32_28' >Your business name</label><div class='ginput_container ginput_container_text'><input name='input_28' id='input_32_28' type='text' value='' class='medium'     aria-required="true" aria-invalid="false" /></div></li><li id='field_32_23'  class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_below gfield_visibility_visible' ><h2>Referral details</h2> <small>Please provide the details of the business you wish to refer to Izwi. The contact details provided here must be for a person who is an authorised signatory (e.g. owner, director etc.) of the business you are referring.</small></li><li id='field_32_2'  class='gfield gfield__left gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_32_2' >Name &amp; surname</label><div class='ginput_container ginput_container_text'><input name='input_2' id='input_32_2' type='text' value='' class='medium'     aria-required="true" aria-invalid="false" /></div></li><li id='field_32_19'  class='gfield gfield__right gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_32_19' ></label><div class='ginput_container ginput_container_select'><select name='input_19' id='input_32_19' class='medium gfield_select'   aria-required="true" aria-invalid="false"><option value='' selected='selected' class='gf_placeholder'>Gender</option><option value='MALE' >Male</option><option value='FEMALE' >Female</option></select></div></li><li id='field_32_1'  class='gfield gfield__left gfield_contains_required field_sublabel_below field_description_above gfield_visibility_visible' ><label class='gfield_label' for='input_32_1' >Business name</label><div class='ginput_container ginput_container_text'><input name='input_1' id='input_32_1' type='text' value='' class='medium'     aria-required="true" aria-invalid="false" /></div></li><li id='field_32_11'  class='gfield gfield__right gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_32_11' >Phone number</label><div class='ginput_container ginput_container_text'><input name='input_11' id='input_32_11' type='text' value='' class='medium'     aria-required="true" aria-invalid="false" /></div></li><li id='field_32_12'  class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_32_12' >Email address</label><div class='ginput_container ginput_container_email'> <input name='input_12' id='input_32_12' type='email' value='' class='medium'    aria-required="true" aria-invalid="false" /></div></li><li id='field_32_14'  class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_32_14' >Tell us about this referral</label><div class='ginput_container ginput_container_textarea'><textarea name='input_14' id='input_32_14' class='textarea small'     aria-required="true" aria-invalid="false"   rows='10' cols='50'></textarea></div></li><li id='field_32_27'  class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_below gfield_visibility_visible' ><h2>Terms of use</h2></li><li id='field_32_26'  class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label'  ></label><div class='ginput_container ginput_container_consent'><input name='input_26.1' id='input_32_26_1' type='checkbox' value='1'  aria-describedby='gfield_consent_description_32_26' aria-required="true" aria-invalid="false"   /> <label class="gfield_consent_label" for='input_32_26_1' >By checking this box I agree to the terms below.</label><input type='hidden' name='input_26.2' value='By checking this box I agree to the terms below.' class='gform_hidden' /><input type='hidden' name='input_26.3' value='45' class='gform_hidden' /></div><div class='gfield_description gfield_consent_description' id='gfield_consent_description_32_26'><br /><p><strong>Herein after we refer to:</strong></p><small><ul><li>REFERRER as the company associated with the reprasentative that submits this form (i.e. the business who’s contact details are provided under the ‘Referrer details’ heading of this form).</li><li>REFERRAL as the company associated with the contact details referred to Izwi by the REFERRER (i.e. the business who’s contact details are provided under the ‘Referral details' heading of this form).</li></ul></small><p><strong>By submitting this form the REFERRER and Izwi agree to the following terms:</strong><p><small><ul><li>Izwi offers the REFERRER a once-off commission fee for a REFERRAL that becomes a Izwi customers.</li><li>Only existing Izwi customers are eligible to submit a REFERRAL to Izwi.</li><li>A REFERRER/REFERRAL is only deemed a Izwi customer once their Izwi subscriptions are activated.</li><li>The person who submits this form must be the associated business representative who’s contact details are provided under the “Referrer details” heading of this form.</li><li>A REFERRER must identify themself by submitting the same email address used while initially activating their Izwi account. If a different email address is used the REFERRAL will not be accepted. If you are unsure of which email address to submit, please <a href= "https://www.voys.co.za/contact/" target="_blank">contact us</a> to verify.</li><li>100% of the first three month’s subscription charges (of the services initially ordered by the REFERRAL) is paid to the REFERRER.</li><li>Commission due to a REFERRER will only become payable once a REFERRAL remains a Izwi customer for 3 calendar months AND the REFERRAL account is in good standing.</li><li><dt>The acceptance of a REFERRAL is at Izwi’ sole discretion. Rejection of a REFERRAL can be based on, but is not limited to, the following criteria:</dt><dd>- The REFERRER is not currently an active Izwi customer,</dd><dd>- The REFERRAL already exists on Izwi’ database,</dd><dd>- The REFERRER fails to submit the same email address that was used to activate their Izwi account.</dd></li><li>A REFERRER is only eligible to earn commission for a REFERRAL submitted directly to Izwi. If the REFERRAL refers any other party to Izwi, the REFERRER will not be eligible to earn any commission for such a referral.</li><li>Izwi maintains the right to refuse commission payments to a REFERRER if any of the above terms are not met.</li></ul><small/></div></li><li id='field_32_15'  class='gfield field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_32_15' ></label><div id='input_32_15' class='ginput_container ginput_recaptcha' data-sitekey='6LcaeWgUAAAAAAcKoIFgbiXO_jMNcOQF8Fj15WvU'  data-theme='light' data-tabindex='0'  data-badge=''></div></li></ul></div><div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_32' class='gform_button button' value='Submit referral'  onclick='if(window["gf_submitting_32"]){return false;}  if( !jQuery("#gform_32")[0].checkValidity || jQuery("#gform_32")[0].checkValidity()){window["gf_submitting_32"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_32"]){return false;} if( !jQuery("#gform_32")[0].checkValidity || jQuery("#gform_32")[0].checkValidity()){window["gf_submitting_32"]=true;}  jQuery("#gform_32").trigger("submit",[true]); }' /> <input type='hidden' class='gform_hidden' name='is_submit_32' value='1' /> <input type='hidden' class='gform_hidden' name='gform_submit' value='32' /> <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' /> <input type='hidden' class='gform_hidden' name='state_32' value='WyJ7XCIyNi4xXCI6XCIzMzAyOTJiZTEyZDNjZWYxYjNkM2M5MDhjMjI4OGI2ZlwiLFwiMjYuMlwiOlwiOTY5ZTFjZjA0ZDkzOTI1MzNhYjY0ZjRiOGMzNDIxNDJcIixcIjI2LjNcIjpcImI0NTAyMDk5Mzk3NmJlNTA0ODg2MzY0OTdlNjBhZDA3XCJ9IiwiM2FkYzc1NDYwZDA1Zjk1ZGMwNWE0MDM4MWRhMTE0MWIiXQ==' /> <input type='hidden' class='gform_hidden' name='gform_target_page_number_32' id='gform_target_page_number_32' value='0' /> <input type='hidden' class='gform_hidden' name='gform_source_page_number_32' id='gform_source_page_number_32' value='1' /> <input type='hidden' name='gform_field_values' value='' /></div></form></div><script type='text/javascript'>jQuery(document).bind('gform_post_render', function (event, formId, currentPage) {
-																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																														  if (formId == 32) {
-																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																															  if (typeof Placeholders != 'undefined') {
-																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																  Placeholders.enable();
-																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																															  }
-																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																														  }
-																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																													  }); jQuery(document).bind('gform_post_conditional_logic', function (event, formId, fields, isInit) { });
-						</script><script type='text/javascript'>jQuery(document).ready(function () { jQuery(document).trigger('gform_post_render', [32, 1]) });</script></span></p>
+                        <div class='gf_browser_chrome gform_wrapper' id='gform_wrapper_32'>
+							<form method='post' enctype='multipart/form-data' id='gform_32' action='/friend-of-Izwi/'>
+								<div class='gform_body'>
+									<ul id='gform_fields_32' class='gform_fields top_label form_sublabel_below description_below'>
+										<li id='field_32_21' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_below gfield_visibility_visible'>
+											<h1>Friends of Izwi - Referral Program</h1>
+											<h2>Referrer details</h2>
+											<small>Please provide the same email address that you used to activate your Izwi account. The contact details provided here must 
+                                            be for the same person who activated your Izwi account on behalf of your business.
+											</small>
+										</li>
+										<li id='field_32_22' class='gfield gfield__left gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible'>
+											<label class='gfield_label' for='input_32_22'>Your name &amp; surname</label>
+											<div class='ginput_container ginput_container_text'>
+												<input name='input_22' id='input_32_22' type='text' value='' class='medium' aria-required="true" aria-invalid="false" />
+											</div>
+										</li>
+										<li id='field_32_20' class='gfield gfield__right gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible'>
+											<label class='gfield_label' for='input_32_20'>Your email address</label><div class='ginput_container ginput_container_email'>
+												<input name='input_20' id='input_32_20' type='email' value='' class='medium' aria-required="true" aria-invalid="false" />
+											</div>
+										</li>
+										<li id='field_32_28' class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible'>
+											<label class='gfield_label' for='input_32_28'>Your business name</label><div class='ginput_container ginput_container_text'>
+												<input name='input_28' id='input_32_28' type='text' value='' class='medium' aria-required="true" aria-invalid="false" /></div>
+										</li>
+										<li id='field_32_23' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_below gfield_visibility_visible'>
+											<h2>Referral details</h2>
+											<small>Please provide the details of the business you wish to refer to Izwi. The contact details provided here must be for a person who is an authorised signatory (e.g. owner, director etc.) of the business you are referring.</small></li>
+										<li id='field_32_2' class='gfield gfield__left gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible'>
+											<label class='gfield_label' for='input_32_2'>Name &amp; surname</label><div class='ginput_container ginput_container_text'>
+												<input name='input_2' id='input_32_2' type='text' value='' class='medium' aria-required="true" aria-invalid="false" /></div>
+										</li>
+										<li id='field_32_19' class='gfield gfield__right gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible'>
+											<label class='gfield_label' for='input_32_19'></label>
+											<div class='ginput_container ginput_container_select'>
+												<select name='input_19' id='input_32_19' class='medium gfield_select' aria-required="true" aria-invalid="false">
+													<option value='' selected='selected' class='gf_placeholder'>Gender</option>
+													<option value='MALE'>Male</option>
+													<option value='FEMALE'>Female</option>
+												</select></div>
+										</li>
+										<li id='field_32_1' class='gfield gfield__left gfield_contains_required field_sublabel_below field_description_above gfield_visibility_visible'>
+											<label class='gfield_label' for='input_32_1'>Business name</label><div class='ginput_container ginput_container_text'>
+												<input name='input_1' id='input_32_1' type='text' value='' class='medium' aria-required="true" aria-invalid="false" /></div>
+										</li>
+										<li id='field_32_11' class='gfield gfield__right gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible'>
+											<label class='gfield_label' for='input_32_11'>Phone number</label><div class='ginput_container ginput_container_text'>
+												<input name='input_11' id='input_32_11' type='text' value='' class='medium' aria-required="true" aria-invalid="false" /></div>
+										</li>
+										<li id='field_32_12' class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible'>
+											<label class='gfield_label' for='input_32_12'>Email address</label><div class='ginput_container ginput_container_email'>
+												<input name='input_12' id='input_32_12' type='email' value='' class='medium' aria-required="true" aria-invalid="false" /></div>
+										</li>
+										<li id='field_32_14' class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible'>
+											<label class='gfield_label' for='input_32_14'>Tell us about this referral</label><div class='ginput_container ginput_container_textarea'>
+												<textarea name='input_14' id='input_32_14' class='textarea small' aria-required="true" aria-invalid="false" rows='10' cols='50'></textarea></div>
+										</li>
+										<li id='field_32_27' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_below gfield_visibility_visible'>
+											<h2>Terms of use</h2>
+										</li>
+										<li id='field_32_26' class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible'>
+											<label class='gfield_label'></label>
+											<div class='ginput_container ginput_container_consent'>
+												<input name='input_26.1' id='input_32_26_1' type='checkbox' value='1' aria-describedby='gfield_consent_description_32_26' aria-required="true" aria-invalid="false" />
+												<label class="gfield_consent_label" for='input_32_26_1'>By checking this box I agree to the terms below.</label><input type='hidden' name='input_26.2' value='By checking this box I agree to the terms below.' class='gform_hidden' /><input type='hidden' name='input_26.3' value='45' class='gform_hidden' /></div>
+											<div class='gfield_description gfield_consent_description' id='gfield_consent_description_32_26'>
+												<br />
+												<p><strong>Herein after we refer to:</strong></p>
+												<small>
+													<ul>
+														<li>REFERRER as the company associated with the reprasentative that submits this form (i.e. the business who’s contact details are provided under the ‘Referrer details’ heading of this form).</li>
+														<li>REFERRAL as the company associated with the contact details referred to Izwi by the REFERRER (i.e. the business who’s contact details are provided under the ‘Referral details' heading of this form).</li>
+													</ul>
+												</small>
+												<p>
+													<strong>By submitting this form the REFERRER and Izwi agree to the following terms:</strong>
+												<p>
+													<small>
+														<ul>
+															<li>Izwi offers the REFERRER a once-off commission fee for a REFERRAL that becomes a Izwi customers.</li>
+															<li>Only existing Izwi customers are eligible to submit a REFERRAL to Izwi.</li>
+															<li>A REFERRER/REFERRAL is only deemed a Izwi customer once their Izwi subscriptions are activated.</li>
+															<li>The person who submits this form must be the associated business representative who’s contact details are provided under the “Referrer details” heading of this form.</li>
+															<li>A REFERRER must identify themself by submitting the same email address used while initially activating their Izwi account. If a different email address is used the REFERRAL will not be accepted. If you are unsure of which email address to submit, please <a href="contact.aspx" target="_blank">contact us</a> to verify.</li>
+															<li>100% of the first three month’s subscription charges (of the services initially ordered by the REFERRAL) is paid to the REFERRER.</li>
+															<li>Commission due to a REFERRER will only become payable once a REFERRAL remains a Izwi customer for 3 calendar months AND the REFERRAL account is in good standing.</li>
+															<li>
+																<dt>The acceptance of a REFERRAL is at Izwi’ sole discretion. Rejection of a REFERRAL can be based on, but is not limited to, the following criteria:</dt>
+																<dd>- The REFERRER is not currently an active Izwi customer,</dd>
+																<dd>- The REFERRAL already exists on Izwi’ database,</dd>
+																<dd>- The REFERRER fails to submit the same email address that was used to activate their Izwi account.</dd>
+															</li>
+															<li>A REFERRER is only eligible to earn commission for a REFERRAL submitted directly to Izwi. If the REFERRAL refers any other party to Izwi, the REFERRER will not be eligible to earn any commission for such a referral.</li>
+															<li>Izwi maintains the right to refuse commission payments to a REFERRER if any of the above terms are not met.</li>
+														</ul>
+														<small />
+											</div>
+										</li>
+										<li id='field_32_15' class='gfield field_sublabel_below field_description_below gfield_visibility_visible'>
+											<label class='gfield_label' for='input_32_15'></label>
+											<div id='input_32_15' class='ginput_container ginput_recaptcha' data-sitekey='6LcaeWgUAAAAAAcKoIFgbiXO_jMNcOQF8Fj15WvU' data-theme='light' data-tabindex='0' data-badge=''></div>
+										</li>
+									</ul>
+								</div>
+								<div class='gform_footer top_label'>
+									<input type='submit' id='gform_submit_button_32' class='gform_button button' value='Submit referral' onclick='if(window["gf_submitting_32"]){return false;}  if( !jQuery("#gform_32")[0].checkValidity || jQuery("#gform_32")[0].checkValidity()){window["gf_submitting_32"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_32"]){return false;} if( !jQuery("#gform_32")[0].checkValidity || jQuery("#gform_32")[0].checkValidity()){window["gf_submitting_32"]=true;}  jQuery("#gform_32").trigger("submit",[true]); }' />
+									<input type='hidden' class='gform_hidden' name='is_submit_32' value='1' />
+									<input type='hidden' class='gform_hidden' name='gform_submit' value='32' />
+									<input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+									<input type='hidden' class='gform_hidden' name='state_32' value='WyJ7XCIyNi4xXCI6XCIzMzAyOTJiZTEyZDNjZWYxYjNkM2M5MDhjMjI4OGI2ZlwiLFwiMjYuMlwiOlwiOTY5ZTFjZjA0ZDkzOTI1MzNhYjY0ZjRiOGMzNDIxNDJcIixcIjI2LjNcIjpcImI0NTAyMDk5Mzk3NmJlNTA0ODg2MzY0OTdlNjBhZDA3XCJ9IiwiM2FkYzc1NDYwZDA1Zjk1ZGMwNWE0MDM4MWRhMTE0MWIiXQ==' />
+									<input type='hidden' class='gform_hidden' name='gform_target_page_number_32' id='gform_target_page_number_32' value='0' />
+									<input type='hidden' class='gform_hidden' name='gform_source_page_number_32' id='gform_source_page_number_32' value='1' />
+									<input type='hidden' name='gform_field_values' value='' /></div>
+							</form>
+						</div>
+							   <script type='text/javascript'>jQuery(document).bind('gform_post_render', function (event, formId, currentPage) {
+									   if (formId == 32) {
+										   if (typeof Placeholders != 'undefined') {
+											   Placeholders.enable();
+										   }
+									   }
+								   }); jQuery(document).bind('gform_post_conditional_logic', function (event, formId, fields, isInit) { });
+							   </script><script type='text/javascript'>jQuery(document).ready(function () { jQuery(document).trigger('gform_post_render', [32, 1]) });</script></span></p>
                      </div>
                   </div>
                </div>
@@ -373,7 +483,7 @@
 					</div>
 					<div class="col-md-3 mb-5">
 						<h3>Email us @</h3>
-						<p class="mb-5"><a href="mailto:info@bumbatechnos.co.za"><u>info@bumbatechnos.co.za</u></a></p>
+						<p class="mb-5"><a href="mailto:info@izwi.co.za"><u>info@izwi.co.za</u></a></p>
 
 					</div>
 					<div class="col-md-3 mb-5">

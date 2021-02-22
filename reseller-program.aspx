@@ -151,14 +151,14 @@
                                         <li><a href="#">Blog</a></li>
                                     </ul>
                                 </li>--%>
-                                <li class="has-children">
+                                <%--<li class="has-children">
                                     <a href="#">Partners</a>
                                     <ul class="sub-menu">
                                         <li><a href="reseller-program.aspx">Reseller Program</a></li>
                                         <li><a href="referral-program.aspx">Referral Program</a></li>
                                         <li><a href="submit-a-referral.aspx">Submit a Referral</a></li>
                                     </ul>
-                                </li>
+                                </li>--%>
                                 <li><a href="contact.aspx">Contact</a></li>
                             </ul>
                         </div>
@@ -188,7 +188,7 @@
             </div>
         </div>
         <!-- Header Bottom End -->
-
+        
         <!-- Mobile Menu Start -->
         <div class="mobile-menu-wrapper">
             <div class="body-overlay"></div>
@@ -206,41 +206,35 @@
                     <nav>
                         <ul class="mobile-menu">
                             <li class="has-children">
-                                <a href="#">Home <i class="fa fa-angle-down"></i></a>
-                                <ul class="dropdown">
-                                    <li><a href="index.html">Home One</a></li>
-                                    <li><a href="index-2.html">Home Two</a></li>
+                                <a href="#">Voip <i class="fa fa-angle-down"></i></a>
+                                <ul class="dropdown" style="background-color:#ffffff;">
+                                    <li><a href="voip.aspx">What is VoIP</a></li>
+                                        <li><a href="tour.aspx">Phone system</a></li>
+                                        <li><a href="phone-number.aspx">Phone numbers</a></li>
+                                        <li><a href="phone.aspx">VoIP phones</a></li>
                                 </ul>
-                            </li>
+                            </li> 
+                                <li><a href="tour.aspx">Tour</a></li>
                             <li class="has-children">
-                                <a href="#">Project <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                                <ul class="dropdown">
-                                    <li><a href="project-grid.html">Project Style 1</a></li>
-                                    <li><a href="project-grid-2.html">Project Style 2</a></li>
-                                    <li><a href="project-details.html">Project Details</a></li>
+                                <a href="#">Features and pricing <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                <ul class="dropdown" style="background-color:#ffffff;">
+                                    <li><a href="feature-and-price.aspx">Features and pricing</a></li>
+                                        <li><a href="local-call-rates.aspx">Local call rates</a></li>
+                                        <li><a href="international-call-rates.aspx">International call rates</a></li>
+                                        <li><a href="4g-app.aspx">Izwi 4G-app</a></li>
+                                        <li><a href="webphone.aspx">Izwi Webphone</a></li>
+                                        <li><a href="request-a-quote.aspx">Request a quote</a></li>
                                 </ul>
                             </li>
-                            <li class="has-children">
-                                <a href="#">Pages <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                                <ul class="dropdown">
-                                    <li><a href="about.html">About Us</a></li>
-                                    <li><a href="service.html">Service</a></li>
-                                    <li><a href="contact.aspx">Contact</a></li>
-                                    <li><a href="faq.html">Faq</a></li>
-                                    <li><a href="error-404.html">Error 404</a></li>
+							<li><a href="about.aspx">About</a></li>
+                            <%--<li class="has-children">
+                                <a href="#">Partners <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                <ul class="dropdown" style="background-color:#ffffff;">
+                                    <li><a href="reseller-program.aspx">Reseller Program</a></li>
+                                        <li><a href="referral-program.aspx">Referral Program</a></li>
+                                        <li><a href="submit-a-referral.aspx">Submit a Referral</a></li>
                                 </ul>
-                            </li>
-                            <li class="has-children">
-                                <a href="#">Blog <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                                <ul class="dropdown">
-                                    <li><a href="blog.html">Blog</a></li>
-                                    <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                    <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                    <li><a href="blog-details-sidebar.html">Blog Details Sidebar</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="about.html">About</a></li>
+                            </li>--%>
                             <li><a href="contact.aspx">Contact</a></li>
                         </ul>
                     </nav>
@@ -251,9 +245,9 @@
                 <div class="mt-auto">
                     <!-- Contact Link Start -->
                     <ul class="contact-links">
-                        <li><i class="fa fa-phone"></i><a href="#"> +012 3456 789 123</a></li>
-                        <li><i class="fa fa-envelope-o"></i><a href="#"> info@example.com</a></li>
-                        <li><i class="fa fa-clock-o"></i> <span>Monday - Sunday 9.00 - 18.00</span> </li>
+                        <li><i class="fa fa-phone"></i><a href="#"> 012 110 4017</a></li>
+                        <li><i class="fa fa-envelope-o"></i><a href="#"> info@izwi.com</a></li>
+                        <li><i class="fa fa-clock-o"></i> <span>Monday - Friday 8.00 - 17.00</span> </li>
                     </ul>
                     <!-- Contact Link End -->
 
@@ -357,9 +351,12 @@
                   <div class="c-grid__item">
                      <div class="u-content">
                         <h3>Partner discounts</h3>
-                        <p>As a partner, you receive discounts on the retail rates for calls and services. The discount increases as your total turnover increases. Partners are free to set their own pricing. Your rates may be higher or lower than Izwi’ retail rates.</p>
+                        <p>As a partner, you receive discounts on the retail rates for calls and services. 
+                            The discount increases as your total turnover increases. Partners are free to set their own pricing. Your rates may be higher or lower than Izwi’ retail rates.</p>
                         <h3>Tools and Training</h3>
-                        <p>Upon joining, every Partner receives support to assist them with everything from onboarding to resolving customer issues. Included is up to 8 hours of 1-on-1 online training. Support documentation and online videos are made available to assist with best practices and configuration settings.</p>
+                        <p>Upon joining, every Partner receives support to assist them with everything from onboarding to resolving customer issues. 
+                            Included is up to 8 hours of 1-on-1 online training. Support documentation and online 
+                            videos are made available to assist with best practices and configuration settings.</p>
                      </div>
                   </div>
                </div>
@@ -398,8 +395,11 @@
                            <li>Source, set up, and sell all necessary supported hardware to implement the service properly.</li>
                            <li>Advise on suitable connectivity for voice traffic.</li>
                         </ul>
-                        <p>Call quality and a reliable service is dependent on the last mile connectivity. 95% of call quality issues are related to last mile connectivity. As a Partner, it is critical you take our advice and implement appropriate connectivity for voice. If you look after the connectivity and respond to customer support swiftly, you will have satisfied customers.</p>
-                        <p>Izwi provides you with the tools, technology, training and support to help make your service business successful. But it is you, not Izwi, that has the relationship with your customers. Izwi never contacts Partners’ customers.</p>
+                        <p>Call quality and a reliable service is dependent on the last mile connectivity. 95% of call quality issues are related to 
+                            last mile connectivity. As a Partner, it is critical you take our advice and implement appropriate connectivity for voice. 
+                            If you look after the connectivity and respond to customer support swiftly, you will have satisfied customers.</p>
+                        <p>Izwi provides you with the tools, technology, training and support to help make your service business successful. 
+                            But it is you, not Izwi, that has the relationship with your customers. Izwi never contacts Partners’ customers.</p>
                      </div>
                   </div>
                </div>
@@ -420,13 +420,17 @@
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
                      <div class="u-content">
-                        <p>Izwi supports you on technical issues unsolvable through normal methods provided in the initial training and <a href="http://help.voys.co.za">online help resources</a>. Izwi provides a solid carrier-grade platform and +10 years experience in Hosted VoIP.</p>
+                        <p>Izwi supports you on technical issues unsolvable through normal methods provided in the initial training and online help resources.
+                            Izwi provides a solid carrier-grade platform and +10 years experience in Hosted VoIP.</p>
                         <h2>Billing</h2>
-                        <p>Izwi bills you at discounted pricing. We send 1 invoice on the first weekday of each month.<br /> You can export customer billing items in CSV-format on the 1st weekday of each month and import in your preferred invoicing application.</p>
+                        <p>Izwi bills you at discounted pricing. We send 1 invoice on the first weekday of each month.<br /> 
+                            You can export customer billing items in CSV-format on the 1st weekday of each month and import in your preferred invoicing application.</p>
                         <h3>Call rates</h3>
-                        <p><a href="https://www.voys.co.za/features-pricing/call-rates/">National call rates</a> are fairly stable and only updated occasionally and with fair notice.<br /> <a href="https://www.voys.co.za/features-pricing/international-call-rates/">International call rates</a> are updated every calendar month and can be downloaded from our website.</p>
+                        <p>National call rates are fairly stable and only updated occasionally and with fair notice.<br /> 
+                            <a href="international-call-rates.aspx">International call rates</a> are updated every calendar month and can be downloaded from our website.</p>
                         <h3>Payment terms</h3>
-                        <p>Payment terms are strictly Prepaid. Prepaid credit can be uploaded by means of credit card or instant EFT. All prices in this document and on the Izwi website exclude 15% VAT.</p>
+                        <p>Payment terms are strictly Prepaid. Prepaid credit can be uploaded by means of credit card or instant EFT. 
+                            All prices in this document and on the Izwi website exclude 15% VAT.</p>
                      </div>
                   </div>
                </div>
@@ -493,7 +497,7 @@
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
                      <p> <a class="c-button c-button--neutral"
-                        href="https://www.voys.co.za/contact/">Contact us</a></p>
+                        href="contact.aspx">Contact us</a></p>
                   </div>
                </div>
             </div>
@@ -516,7 +520,7 @@
 					</div>
 					<div class="col-md-3 mb-5">
 						<h3>Email us @</h3>
-						<p class="mb-5"><a href="mailto:info@bumbatechnos.co.za"><u>info@bumbatechnos.co.za</u></a></p>
+						<p class="mb-5"><a href="mailto:info@izwi.co.za"><u>info@izwi.co.za</u></a></p>
 
 					</div>
 					<div class="col-md-3 mb-5">
