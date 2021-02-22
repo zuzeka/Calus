@@ -12,7 +12,10 @@
     <link rel="stylesheet" href="assets/css/plugins.min.css" />
     <link rel="stylesheet" href="assets/css/style.min.css" />
 	<link rel="stylesheet" href="assets/css/style.css" />
-	<link href="assets/css/main.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
     
       <title>Make Payment | Izwi</title>
@@ -251,69 +254,82 @@
         </div>
     </div>
     <!-- Breadcrumb Section End -->
-
-	<form runat="server">
-		<div class="row">
-			<div class="col-75">
-				<div class="container">
-
-					<div class="row">
-						<div class="col-50">
-							<label for="fname"><i class="fa fa-user"></i>Full Name</label>
-							<div class="text">
-								<asp:TextBox ID="txtName" name="firstname" placeholder="John M." runat="server" Height="29px" Width="347px"></asp:TextBox>
-							</div>
-
-
-							<label for="fname"><i class="fa fa-user"></i>Last Name</label>
-							<div class="text">
-								<asp:TextBox ID="txtLastname" name="lastnName" placeholder="Doe" runat="server" Height="29px" Width="347px"></asp:TextBox>
-							</div>
-
-							<label for="email"><i class="fa fa-envelope"></i>Email</label>
-							<div class="text">
-								<asp:TextBox ID="txtEmail" name="email" placeholder="john@example.com" runat="server" Height="29px" Width="347px"></asp:TextBox>
-							</div>
-
-
-							<label for="email"><i class="fa fa-envelope"></i>Mobile Number</label>
-							<div class="text">
-								<asp:TextBox ID="txtContact" name="email" placeholder="0121252365" runat="server" Height="29px" Width="347px"></asp:TextBox>
-							</div>
-
-
-							<label for="city"><i class="fa fa-institution"></i>Amount</label>
-							<div class="text">
-								<asp:TextBox ID="txtAmount" name="amount" placeholder="102" runat="server" Height="29px" Width="347px"></asp:TextBox>
-							</div>
-
-						</div>
-                        
-		<input type="hidden" runat="server" id="MerchantId" name="MerchantId" value="51845085769" />
-		<input type="hidden" runat="server" id="NetcashServiceKey" name="NetcashServiceKey" value="64d20fb0-07f1-4e07-916e-de635520698b" />
-		<input type="hidden" runat="server" id="UseSandbox" name="UseSandbox" value="true" />
-		<input type="hidden" runat="server" id="AdditionalFee" name="AdditionalFee" value="0.0000" />
-		<input type="hidden" runat="server" id="AdditionalFeePercentage" name="AdditionalFeePercentage" value="true" />
-		<input type="hidden" runat="server" id="hash" name="hash" value="" />
-		<input type="hidden" runat="server" id="txnId" name="txnId" value="" />
-
-					</div>
-					<div class="row form-group">
-						<div class="col-md-12">
-							<asp:Label ID="lblMessage" ForeColor="Red" Font-Italic="true" runat="server" Text=""></asp:Label>
-						</div>
-					</div>
-					<div class="form-group">
-						<%--<asp:Button ID="btnSubmit" runat="server" Text="Pay Now" class="btn btn-primary" />--%>
-					&nbsp;
-						<asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Pay Now" class="btn btn-primary"/>
+    
+    <!-- About Section Start -->
+    <div class="section section-padding">
+		<div class="container">
+			<!-- About Image/Content Start -->
+			<div class="about-image-content-area">
+				<div class="row align-items-center mb-n6">
+					<div class="col-lg-6 order-lg-1 order-2 mb-6" data-aos="fade-up" data-aos-delay="300">
+						<h1 class="c-heading c-heading--50" style="color: #006EA1;">Proceed To Payment</h1>
 					</div>
 				</div>
 			</div>
-
 		</div>
-	</form>
-	
+		<form runat="server">
+			<div class="row">
+				<div class="col-75">
+					<div class="container">
+
+						<div class="row">
+							<div class="col-50">
+
+									<label for="firstName" style="font-size: larger; font-weight: bold;"><i class="fa fa-user"></i>Full Name</label>
+									<div style="width: 550px;">
+										<asp:TextBox ID="txtName" name="firstname" placeholder="John M." runat="server" Height="29px" Width="347px"></asp:TextBox>
+									</div>
+
+									<label for="lastName" style="font-size: larger; font-weight: bold;"><i class="fa fa-user"></i>Last Name</label>
+									<div style="width: 550px;">
+										<asp:TextBox ID="txtLastname" name="lastnName" placeholder="Doe" runat="server" Height="29px" Width="347px"></asp:TextBox>
+									</div>
+
+
+									<label for="email" style="font-size: larger; font-weight: bold;"><i class="fa fa-envelope"></i>Email</label>
+									<div style="width: 550px;">
+										<asp:TextBox ID="txtEmail" name="email" placeholder="john@example.com" runat="server" Height="29px" Width="347px"></asp:TextBox>
+									</div>
+
+
+									<label for="contact" style="font-size: larger; font-weight: bold;"><i class="fa fa-address-book"></i>Contact Number</label>
+									<div style="width: 550px;">
+										<asp:TextBox ID="txtContact" name="email" placeholder="0121252365" runat="server" Height="29px" Width="347px"></asp:TextBox>
+									</div>
+
+
+									<label for="amount" style="font-size: larger; font-weight: bold;"><i class="fa fa-bank"></i>Amount</label>
+									<div style="width: 550px;">
+										<asp:TextBox ID="txtAmount" name="amount" placeholder="102" runat="server" Height="29px" Width="347px"></asp:TextBox>
+									</div>
+
+							</div>
+
+							<input type="hidden" runat="server" id="MerchantId" name="MerchantId" value="51845085769" />
+							<input type="hidden" runat="server" id="NetcashServiceKey" name="NetcashServiceKey" value="64d20fb0-07f1-4e07-916e-de635520698b" />
+							<input type="hidden" runat="server" id="UseSandbox" name="UseSandbox" value="true" />
+							<input type="hidden" runat="server" id="AdditionalFee" name="AdditionalFee" value="0.0000" />
+							<input type="hidden" runat="server" id="AdditionalFeePercentage" name="AdditionalFeePercentage" value="true" />
+							<input type="hidden" runat="server" id="hash" name="hash" value="" />
+							<input type="hidden" runat="server" id="txnId" name="txnId" value="" />
+
+						</div>
+						<div class="row form-group">
+							<div class="col-md-12">
+								<asp:Label ID="lblMessage" ForeColor="Red" Font-Italic="true" runat="server" Text=""></asp:Label>
+							</div>
+						</div>
+						<div class="form-group">
+							<%--<asp:Button ID="btnSubmit" runat="server" Text="Pay Now" class="btn btn-primary" />--%>
+					&nbsp;
+						<asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Pay Now" class="btn btn-primary" />
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</form>
+	</div>
     
         <!-- Footer Top Start -->
 	<footer class="section single-footer" style="background-color: #f4f3f8">

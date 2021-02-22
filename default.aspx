@@ -251,14 +251,12 @@
                 </div>
                 <div class="hero-slide-item swiper-slide">
                     <div class="hero-slide-bg">
-                        <img src="assets/images/slider/slide-2.jpg" alt="" />
+                        <img src="assets/images/default/logo2.jpg" alt="" />
                     </div>
                     <div class="container">
                         <div class="hero-slide-content">
-                            <span class="sub-title">Best Construction Company</span>
-                            <h2 class="title"> Build Your <br /> Dream Home </h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sedlo eiusmod tempor incididunt ut labore et dolore.</p>
-                            <a href="contact.aspx" class="btn btn-primary btn-hover-light">Contact Us</a>
+                            <span class="sub-title">Best Telecommunication's Company</span>
+                            <h2 class="title">Make Your Dream Working <br />Environment.</h2>
                         </div>
                     </div>
                 </div>
