@@ -1,5 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true"  CodeBehind="tour.aspx.cs" Inherits="IzwiGitRepo._default" %>
-
+﻿
 <!DOCTYPE html>
 <html lang="en">
 
