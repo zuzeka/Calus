@@ -277,41 +277,33 @@
 
 									<label for="firstName" style="font-size: larger; font-weight: bold;"><i class="fa fa-user"></i>Full Name</label>
 									<div style="width: 550px;">
-										<asp:TextBox ID="txtName" name="firstname" placeholder="John M." runat="server" Height="29px" Width="347px"></asp:TextBox>
-									</div>
+										<asp:TextBox ID="txtName" CssClass="form-control" name="firstname" placeholder="John M." runat="server" Height="29px" Width="347px"></asp:TextBox>
+                                </div>
 
 									<label for="lastName" style="font-size: larger; font-weight: bold;"><i class="fa fa-user"></i>Last Name</label>
 									<div style="width: 550px;">
-										<asp:TextBox ID="txtLastname" name="lastnName" placeholder="Doe" runat="server" Height="29px" Width="347px"></asp:TextBox>
+										<asp:TextBox ID="txtLastname" CssClass="form-control" name="lastnName" placeholder="Doe" runat="server" Height="29px" Width="347px"></asp:TextBox>
 									</div>
 
 
 									<label for="email" style="font-size: larger; font-weight: bold;"><i class="fa fa-envelope"></i>Email</label>
 									<div style="width: 550px;">
-										<asp:TextBox ID="txtEmail" name="email" placeholder="john@example.com" runat="server" Height="29px" Width="347px"></asp:TextBox>
+										<asp:TextBox ID="txtEmail" CssClass="form-control" name="email" placeholder="john@example.com" runat="server" Height="29px" Width="347px"></asp:TextBox>
 									</div>
 
 
 									<label for="contact" style="font-size: larger; font-weight: bold;"><i class="fa fa-address-book"></i>Contact Number</label>
 									<div style="width: 550px;">
-										<asp:TextBox ID="txtContact" name="email" placeholder="0121252365" runat="server" Height="29px" Width="347px"></asp:TextBox>
+										<asp:TextBox ID="txtContact" CssClass="form-control" name="email" placeholder="0121252365" runat="server" Height="29px" Width="347px"></asp:TextBox>
 									</div>
 
 
 									<label for="amount" style="font-size: larger; font-weight: bold;"><i class="fa fa-bank"></i>Amount</label>
 									<div style="width: 550px;">
-										<asp:TextBox ID="txtAmount" name="amount" placeholder="102" runat="server" Height="29px" Width="347px"></asp:TextBox>
+										<asp:TextBox ID="txtAmount" CssClass="form-control" name="amount" placeholder="102" runat="server" Height="29px" Width="347px"></asp:TextBox>
 									</div>
 
 							</div>
-
-							<input type="hidden" runat="server" id="MerchantId" name="MerchantId" value="51845085769" />
-							<input type="hidden" runat="server" id="NetcashServiceKey" name="NetcashServiceKey" value="64d20fb0-07f1-4e07-916e-de635520698b" />
-							<input type="hidden" runat="server" id="UseSandbox" name="UseSandbox" value="true" />
-							<input type="hidden" runat="server" id="AdditionalFee" name="AdditionalFee" value="0.0000" />
-							<input type="hidden" runat="server" id="AdditionalFeePercentage" name="AdditionalFeePercentage" value="true" />
-							<input type="hidden" runat="server" id="hash" name="hash" value="" />
-							<input type="hidden" runat="server" id="txnId" name="txnId" value="" />
 
 						</div>
 						<div class="row form-group">
@@ -320,7 +312,6 @@
 							</div>
 						</div>
 						<div class="form-group">
-							<%--<asp:Button ID="btnSubmit" runat="server" Text="Pay Now" class="btn btn-primary" />--%>
 					&nbsp;
 						<asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Pay Now" class="btn btn-primary" />
 						</div>

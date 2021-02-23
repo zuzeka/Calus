@@ -2,6 +2,7 @@
 using System.Configuration;
 using System.Security.Cryptography;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
@@ -15,14 +16,16 @@ public partial class PayNow : System.Web.UI.Page
 	string _useSandbox = ConfigurationManager.AppSettings["UseSandbox"];
 	string _additionalFee = ConfigurationManager.AppSettings["AdditionalFee"];
 	string _additionalFeePercentage = ConfigurationManager.AppSettings["AdditionalFeePercentage"];
+	string _txnId = "";
+	string _hash = "";
 
 	protected void Page_Load(object sender, EventArgs e)
 	{
 		lblMessage.Text = "";
 
 		Random random = new Random();
-		txnId.Value = (Convert.ToString(random.Next(10000, 20000)));
-		txnId.Value = "BumbaTechnos " + txnId.Value.ToString();
+		_txnId = (Convert.ToString(random.Next(10000, 20000)));
+		_txnId = "BumbaTechnos " + _txnId.ToString();
 	}
 
 
@@ -93,11 +96,57 @@ public partial class PayNow : System.Web.UI.Page
 
 	protected void Button1_Click(object sender, EventArgs e)
 	{
+		Double amount = 0;
+		string emailPattern = @"^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$";
+		bool isEmailValid = Regex.IsMatch(txtEmail.Text, emailPattern);
 
-		Double amount = Convert.ToDouble(txtAmount.Text);
+		string text = _merchantId.ToString() + "|" + _serviceKey.ToString() + "|" + _useSandbox + "|" 
+			+ _additionalFee.ToString() + "|" + _additionalFeePercentage.ToString() + "|" + _txnId;
 
-		string text = MerchantId.Value.ToString() + "|" + NetcashServiceKey.Value.ToString() + "|" + UseSandbox.Value.ToString() + "|" 
-			+ AdditionalFee.Value.ToString() + "|" + AdditionalFeePercentage.Value.ToString() + "|" + txnId;
+		if (txtName.Text == "")
+		{
+			lblMessage.Text = "Please enter your valid name...";
+			txtName.Focus();
+			return;
+		}
+		else if (txtLastname.Text == "")
+		{
+			lblMessage.Text = "Please enter your valid last name...";
+			txtLastname.Focus();
+			return;
+		}
+		else if (txtEmail.Text == "" || !isEmailValid)
+		{
+			lblMessage.Text = "Please enter your valid email address...";
+			txtEmail.Focus();
+			return;
+		}
+		else if (txtContact.Text == "")
+		{
+			lblMessage.Text = "Please enter your valid contact number...";
+			txtContact.Focus();
+			return;
+		}
+		else if (txtAmount.Text == "")
+		{
+			lblMessage.Text = "Please enter valid amount...";
+			return;
+		}
+		else if (txtAmount.Text != "")
+		{
+			try
+			{
+				amount = Convert.ToDouble(txtAmount.Text);
+			}
+			catch (Exception ex)
+			{
+				lblMessage.Text = "Please enter valid amount...";
+				txtAmount.Focus();
+				return;
+				//Response.Redirect("PayNow.aspx");
+			}
+		}
+
 
 		byte[] message = Encoding.UTF8.GetBytes(text);
 		UnicodeEncoding UE = new UnicodeEncoding();
@@ -109,12 +158,12 @@ public partial class PayNow : System.Web.UI.Page
 		{
 			hex = string.Format("{0:x2}", x);
 		}
-		hash.Value = hex;
+		_hash = hex;
 
 		System.Collections.Hashtable data = new System.Collections.Hashtable();
-		data.Add("m1", NetcashServiceKey.Value.ToString());
+		data.Add("m1", _serviceKey.ToString());
 		data.Add("m2", _merchantId.ToString());
-		data.Add("p2", txnId.Value.ToString());
+		data.Add("p2", _txnId.ToString());
 		data.Add("p3", "Order #0");
 		data.Add("p4", txtAmount.Text.ToString());
 		data.Add("Budget", "N");
