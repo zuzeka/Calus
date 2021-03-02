@@ -12,11 +12,20 @@
     <link rel="stylesheet" href="assets/css/plugins.min.css" />
     <link rel="stylesheet" href="assets/css/style.min.css" />
 	<link rel="stylesheet" href="assets/css/style.css" />
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <style>
 
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .col-25, .col-75, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+</style>
     
       <title>Make Payment | Izwi</title>
 
@@ -268,44 +277,46 @@
 			</div>
 		</div>
 		<form runat="server">
-			<div class="row">
-				<div class="col-75">
 					<div class="container">
-
-						<div class="row">
-							<div class="col-50">
+                <div class="col mb-6">
 
 									<label for="firstName" style="font-size: larger; font-weight: bold;"><i class="fa fa-user"></i>Full Name</label>
-									<div style="width: 550px;">
+									<div>
 										<asp:TextBox ID="txtName" CssClass="form-control" name="firstname" placeholder="John M." runat="server" Height="29px" Width="347px"></asp:TextBox>
                                 </div>
-
+                                </div>
+                            
+                <div class="col mb-6">
 									<label for="lastName" style="font-size: larger; font-weight: bold;"><i class="fa fa-user"></i>Last Name</label>
-									<div style="width: 550px;">
+									<div>
 										<asp:TextBox ID="txtLastname" CssClass="form-control" name="lastnName" placeholder="Doe" runat="server" Height="29px" Width="347px"></asp:TextBox>
 									</div>
 
-
+                    </div>
+                            
+                <div class="col mb-6">
 									<label for="email" style="font-size: larger; font-weight: bold;"><i class="fa fa-envelope"></i>Email</label>
-									<div style="width: 550px;">
+									<div>
 										<asp:TextBox ID="txtEmail" CssClass="form-control" name="email" placeholder="john@example.com" runat="server" Height="29px" Width="347px"></asp:TextBox>
 									</div>
-
+                    </div>
+                            
+                <div class="col mb-6">
 
 									<label for="contact" style="font-size: larger; font-weight: bold;"><i class="fa fa-address-book"></i>Contact Number</label>
-									<div style="width: 550px;">
+									<div>
 										<asp:TextBox ID="txtContact" CssClass="form-control" name="email" placeholder="0121252365" runat="server" Height="29px" Width="347px"></asp:TextBox>
 									</div>
-
+                    </div>
+                            
+                <div class="col mb-6">
 
 									<label for="amount" style="font-size: larger; font-weight: bold;"><i class="fa fa-bank"></i>Amount</label>
-									<div style="width: 550px;">
+									<div>
 										<asp:TextBox ID="txtAmount" CssClass="form-control" name="amount" placeholder="102" runat="server" Height="29px" Width="347px"></asp:TextBox>
 									</div>
 
 							</div>
-
-						</div>
 						<div class="row form-group">
 							<div class="col-md-12">
 								<asp:Label ID="lblMessage" ForeColor="Red" Font-Italic="true" runat="server" Text=""></asp:Label>
@@ -315,8 +326,6 @@
 					&nbsp;
 						<asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Pay Now" class="btn btn-primary" />
 						</div>
-					</div>
-				</div>
 
 			</div>
 		</form>

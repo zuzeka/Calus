@@ -5,14 +5,13 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Izwi - Cloud Telecoms</title>
-
+    
     <!-- Favicons -->
-    <link rel="shortcut icon" href="assets/images/favicon.ico">
     <link rel="stylesheet" href="assets/css/vendor.min.css">
     <link rel="stylesheet" href="assets/css/plugins.min.css">
     <link rel="stylesheet" href="assets/css/style.min.css">
-
-
+	<link rel="stylesheet" href="assets/css/style.css">
+	   <link href="assets/css/main.css" rel="stylesheet" /> 
 </head>
 
 <body>
@@ -127,6 +126,7 @@
         </div>
         <!-- Header Bottom End -->
         
+        
         <!-- Mobile Menu Start -->
         <div class="mobile-menu-wrapper">
             <div class="body-overlay"></div>
@@ -206,6 +206,7 @@
         </div>
         <!-- Mobile Menu End -->
 
+
         <!-- Offcanvas Search Start -->
         <div class="offcanvas-search">
             <!-- Offcanvas Search Inner Start -->
@@ -272,7 +273,7 @@
                     <div class="col-lg-6 order-lg-1 order-2 mb-6" data-aos="fade-up" data-aos-delay="300">
                         <!-- About Content Start -->
                         <div class="about-content-area">
-							<p class="" style="padding-top: 80px; font-weight: 700; font-size:larger;">Benefits of switching to VoIP include</p>
+							<p class="" style="font-weight: 700; font-size:larger;">Benefits of switching to VoIP include</p>
 							<ul style="font-size:larger;">
 										<li>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#006ea1" class="bi bi-circle-fill" viewBox="0 0 16 16">
@@ -373,13 +374,12 @@
                     </div>
                     <!-- Single Team member End -->
                 </div>
-
+                
                 <div class="col mb-6">
                     <!-- Single Team member Start -->
                     <div class="single-team-member" data-aos="fade-up" data-aos-delay="300">
                         <!-- Team Member Images Start -->
-                        
-                        <div class="">
+                        <div class="team-member-image">
                             <img src="assets/images/voip/3.jpg" alt="Team Member">
                         </div>
                         <!-- Team Member Images End -->
@@ -470,12 +470,15 @@
 		</div>
 	</footer>
         <!-- Footer Bottom End -->
+    
 
     <!-- Scroll Top Start -->
     <a href="#" class="scroll-top" id="scroll-top">
         <i class="arrow-top fa fa-long-arrow-up"></i>
         <i class="arrow-bottom fa fa-long-arrow-up"></i>
     </a>
+    <!-- Scroll Top End -->
+
 
 
     <script src="assets/js/vendor.min.js"></script>
@@ -485,6 +488,7 @@
 
     <!--Main JS-->
     <script src="assets/js/main.js"></script>
+      <script defer src="https://www.voys.co.za/wp-content/cache/autoptimize/autoptimize_36f12dcff73e51a06541db68853ac53f.php"></script>
 </body>
 
 </html>
