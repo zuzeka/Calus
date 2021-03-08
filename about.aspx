@@ -442,24 +442,24 @@
                </div>
             </div>
          </div>
-         <div class="c-layout__row  c-layout__row--primary">
+         <div class="c-layout__row  c-layout" style="background-color:#006EA1;">
             <div class="c-layout__container u-text-align-center">
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
-                     <h2 class="c-heading c-heading--50">Like what you hear? Let's do business!</h2>
+                     <h2 class="c-heading c-heading--50" style="color:#ffffff;">Like what you hear? Let's do business!</h2>
                   </div>
                </div>
                <div class="c-grid c-grid--single">
                   <div class="c-grid__item">
-                     <div class="u-content">
+                     <div class="u-content" style="color:#ffffff;">
                         <p>Freedom = optimally available, save money and maximum flexibility. You&#8217;re in good company along with over 10,000 other businesses.</p>
                      </div>
                   </div>
                </div>
                <div class="c-grid c-grid--single">
-                  <div class="c-grid__item">
+                  <div class="c-grid__item">&nbsp
                      <p> <a class="c-button c-button--neutral"
-                        href="request-a-quote.apsx">Yes, I want to receive a quote</a></p>
+                        href="request-a-quote.aspx">Yes, I want to receive a quote</a></p>
                   </div>
                </div>
             </div>

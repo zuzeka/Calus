@@ -6,12 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Izwi - Cloud Telecoms</title>
     
-    <!-- Favicons -->
-    <link rel="stylesheet" href="assets/css/vendor.min.css">
-    <link rel="stylesheet" href="assets/css/plugins.min.css">
-    <link rel="stylesheet" href="assets/css/style.min.css">
-	<link rel="stylesheet" href="assets/css/style.css">
-	   <link href="assets/css/main.css" rel="stylesheet" /> 
+    <link rel="shortcut icon" href="assets/images/favicon.ico">
+    
+    <link rel="stylesheet" href="assets/css/vendor.min.css" />
+    <link rel="stylesheet" href="assets/css/plugins.min.css" />
+    <link rel="stylesheet" href="assets/css/style.min.css" />
+	<link rel="stylesheet" href="assets/css/style.css" />
+	<link href="assets/css/main.css" rel="stylesheet" />
 </head>
 
 <body>
@@ -233,7 +234,7 @@
     <!-- Header Section End -->
 
     <!-- Breadcrumb Section Start -->
-    <div class="section breadcrumb-voip">
+    <div class="section breadcrumb-voip" style="background-color:#006EA1;">
         <div class="container" >
             <div class="row">
                 <div class="col-12">
@@ -488,7 +489,6 @@
 
     <!--Main JS-->
     <script src="assets/js/main.js"></script>
-      <script defer src="https://www.voys.co.za/wp-content/cache/autoptimize/autoptimize_36f12dcff73e51a06541db68853ac53f.php"></script>
 </body>
 
 </html>

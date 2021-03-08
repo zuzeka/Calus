@@ -20,7 +20,7 @@ public partial class _default : System.Web.UI.Page
     {
         try
         {
-            string responseMsg = "Failed to send mail to Moche Attorneys, Kindly send a direct email to info@mocheattorneys.co.za. Apologies for the inconvinience.";
+            string responseMsg = "Failed to send mail to Izwi, Kindly send a direct email to info@izwi.co.za. Apologies for the inconvinience.";
 
             if (email.Length > 0)
             {
@@ -38,10 +38,10 @@ public partial class _default : System.Web.UI.Page
 
                 if (mail.sendEmail(mailRequest))
                 {
-                    responseMsg = "Your request has been sent to Moche Attorneys";
+                    responseMsg = "Your request has been sent to Izwi";
                     if (mail.sendClientEmail(mailRequest))
                     {
-                        responseMsg = string.Format("Your request has been sent to Moche Attorneys, a copy of the mail has been sent to {0}. Thank You", mailRequest.email);
+                        responseMsg = string.Format("Your request has been sent to Izwi, a copy of the mail has been sent to {0}. Thank You", mailRequest.email);
                     }
                 }
             }
