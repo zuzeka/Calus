@@ -37,14 +37,24 @@ public class clsSendMail
             SmtpClient smtpServer = new SmtpClient();
 
             //Mail To in Izwi
-            MailMessage mail = new MailMessage();
-            mail.Priority = MailPriority.High;
-            mail.From = new MailAddress("accounts@izwicloudtelecoms.co.za");
-            mail.To.Add(emailRequest.email);
-            mail.Subject = emailRequest.subject + " - " + emailRequest.firstname.ToUpper();
-            mail.Body = emailBodyTemplate;
-            mail.IsBodyHtml = true;
-            smtpServer.Send(mail);
+            //MailMessage mail = new MailMessage();
+            //mail.Priority = MailPriority.High;
+            //mail.From = new MailAddress("accounts@izwicloudtelecoms.co.za");
+            //mail.To.Add(emailRequest.email);
+            //mail.Subject = emailRequest.subject + " - " + emailRequest.firstname.ToUpper();
+            //mail.Body = emailBodyTemplate;
+            //mail.IsBodyHtml = true;
+            //smtpServer.Send(mail);
+
+            MailMessage message = new MailMessage(
+            "accounts@izwicloudtelecoms.co.za",
+            emailRequest.email,
+            emailRequest.subject + " - " + emailRequest.firstname.ToUpper(),
+            emailBodyTemplate);
+            message.IsBodyHtml = true;
+            message.Priority = MailPriority.High;
+
+            smtpServer.Send(message);
 
             isEmailSent = true;
         }
@@ -76,15 +86,26 @@ public class clsSendMail
             SmtpClient smtpServer = new SmtpClient();
 
             //Mail To
-            MailMessage mail = new MailMessage();
-            mail.Priority = MailPriority.High;
-            mail.From = new MailAddress(emailRequest.email);
-            mail.To.Add("accounts@izwicloudtelecoms.co.za");
-            mail.CC.Add("bongani@bumbatechnos.co.za");
-            mail.Subject = emailRequest.subject + " - " + emailRequest.firstname.ToUpper();
-            mail.Body = emailBodyTemplate;
-            mail.IsBodyHtml = true;
-            smtpServer.Send(mail);
+            //MailMessage mail = new MailMessage();
+            //mail.Priority = MailPriority.High;
+            //mail.From = new MailAddress(emailRequest.email);
+            //mail.To.Add("accounts@izwicloudtelecoms.co.za");
+            ////mail.CC.Add("bongani@bumbatechnos.co.za");
+            //mail.Subject = emailRequest.subject + " - " + emailRequest.firstname.ToUpper();
+            //mail.Body = emailBodyTemplate;
+            //mail.IsBodyHtml = true;
+
+            MailMessage message = new MailMessage(
+            "accounts@izwicloudtelecoms.co.za",
+            "accounts@izwicloudtelecoms.co.za",
+            emailRequest.subject + " - " + emailRequest.firstname.ToUpper(),
+            emailBodyTemplate);
+            message.IsBodyHtml = true;
+            message.Priority = MailPriority.High;
+
+            smtpServer.Send(message);
+
+            //smtpServer.Send(mail);
 
             isEmailSent = true;
         }

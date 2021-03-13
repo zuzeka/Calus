@@ -352,8 +352,7 @@
                             </div>
 						</div>
                                 <div class="col-12" data-aos="fade-up" data-aos-delay="600">
-                                    <button class="btn btn-primary btn-hover" >Send Message</button>
-                            <asp:Button ID="btnSubmit" runat="server" Text="Submit" class="btn btn-primary" />
+                            <asp:Button ID="btnSubmit" runat="server" Text="Send Message" class="btn btn-primary" />
                                 </div>
                             </div>
                         </form>
