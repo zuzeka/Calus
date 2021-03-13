@@ -1,4 +1,7 @@
-﻿<!DOCTYPE html>
+﻿
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="contact.aspx.cs" Inherits="contact" %>
+
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -30,7 +33,7 @@
                     <div class="col-lg-8 col-md-12">
                         <ul class="header-top-links">
                             <li><i class="fa fa-phone"></i><a href="tel:+27121104017"> +27 12 110 4017</a></li>
-                            <li><i class="fa fa-envelope-o"></i><a href="mailto:info@izwicloudtelecoms.co.za"> info@izwicloudtelecoms.co.za</a></li>
+                            <li><i class="fa fa-envelope-o"></i><a href="mailto:accounts@izwicloudtelecoms.co.za"> accounts@izwicloudtelecoms.co.za</a></li>
                             <li><i class="fa fa-clock-o"></i> <span>Monday - Friday 8.00 - 17.00</span> </li>
                         </ul>
                     </div>
@@ -323,22 +326,34 @@
                     <h5  style="color:#006ea1;">Submit an enquiry</h5>
                     </div>
                     <div class="contact-form">
-                        <form action="assets/php/terbay.php" id="contact-form" method="post">
+                        <form runat="server">
                             <div class="row">
                                 <div class="col-md-6 col-12 mb-6" data-aos="fade-right" data-aos-delay="300">
-                                    <input class="input-item" type="text" placeholder="Your Name *" name="name">
+                                    <input id="txtName" class="input-item" type="text" placeholder="Your Name *" name="name">
                                 </div>
                                 <div class="col-md-6 col-12 mb-6" data-aos="fade-left" data-aos-delay="300">
-                                    <input class="input-item" type="email" placeholder="Email *" name="email">
+                                    <input id="txtLastname" class="input-item" type="email" placeholder="Your Last Name *" name="email">
+                                </div>
+                                <div class="col-md-6 col-12 mb-6" data-aos="fade-right" data-aos-delay="300">
+                                    <input id="txtContact" class="input-item" type="text" placeholder="Your Contact Number *" name="name">
+                                </div>
+                                <div class="col-md-6 col-12 mb-6" data-aos="fade-left" data-aos-delay="300">
+                                    <input id="txtEmail" class="input-item" type="email" placeholder="Email *" name="email">
                                 </div>
                                 <div class="col-12 mb-6" data-aos="fade-up" data-aos-delay="400">
-                                    <input class="input-item" type="text" placeholder="Subject *" name="subject">
+                                    <input id="ddlSubject" class="input-item" type="text" placeholder="Subject *" name="subject">
                                 </div>
                                 <div class="col-12 mb-6" data-aos="fade-up" data-aos-delay="500">
-                                    <textarea class="textarea-item" name="message" placeholder="Message"></textarea>
+                                    <textarea id="txtMessage" class="textarea-item" name="message" placeholder="Message"></textarea>
                                 </div>
+                        <div class="row form-group">
+							<div class="col-md-12">
+                                <asp:Label ID="lblMessage" ForeColor="Red" Font-Italic="true" runat="server" Text=""></asp:Label>
+                            </div>
+						</div>
                                 <div class="col-12" data-aos="fade-up" data-aos-delay="600">
-                                    <button class="btn btn-primary btn-hover">Send Message</button>
+                                    <button class="btn btn-primary btn-hover" >Send Message</button>
+                            <asp:Button ID="btnSubmit" runat="server" Text="Submit" class="btn btn-primary" />
                                 </div>
                             </div>
                         </form>
@@ -446,12 +461,12 @@
 		//click event for first button 
 		$('#btnSubmit').click(function (e) {
 
-			e.preventDefault();
-			var googleResponse = grecaptcha.getResponse();
-			if (googleResponse.length === 0) {
-				$('#lblMessage').val('*Please verify the recaptcha*');
-			}
-			else {
+			//e.preventDefault();
+			//var googleResponse = grecaptcha.getResponse();
+			//if (googleResponse.length === 0) {
+			//	$('#lblMessage').val('*Please verify the recaptcha*');
+			//}
+			//else {
 
 				//Reqular Expressions
 				var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
@@ -516,10 +531,11 @@
 
 							$('#lblMessage').text(msg.d);
 							$('#txtName').val('');
+							$('#txtLastname').val('');
 							$('#txtEmail').val('');
 							$('#txtContact').val('');
 							$('#txtMessage').val('');
-							$('#ddlSubject').val('-1');
+							$('#ddlSubject').val('');
 							$('#txtMessage').val('');
 						},
 						error: function (type) {
@@ -531,7 +547,7 @@
 					e.preventDefault(); // same thing as above
 				}
 
-			}
+			//}
 
 		});
 

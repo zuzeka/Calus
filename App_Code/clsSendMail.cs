@@ -36,10 +36,10 @@ public class clsSendMail
 
             SmtpClient smtpServer = new SmtpClient();
 
-            //Mail To Calus Projects
+            //Mail To in Izwi
             MailMessage mail = new MailMessage();
             mail.Priority = MailPriority.High;
-            mail.From = new MailAddress("info@izwi.co.za");
+            mail.From = new MailAddress("accounts@izwicloudtelecoms.co.za");
             mail.To.Add(emailRequest.email);
             mail.Subject = emailRequest.subject + " - " + emailRequest.firstname.ToUpper();
             mail.Body = emailBodyTemplate;
@@ -53,13 +53,13 @@ public class clsSendMail
 
     
     /// <summary>
-    /// Send email notification to Musrin - Party Bus Team
+    /// Send email notification
     /// </summary>
     /// <param name="emailRequest"></param>
     /// <returns></returns>
     public bool sendEmail(EmailRequest emailRequest)
     {      
-        path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"EmailTemplates\MocheAttorneys.html");
+        path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"EmailTemplates\Izwi.html");
         bool isEmailSent = false;
 
         if (emailRequest.email.Length > 0)
@@ -75,13 +75,12 @@ public class clsSendMail
 
             SmtpClient smtpServer = new SmtpClient();
 
-            //Mail To WaMasango
+            //Mail To
             MailMessage mail = new MailMessage();
             mail.Priority = MailPriority.High;
             mail.From = new MailAddress(emailRequest.email);
-            mail.To.Add("info@izwi.co.za");
-            mail.To.Add("info@bumbatechnos.co.za");
-            //mail.CC.Add("Bongani@izwi.co.za");
+            mail.To.Add("accounts@izwicloudtelecoms.co.za");
+            mail.CC.Add("bongani@bumbatechnos.co.za");
             mail.Subject = emailRequest.subject + " - " + emailRequest.firstname.ToUpper();
             mail.Body = emailBodyTemplate;
             mail.IsBodyHtml = true;

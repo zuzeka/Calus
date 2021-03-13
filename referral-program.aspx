@@ -93,7 +93,7 @@
                     <div class="col-lg-8 col-md-12">
                         <ul class="header-top-links">
                             <li><i class="fa fa-phone"></i><a href="tel:+27121104017"> +27 12 110 4017</a></li>
-                            <li><i class="fa fa-envelope-o"></i><a href="mailto:info@izwicloudtelecoms.co.za"> info@izwicloudtelecoms.co.za</a></li>
+                            <li><i class="fa fa-envelope-o"></i><a href="mailto:accounts@izwicloudtelecoms.co.za"> accounts@izwicloudtelecoms.co.za</a></li>
                             <li><i class="fa fa-clock-o"></i> <span>Monday - Friday 8.00 - 17.00</span> </li>
                         </ul>
                     </div>
